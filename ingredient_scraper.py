@@ -39,6 +39,8 @@ for item in recipeLinks:
 	browser.get(item)
 	elements = browser.find_elements_by_xpath('//div[@class="ingred-left"]/ul/li/label/p/span[@class="ingredient-name"]')
 
+	# Try-except is necessary because the pages are partially loaded through JS and selenium may not wait until a
+	# page is finished loading before attempting to find elements.
 	try:
 		for element in elements:
 			current = element.text.lower()
