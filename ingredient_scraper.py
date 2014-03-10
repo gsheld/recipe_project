@@ -1,5 +1,5 @@
 from selenium import webdriver
-import sys, re, string, nltk
+import string, cPickle
 
 browser = webdriver.Chrome('./chromedriver') # Make sure chromedriver is in same directory as this script
 
@@ -55,6 +55,9 @@ for item in recipeLinks:
 
 browser.close()
 
-print '***************************'
+file = open('ingredients.txt', 'w')
 for key in ingredientMap.keys():
-	print key
+	file.write(key.encode('utf8'))
+	file.write('\n')
+
+file.close()
