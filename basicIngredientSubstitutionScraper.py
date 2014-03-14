@@ -10,6 +10,7 @@ import re
 import sys
 import string
 from itertools import cycle
+from pprint import pprint
 
 def getSubstitutionInfo():
 	
@@ -28,6 +29,8 @@ def getSubstitutionInfo():
 	collector = re.split('>|<', pg_src)
 	my_iter = cycle(collector)
 	substitutions = {}
+	sub = {}
+	valFlag = -1
 	flag = 0
 	tablecount = 0
 	trcount = 0
@@ -58,33 +61,55 @@ def getSubstitutionInfo():
 				#print "\n",
 				#raw_input("Press Enter to continue...")
 			if re.match('[^0-9]', temp) != None and re.match('[A-Z]+', temp) == None:
-				print "\n", 
+				#print "\n", 
 				#parent=",parent,'<<'
 				if len(parent) > 0:
-					temp = parent[0] + temp 
+					if string.find(temp, '\xc2') > -1:
+						holder = string.replace(temp, '\xc2', '')
+						final = string.replace(holder, '\xa0', '')
+						temp = parent[0] + ' ' + final
+					else:
+						temp = parent[0] + temp
 					#re.sub('^\s[a-z]+', ' [a-z]+', temp)
 				#print 'updated temp=',temp,'<-'
 			if i % 2 == 0 and len(temp) > 0:
 				#re.match('\s', item.lstrip()) == None and re.match('[^a-z]', item) != None:
 				#print('| ', info, ' |'),
-				sys.stdout.write('| ')
-				sys.stdout.write(temp)
-				sys.stdout.write(' |')
+				#sys.stdout.write('| ')
+				if not re.match(r'[0-9]', temp):
+					if valFlag > 0:
+						substitutions[key] = sub
+					valFlag = 0
+					key = temp
+					sub = {}
+				elif re.match(r'[0-9]', temp) and valFlag == 0:
+					sub['amount'] = temp
+					valFlag += 1
+				else:
+					#possibilities = string.split(temp, ';')
+					#for option in possibilities:
+					#	if len(option) > 2:
+					localKey = 'alternate #' + str(valFlag)
+					sub[localKey] = temp
+					valFlag += 1
+				#sys.stdout.write(temp)
+				#sys.stdout.write(' |')
 				#print 
 				#j += 1
 			i += 1
 			#print item
 				#j = 0
 			if "colspan" in item:
-				break
+				return substitutions
 	
 
 ### The main function is just to call the function that does everything and gets the data ###
 
 def main():
-    getSubstitutionInfo()
+	pprint(getSubstitutionInfo())
+	
 
 if __name__ == "__main__":
-    main()
+	main()
 
 
