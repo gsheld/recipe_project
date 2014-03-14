@@ -2209,7 +2209,6 @@ ground cloves
 ground nutmeg
 ground turmeric
 curry powder
-
 butter
 sweet onion, chopped
 finely shredded kale
