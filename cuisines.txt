@@ -1,63 +1,63 @@
-Ainu cuisine
-Akan cuisine
-Arab cuisine
-Assyrian cuisine
-Berber cuisine
-Buddhist cuisine
-Chinese Islamic cuisine
-Inuit cuisine
-Italian American cuisine
-Jewish cuisine
-Cuisine of the Sephardic Jews
-Cuisine of the Mizrahi Jews
-Bukharan Jewish cuisine
-Kurdish cuisine
-Maharashtrian cuisine
-Mordovian cuisine
-Native American cuisine
-Parsi cuisine
-Pennsylvania Dutch cuisine
-Peranakan cuisine
-Sami cuisine
-Tatar cuisine
-Fusion cuisine
-Haute cuisine
-Nouvelle cuisine
-Vegan cuisine
-Vegetarian cuisine
-Alien Cuisine
-American Cuisine
-Ancient Cuisine
-Breakfast Cuisine
-British Cuisine
-Cafe Kiosk Cuisine
-Chinese Cuisine
-Dessert Cuisine
-Fantasy Cuisine
-Fast Food Cuisine
-Filipino Cuisine
-French Cuisine
-Indian Cuisine
-Irish Cuisine
-Italian Cuisine
-Japanese Cuisine
-Mexican Cuisine
-Pasta Maker Cuisine
-Royal Shield Cuisine
-Sandwich Counter Cuisine
-Seafood Cuisine
-Thai Cuisine
-Vegetarian Cuisine
-VIP Cuisine
-BBQ Grill Cuisine
-Bread Oven Cuisine
-Chocolate Station Cuisine
-Deep Fryer Cuisine
-Fondue Station Cuisine
-Hot Dog Cart Cuisine
-Pastry Station Cuisine
-Pizza Oven Cuisine
-Slow Cooker Cuisine
-Soup Station Cuisine
-Sushi Station Cuisine
-Toaster Oven Cuisine
+ainu cuisine
+akan cuisine
+arab cuisine
+assyrian cuisine
+berber cuisine
+buddhist cuisine
+chinese islamic cuisine
+inuit cuisine
+italian american cuisine
+jewish cuisine
+cuisine of the sephardic jews
+cuisine of the mizrahi jews
+bukharan jewish cuisine
+kurdish cuisine
+maharashtrian cuisine
+mordovian cuisine
+native american cuisine
+parsi cuisine
+pennsylvania dutch cuisine
+peranakan cuisine
+sami cuisine
+tatar cuisine
+fusion cuisine
+haute cuisine
+nouvelle cuisine
+vegan cuisine
+vegetarian cuisine
+alien cuisine
+american cuisine
+ancient cuisine
+breakfast cuisine
+british cuisine
+cafe kiosk cuisine
+chinese cuisine
+dessert cuisine
+fantasy cuisine
+fast food cuisine
+filipino cuisine
+french cuisine
+indian cuisine
+irish cuisine
+italian cuisine
+japanese cuisine
+mexican cuisine
+pasta maker cuisine
+royal shield cuisine
+sandwich counter cuisine
+seafood cuisine
+thai cuisine
+vegetarian cuisine
+vip cuisine
+bbq grill cuisine
+bread oven cuisine
+chocolate station cuisine
+deep fryer cuisine
+fondue station cuisine
+hot dog cart cuisine
+pastry station cuisine
+pizza oven cuisine
+slow cooker cuisine
+soup station cuisine
+sushi station cuisine
+toaster oven cuisine

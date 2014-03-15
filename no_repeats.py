@@ -10,7 +10,6 @@ myMap = {}
 for line in fileIn:
 	if not myMap.has_key(line):
 		myMap[line] = True;
-		fileOut.write(line)
 
 fileIn.close()
 fileOut.close()
