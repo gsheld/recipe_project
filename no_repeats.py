@@ -1,10 +1,14 @@
 import sys
 
 arguments = sys.argv # Command line arguments
-file = open(arguments[1], 'r')
- # = open(arguments[1] + '1', 'w')
+fileIn = open(arguments[1], 'r')
+fileOut = open(arguments[2], 'w')
 myMap = {}
 
-for line in file:
+for line in fileIn:
 	if not myMap.has_key(line):
 		myMap[line] = True;
+		fileOut.write(line)
+
+fileIn.close()
+fileOut.close()

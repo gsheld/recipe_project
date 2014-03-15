@@ -5,10 +5,10 @@ from selenium import webdriver
 import string, time
 
 browser = webdriver.Chrome('./chromedriver') # Make sure chromedriver is in same directory as this script
-file = open('ingredients.txt', 'r+')
+theFile = open('ingredients.txt', 'r+')
 ingredientsMap = {}
 
-for line in file:
+for line in theFile:
 	ingredientsMap[line] = True
 
 # Put logic here for adding to file #
@@ -41,12 +41,12 @@ for item in recipeLinks:
 				current = element.text.lower()
 				if not ingredientsMap.has_key(current):
 					ingredientsMap[current] = True
-					file.write('\n')
-					file.write(current.encode('utf8'))
+					theFile.write('\n')
+					theFile.write(current.encode('utf8'))
 		except Exception:
 			elements = browser.find_elements_by_xpath('//div[@class="ingred-left"]/ul/li/label/p/span[@class="ingredient-name"]')
 			continue
 		break
 
 browser.close()
-file.close()
+theFile.close()
