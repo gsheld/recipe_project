@@ -1,3 +1,5 @@
+# This will remove any repeats in whatever lists you've created. Enjoy!
+
 import sys
 
 arguments = sys.argv # Command line arguments
