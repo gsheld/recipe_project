@@ -12,7 +12,7 @@ browser = webdriver.Chrome('./chromedriver') # Make sure chromedriver is in same
 ingredientMap = {}
 ingredientDB_1 = 'http://www.food.com/library/all.zsp'
 ingredientDB_2 = 'http://allrecipes.com/recipes/main.aspx?vm=l&evt19=1&p34=HR_ListView#recipes'
-file = open('/text_files/ingredients.txt', 'w')
+file = open('./text_files/ingredients.txt', 'w')
 
 # Pulling from ingredientDB_1 #
 browser.get(ingredientDB_1)
