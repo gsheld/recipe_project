@@ -28,7 +28,7 @@ count = 0
 for url in urlFile:
 
 	count += 1
-	if count == 19579:
+	if count == 33530:
 		should_I_Start = True
 
 	if not should_I_Start:
