@@ -3,7 +3,7 @@ from RecipeObject import RecipeObject
 import cPickle
 
 browser = webdriver.Chrome('./chromedriver') # Make sure chromedriver is in same directory as this script
-urlFile = open('recipe_urls.txt','r')
+urlFile = open('/text_files/recipe_urls.txt','r')
 output = open('database.pkl', 'wb')
 database = []
 

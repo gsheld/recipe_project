@@ -5,7 +5,7 @@ from selenium import webdriver
 import string, time
 
 browser = webdriver.Chrome('./chromedriver') # Make sure chromedriver is in same directory as this script
-theFile = open('ingredients.txt', 'r+')
+theFile = open('/text_files/ingredients.txt', 'r+')
 ingredientsMap = {}
 
 for line in theFile:
