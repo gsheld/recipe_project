@@ -16,10 +16,9 @@ mexican
 allerginic
 hypo-allergenic
 kid meals
-
 vegetarian
 vegan
+healthy
 
 spice
 fats/oils
-healthy
