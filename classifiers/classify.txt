@@ -5,6 +5,8 @@ meat
 protein
 fruit
 vegetables
+grain
+dairy
 ----------
 filipino
 american
@@ -18,8 +20,6 @@ kid meals
 vegetarian
 vegan
 
-grain
 spice
 fats/oils
-dairy
 healthy

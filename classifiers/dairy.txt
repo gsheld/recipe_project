@@ -1,0 +1,508 @@
+﻿Acidophilus Milk
+Ammonium Caseinate
+Butter
+Butter Fat
+Butter Oil
+Butter Solids
+Buttermilk
+Buttermilk Powder
+Calcium Caseinate
+Casein
+Caseinate 
+Cheese
+Condensed Milk
+Cottage Cheese
+Cream
+Curds
+Custard
+Delactosed Whey
+Demineralized Whey
+Dry Milk Powder
+Dry Milk Solids
+Evaporated Milk
+Ghee (see p109)
+Goat Milk
+Half & Half
+Hydrolyzed Casein
+Hydrolyzed Milk Protein
+Iron Caseinate
+Lactalbumin
+Lactoferrin
+Lactoglobulin
+Lactose
+Lactulose
+Low-Fat Milk
+Magnesium Caseinate
+Malted Milk
+Milk
+Milk Derivative
+Milk Fat
+Milk Powder
+Milk Protein
+Milk Solids
+Natural Butter Flavor
+Nonfat Milk
+Nougat
+Paneer
+Potassium Caseinate
+Pudding
+Recaldent
+Rennet Casein
+Skim Milk
+Sodium Caseinate
+Sour Cream
+Sour Milk Solids
+Sweetened Condensed Milk
+Sweet Whey
+Whey
+Whey Powder
+Whey Protein Concentrate
+Whey Protein Hydrolysate
+Whipped Cream
+Whipped Topping
+Whole Milk
+Yogurt
+Zinc Caseinate
+Whole Milk
+2% Fat Milk
+Low Fat Milk
+Fat-Free Milk
+Whole Lactose Reduced Milk
+2% Fat  Lactose Reduced Milk
+Fat-Free  Lactose Reduced Milk
+Whole Lactose-Free Milk
+2% Fat  Lactose-Free Milk
+Fat-Free  Lactose-Free Milk
+Powdered (Dry) Milk 
+Nonfat Powdered (Dry) Milk
+Evaporated Milk
+Skimmed (nonfat) Evaporated Milk
+Chocolate Flavored Milk
+Strawberry Flavored Milk
+Cheddar
+Mozzarella
+Swiss
+Parmesan
+Ricotta
+Cottage Cheese
+American cheese
+Whole Milk Yogurt
+Low Fat Yogurt
+Fat-Free Yogurt
+Whole Milk Fruit Yogurt
+Low Fat Fruit Yogurt
+Fat-Free Fruit Yogurt
+Greek Plain Yogurt
+Greek Low Fat Yogurt
+Greek Nonfat Yogurt
+Drinkable Yogurt
+Lowfat Drinkable Yogurt
+Whole Milk Puddings
+2%  Milk Puddings
+Ice milk
+Frozen Yogurt
+Lowfat Frozen Yogurt
+ice Cream
+Low Fat ice Cream
+American cheese
+American cheese food
+American pasteurized process cheese food
+American Swiss cheese
+baby Gouda
+baker's cheese
+Bavarian blue
+Bavarian Swiss cheese
+Beaufort
+Beaumont cheese
+beer cheese
+beer kaese
+Bel Paese
+bierkaese
+bierkäse
+Bleu d'Auvergne
+Bleu de Bresse
+Bleu de Chevre
+Bleu de Gex
+Bleu de Septmoncel
+Bleu des Causses
+Bleuet
+Blue Castello
+Blue Cheshire
+Bocconcini
+boule de Lille
+Boursault
+Boursin
+breakfast cream
+Bresse bleu
+Brick cheese
+Brie
+Brillat Savarin cheese
+Brinza cheese
+Bryndza cheese
+Brynza cheese
+buffalo milk mozzarella
+buttermilk cheese
+Blue cheese
+Cabrales
+Cacciocavallo
+Caciocavallo
+Caciotta
+Cacique
+Caerphilly
+California jack
+Cambozola
+Camembert
+Cantal
+Caprice des Dieux
+Caprini
+Caprino Romano
+Carre de l'Est
+Carré de l'est
+Casciotta
+casero cheese
+Cashel Bleu
+Cashel Blue
+castle cheese
+chaka
+Chaource cheese
+Chaubier cheese
+Cheddar
+Cheshire
+chevre (aged)
+chevre frais
+chèvre frais
+chèvre
+Chihuahua® cheese
+clotted cream
+coconut butter
+coconut cream
+coconut juice
+coconut milk
+coconut water
+coffee cream
+Colby
+Comte
+Comté
+Comte Gruyere
+concentrated milk
+condensed milk
+Cool Whip
+Coon
+corsu vecchio cheese
+cotija
+cottage cheese
+smierkase
+Coulommiers
+cow's milk
+cow's milk mozzarella
+cream
+cream cheese
+cream of coconut
+Crema Dania
+Crema Danica
+Crescenza
+curd-cheese
+Danablu
+Danbo
+Danish blue
+Danish Port Salut
+Derby cheese
+Derby Sage cheese
+Derbyshire cheese
+Devon cream
+Devonshire cream
+double cream
+Double Gloucester
+Dream Whip
+dry jack
+dry Monterey
+Edam
+Emmental
+Emmentaler
+Emmenthal
+Emmenthaler
+Epoisses
+Epoisses de Bourgogne
+Esrom
+evaporated milk
+Excelsior
+Explorateur
+farm cheese
+farmer cheese
+farmer's cheese
+feta
+fior di latte
+Fiore Sardo cheese
+fontina
+Fourme d'Ambert
+fresh Hispanic cheese
+fresh Hispanic-style cheese
+fresh Mexican cheese
+fresh milk
+fresh mozzarella
+fromage de chèvre frais
+fromage frais
+gamonedo
+gamoneú
+gervais
+Gjetost
+Gloucester
+goat cheese (fresh)
+goat's milk
+Gorgonzola dolce
+Gorgonzola naturale
+Gorgonzola
+Gouda
+Gourmandise
+Grana Padano
+Graviera
+Greve
+Gruyère
+Gruyere
+Gruyère du Comté
+Halloumi
+Haloumi
+hand
+handkase
+handkäse
+Harz
+harzer kase
+harzer käse
+Havarti
+heavy cream
+heavy whipping cream
+High moisture mozzarella
+hoop cheese
+hoop cheese
+horchata
+Humboldt fog cheese
+Huntsman cheese
+Idiazabal cheese
+Idiazábal cheese
+Indian curd cheese
+Irish Cashel
+Italian cream cheese
+jack cheese
+Jalapeño Jack
+Jarlsberg
+Kachkeval (aged)
+Kachkeval
+Kaser
+Kashkaval
+Kashkaval (aged)
+kasseri
+Kefalotiri
+Kefalotyri
+kefir cheese
+kochkäse
+kochkase
+La vache qui rit
+labanah
+labne
+labneh
+Lagerkaese
+Laguiole
+Lancashire
+Lappi
+Laughing Cow
+lebna
+Leerdammer
+Leicester
+Leiden
+l'Explorateur
+Leyden
+Liederkranz
+light coconut milk
+light cream
+light whipping cream
+Limburger
+lite coconut milk
+Livarot
+low-fat milk
+Mahon cheese
+Mahón cheese
+Mainz
+Manchego (aged)
+Manchego cheese
+Manouri cheese
+Maroilles
+mascarpone
+mascherpone
+mature Gouda
+Maytag Blue
+medium Gouda
+Mexican jack
+milk
+milnot
+mimolette cheese
+Mizithra (aged)
+Mizithra cheese
+Montbriac
+Montbriac Rochebaron
+Monterey jack
+Morbier cheese
+mountain Gorgonzola
+mozzarella di bufalo
+mozzarella
+Muenster
+Munster
+Münster
+Mysost
+Mytzithra (aged)
+myzithra
+Neufchatel
+Neufchâtel
+Nøkkelost
+Nokkelost
+nondairy topping
+oat milk
+Oaxaca cheese
+Oka
+old Gouda
+Ossau-Iraty cheese
+Ossau-Iraty-Brebis-Pyrenees
+Paglietta
+Paladin Bavarian Blue
+paneer
+panela
+panir cheese
+Parmesan cheese
+Parmigiano
+pasta filata
+Pecorino Romano
+Pecorino Tuscano
+Pepper Jack
+petit gervais
+Petit Suisse
+Petit-Suisse
+picon
+picón
+Picon cabrales
+picos de Europa
+plastic curd cheeses
+Pont l'Eveque
+Pont-l'Evêque
+Port du Salut
+Port Salut cheese
+powdered milk
+pressed cheese
+Primost
+process cheese
+processed cheese
+provolone
+pulled curd cheeses
+qaimaaq
+quarg
+quark
+quark-curd
+queso anejado
+queso anejo
+queso asadero
+queso blanco
+queso blanco
+queso Chihuahua®
+queso crema
+queso de Cabrales
+queso de canasta
+Queso de l'Alt Urgell y la Cerdanya
+queso de metate
+queso enchilada
+queso fresco
+queso gamonedo
+queso Manchego viejo
+queso Menonita
+queso panela
+queso para freir
+queso vasco
+raclette
+raw milk
+real milk
+Reblochon cheese
+Red Leicester
+Requeson cheese
+Requesón
+rice milk
+ricotta cheese
+ricotta salata
+robiola
+robiola cheese (aged)
+robiola Lombardia cheese
+robiola Piemonte
+Romano
+Rondelé
+Rondele
+Saanen
+Saenkanter cheese
+Saga blue
+Saint Agur cheese
+Saint André cheese
+Saint Marcellin cheese
+Saint Nectaire cheese
+Saint Paulin cheese
+Samso
+Samsoe
+Sap sago
+Sapsago
+Sbrinz
+Scamorza
+Scamorze
+Schabziger
+Schloss
+Schlosskase
+Schlosskäse
+Shropshire blue cheese
+Sierra
+Single Gloucester
+smoked Gouda
+Sonoma jack
+soy beverage
+soy milk
+soya beverage
+soya milk
+soymilk
+spun curd cheeses
+St. Andre cheese
+St. Marcellin cheese
+St. Nectaire cheese
+Stilton cheese
+Stracchino
+Stracchino di Crescenza
+stretched curd cheeses
+string cheese
+sweetened condensed milk
+Swiss cheese
+Swiss Sbrinz
+Syrian cheese
+table cream
+Taleggio
+Teleme
+Tete de Moine
+Tête de Moine
+Tilsit
+Tilsit Havarti
+Tilsiter
+Tomme Crayeuse cheese
+Tomme d'Abondance
+Tomme de Beaumont
+tomme de montagne
+Tomme de Savoie cheese
+topfen
+Tybo
+Tzfati
+ultra-pasteurized cream
+Urgelia cheese
+Vacchino Romano
+Vache Qui Rit
+Vacherin
+Valdeon
+Vasterboten cheese
+Velveeta
+very aged Gouda
+Wensleydale
+whey cheeses
+whipped cream
+whipping cream
+white cheese
+yak cheese
+yogurt cheese
+young Gouda
