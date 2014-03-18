@@ -4,19 +4,22 @@ indian
 meat
 protein
 fruit
+vegetables
 ----------
 filipino
 american
 chinese
 mexican
+
 allerginic
 hypo-allergenic
 kid meals
+
 vegetarian
 vegan
+
 grain
 spice
 fats/oils
 dairy
-vegetables
 healthy
