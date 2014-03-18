@@ -1,0 +1,6 @@
+beef
+lamb
+chicken
+fish
+pork
+egg
