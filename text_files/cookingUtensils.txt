@@ -1,8 +1,7 @@
-﻿absinthe spoon 
+absinthe spoon 
 apple corer
 apple cutter
 apple peeler
-araignée
 auto reignition
 bachelor griller
 baking dish
@@ -177,7 +176,6 @@ hand mixer
 haybox
 herb chopper
 hibachi
-hoàng cầm stove
 hobo stove
 honey pot
 honey spoon
@@ -216,7 +214,6 @@ lemon reamer
 lemon squeezer
 lid
 lidded serving bowl
-lò trấu
 loaf pan
 lobster pick
 mandolin
