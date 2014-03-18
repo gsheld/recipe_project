@@ -1,0 +1,21 @@
+italian
+french
+indian
+filipino
+american
+chinese
+mexican
+allerginic
+hypo-allergenic
+kid meals
+vegetarian
+meat
+vegan
+protein
+grain
+spice
+fats/oils
+dairy
+vegetables
+fruits
+healthy

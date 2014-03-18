@@ -1,0 +1,36 @@
+import sys
+def removeDoubles(filename1, filename2):
+    fileIn = open(filename1, 'r')
+    fileOut = open(filename2, 'w')
+    myMap = {}
+    for line in fileIn:
+                if not myMap.has_key(line):
+                    myMap[line] = True
+                    fileOut.write(str(line))
+
+    fileIn.close()
+    fileOut.close()
+
+
+removeDoubles('italian.txt', 'italian_final.txt')
+removeDoubles('french.txt', 'french_final.txt')
+removeDoubles('indian.txt', 'indian_final.txt')
+##removeDoubles('filipino.txt','filipino_final.txt')
+##removeDoubles('american.txt','american_final.txt')
+##removeDoubles('chinese.txt','chinese_final.txt')
+##removeDoubles('mexican.txt','mexican_final.txt')
+##removeDoubles('allerginic.txt', 'allergenic_final.txt')
+##removeDoubles('hypo-allergenic.txt','hypo-allergenic_final.txt')
+##removeDoubles('kidmeals.txt','kidmeals_final.txt')
+##removeDoubles('vegetarian.txt','vegetarian_final.txt')
+##removeDoubles('meat.txt','meat_final.txt')
+##removeDoubles('vegan.txt','vegan_final.txt')
+##removeDoubles('protein.txt','protein_final.txt')
+##removeDoubles('grain.txt','grain_final.txt')
+##removeDoubles('spice.txt','spice_final.txt')
+##removeDoubles('fats_oils.txt','fats_oils_final.txt')
+##removeDoubles('dairy.txt','dairy_final.txt')
+##removeDoubles('vegetables.txt','vegetables_final.txt')
+##removeDoubles('fruits.txt','fruits_final.txt')
+##removeDoubles('healthy.txt','healthy_final.txt')
+print "done"
