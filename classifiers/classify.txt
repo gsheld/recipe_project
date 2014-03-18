@@ -1,6 +1,10 @@
 ﻿italian
 french
 indian
+meat
+protein
+fruit
+----------
 filipino
 american
 chinese
@@ -9,13 +13,10 @@ allerginic
 hypo-allergenic
 kid meals
 vegetarian
-meat
 vegan
-protein
 grain
 spice
 fats/oils
 dairy
 vegetables
-fruits
 healthy

@@ -1,7 +1,6 @@
-almond / amande
 almond flour / poudre d'amandes
 anchovy / anchois
-angelica / angélique
+angelica / angã©lique
 anise / anis
 apple / pomme
 apples
@@ -27,9 +26,9 @@ bell peppers / poivrons
 black currant / cassis
 black pepper 
 blackberries
-blackberry / mûre
+blackberry / mã»re
 blackcurrants
-bleu d’auvergne
+bleu dâ€™auvergne
 blueberry / myrtille
 boudin / boudin
 bouillon / bouillon
@@ -46,7 +45,7 @@ cabbage / chou
 calamari
 calvados
 camembert
-candied violets / violette cristallisée
+candied violets / violette cristallisã©e
 canned sardines
 canned tuna
 cantal
@@ -57,8 +56,8 @@ carrots
 carrots / carottes
 cauliflower / chou/fleur
 celery 
-celery / céleri branche
-celery root / céleri/rave
+celery / cã©leri branche
+celery root / cã©leri/rave
 champagne vinegar /vinaigre de champagne
 chanterelle
 chard / bette
@@ -66,14 +65,14 @@ cheese
 cherries
 cherry / cerise
 chervil / cerfeuil
-chestnut flour / farine de châtaigne
-chestnut puree / crème de marrons
-chèvre
+chestnut flour / farine de chã¢taigne
+chestnut puree / crã¨me de marrons
 chicken
 chicken / poulet
 chicken stock
 chickpeas / pois chiches
 chives / ciboulette
+chã¨vre
 cinnamon / cannelle
 clams / clams
 clementine / clementine
@@ -82,19 +81,19 @@ coconut / noix de coco
 coconut milk / lait de coco
 cod
 cod / cabillaud
-coffee / café
+coffee / cafã©
 cognac
 cognac / cognac
-comté
+comtã©
 coriander / coriandre
-corn starch / fécule de mais (maïzena)
+corn starch / fã©cule de mais (maã¯zena)
 couscous / couscous
-crab / crabe (araignée de mer)
-cracked wheat / blé concassé
+crab / crabe (araignã©e de mer)
+cracked wheat / blã© concassã©
 cranberry / airelle
-crayfish / langouste (also écrevisse)
-crème fraîche
-crémeux
+crayfish / langouste (also ã©crevisse)
+crã¨me fraã®che
+crã©meux
 cucumber / concombre
 cumin / cumin
 cured ham /jambon de pays
@@ -126,10 +125,10 @@ fresh sardines
 fresh tuna
 frog
 frogs' legs / cuisses de grenouille
-fromage à tartiner
+fromage ã  tartiner
 garlic 
 garlic / ail
-gelatin leaves / feuille de gélatine
+gelatin leaves / feuille de gã©latine
 ginger / gingembre
 goose
 goose / oie
@@ -143,10 +142,10 @@ grapes
 green beans / haricots verts
 green onions / oignons nouveaux
 grouper / merou
-gruyère
+gruyã¨re
 haddock / haddock
-half and half / crème léger
-halibut / flétan
+half and half / crã¨me lã©ger
+halibut / flã©tan
 ham / jambon blanc
 haricots verts
 harissa
@@ -159,7 +158,7 @@ honey / miel
 horse
 kirsch
 kiwi / kiwi
-lady fingers / biscuits cuillère
+lady fingers / biscuits cuillã¨re
 lamb
 lamb / agneau
 lard / saindoux
@@ -216,12 +215,12 @@ parmesan
 parsley
 parsley / persil
 parsnips / panais
-pasteurized milk / lait pasteurisé
+pasteurized milk / lait pasteurisã©
 pastis
-paté / paté
-peach / pêche
+patã© / patã©
+peach / pãªche
 peaches
-peanut / arachide or cacahouête
+peanut / arachide or cacahouãªte
 peanut oil / huile d'arachide
 pear / poire
 pears
@@ -243,7 +242,7 @@ potato
 potatoes / pommes de terre
 powdered sugar / sucre glace
 prunes / pruneaux
-puff pastry / pâte feuilletée
+puff pastry / pã¢te feuilletã©e
 quail
 quails eggs / oeufs de caille
 quince / coing
@@ -282,19 +281,19 @@ sea bream / daurade
 sea snails / bigorneaux
 sea urchins / oursins
 semolina / semoule
-sesame seeds / graines de sésame
+sesame seeds / graines de sã©same
 shallot
 shallots / echalotes
 shrimp
 shrimp / crevette
-smoked salmon / saumon fumé
+smoked salmon / saumon fumã©
 snails
 snails / escargot
 soft white bread / pain de mie
 sole / sole
 sorrel / oseille
 spinach / epinards
-split peas / pois cassés
+split peas / pois cassã©s
 squab
 squash / courge
 squid / calmar
@@ -307,10 +306,10 @@ sweet potato / patate douce
 swordfish / espadon
 tangerine / tangerine
 tangerines
-tarragon 
 tarragon
+tarragon 
 tarragon / estragon
-tea / thé
+tea / thã©
 thyme
 thyme / thym
 tomato / tomate
@@ -328,7 +327,7 @@ turnip
 turnips / navets
 vanilla / vanille
 vanilla extract / extrait de vanille
-vanilla sugar / sucre vanillé
+vanilla sugar / sucre vanillã©
 veal
 veal / veau
 veal stock
@@ -338,7 +337,7 @@ walnut / noix
 walnut oil / huile de noix
 water cress / cression
 wheat
-whipping cream / crème liquide
+whipping cream / crã¨me liquide
 white beans / haricots blanc
 white kidney beans /haricots blancs
 white pepper
@@ -350,3 +349,4 @@ wine / vin
 yogurt / yaourt
 zucchini
 zucchini / courgette
+ï»¿almond / amande
