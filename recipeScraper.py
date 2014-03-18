@@ -11,6 +11,9 @@ import sys
 import string
 from itertools import cycle
 from pprint import pprint
+from nltk.util import ngrams
+from nltk.util import trigrams
+from nltk.util import bigrams
 
 def getRecipeInfo():
 
@@ -66,43 +69,118 @@ def getRecipeInfo():
 
 	directions = []
 	i = 0
-
-	### PROBLEM POINT - DOESN'T FETCH ANYTHING ###
-
+	
 	directionsXPath = '//div[@class="directLeft"]/ol/li/span'
 	directionsObjects = driver.find_elements_by_xpath(directionsXPath)
 
 	for value in directionsObjects:
-		print value.get_attribute("innerHTML")		### SHOULD CONTAIN COOKING DIRECTIONS
-		print 'hello'
-		directions[i] = str(value.get_attribute("innerHTML"))
+		directions.append(str(value.get_attribute("innerHTML")))
 		i += 1
-	print directions
+	#print directions
 
-	### END OF PROBLEM POINT ###
-
+	driver.quit()
+	
 	cookingMethods = {}
 	with open('/Users/arundhatijaswal/Documents/Q2/NLP/recipes/recipe_project/text_files/cookingMethods.txt', 'r') as f:
 		for line in f:
-			cookingMethods[string.replace(line, '\n', '')] = True
+			cookingMethods[string.replace(line, '\n', '').strip()] = True
 	#pprint(cookingMethods)
 	cookingUtensils = {}
 	with open('/Users/arundhatijaswal/Documents/Q2/NLP/recipes/recipe_project/text_files/cookingUtensils.txt', 'r') as f:
 		for line in f:
-			cookingUtensils[string.replace(line, '\n', '')] = True
+			cookingUtensils[string.replace(line, '\n', '').strip()] = True
 	#pprint(cookingUtensils)
 	recipeCookingMethods = []
 	recipeCookingUtensils = []
+
+	localPhrase = ''
 	for step in directions:
-		print step
-		for word in step:
-			#print word
-			for method in cookingMethods.keys():
-				if string.find(method, word) > -1:
-					recipeCookingMethods.append(word)
+		for phrase in ngrams(string.split(step), 4):
+			for word in phrase:
+				localPhrase += word
+				localPhrase += ' '
+			localPhrase = localPhrase.strip()
+			localPhrase = localPhrase.replace(',', '')
+			localPhrase = localPhrase.replace('.', '')
 			for tool in cookingUtensils.keys():
-				if string.find(tool, word) > -1:
-					recipeCookingUtensils.append(word)
+				if tool.lower() == localPhrase.lower():
+					#print localToolPhrase, 'utensil ->', tool
+					recipeCookingUtensils.append(tool)
+			localPhrase = ''
+		#print '4-grams done'
+		for phrase in trigrams(string.split(step)):
+			for word in phrase:
+				localPhrase += word
+				localPhrase += ' '
+			localPhrase = localPhrase.strip()
+			localPhrase = localPhrase.replace(',', '')
+			localPhrase = localPhrase.replace('.', '')
+			for tool in cookingUtensils.keys():
+				if tool.lower() == localPhrase.lower():
+					#print localToolPhrase, 'utensil ->', tool
+					#flag = 1
+					#for myTool in recipeCookingUtensils:
+					#	if string.find(myTool, localPhrase) > -1:
+					#		flag = 0
+					#if flag == 1:
+					recipeCookingUtensils.append(tool)
+			for method in cookingMethods.keys():
+				if method.lower() == localPhrase.lower():
+					recipeCookingMethods.append(method)
+			localPhrase = ''
+		#print '3-grams done'
+		for phrase in bigrams(string.split(step)):
+			for word in phrase:
+				localPhrase += word
+				localPhrase += ' '
+			localPhrase = localPhrase.strip()
+			localPhrase = localPhrase.replace(',', '')
+			localPhrase = localPhrase.replace('.', '')
+			for tool in cookingUtensils.keys():
+				if tool.lower() == localPhrase.lower():
+					#print localPhrase, 'utensil ->', tool
+					#flag = 1
+					#for myTool in recipeCookingUtensils:
+					#	if string.find(myTool, localPhrase) > -1:
+					#		flag = 0
+					#if flag == 1:
+					recipeCookingUtensils.append(tool)
+			for method in cookingMethods.keys():
+				if method.lower() == localPhrase.lower():
+					#flag = 1
+					#for myMethod in recipeCookingMethods:
+					#	if string.find(myMethod, localPhrase) > -1:
+					#		flag = 0
+					#if flag == 1:
+					recipeCookingMethods.append(method)
+			localPhrase = ''
+		#print '2-grams done'		
+		for word in string.split(step, ' '):
+			#print word
+			if len(word) > 2:
+				word = word.replace(',', '')
+				word = word.replace('.', '')
+				for method in cookingMethods.keys():
+					#if string.find(method, word) > -1:
+					if method.lower() == word.lower():
+						#flag = 1
+						#for myMethod in recipeCookingMethods:
+						#	if string.find(myMethod, localPhrase) > -1:
+						#		flag = 0
+						#if flag == 1:
+						recipeCookingMethods.append(method)
+				for tool in cookingUtensils.keys():
+					#if string.find(tool, word) > -1:
+					if tool.lower() == word.lower():
+						#print localPhrase, 'utensil ->', tool
+						#flag = 1
+						#for myTool in recipeCookingUtensils:
+						#	if string.find(myTool, localPhrase) > -1:
+						#		flag = 0
+						#if flag == 1:
+						recipeCookingUtensils.append(tool)
+		#print '1-grams done'
+	
 	recipe = {}
 	recipe['ingredients'] = ingredients
 	recipe['cooking method'] = recipeCookingMethods
@@ -112,7 +190,7 @@ def getRecipeInfo():
 
 	#pg_src = driver.page_source.encode("utf-8")
 	#time.sleep(1)
-	driver.quit()
+	#driver.quit()
 
 	"""
 	### The HTML content (treated as a giant string) is split on the basis of tags < & > ###
