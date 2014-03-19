@@ -9,6 +9,7 @@ import time
 import re
 import sys
 import string
+import json
 from itertools import cycle
 from pprint import pprint
 from nltk.util import ngrams
@@ -20,7 +21,7 @@ def getRecipeInfo():
 	### Here the webpage with the recipe is opened ###
 
 	driver = webdriver.Firefox()
-	myURL = 'http://allrecipes.com/Recipe/Slow-Cooker-Corned-Beef-and-Cabbage/'
+	myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	print myURL
 	driver.get(myURL)
 
@@ -43,10 +44,15 @@ def getRecipeInfo():
 
 	for value in ingredientSet1NamesObjects:
 		singleIngredient['name'] = str(value.get_attribute("innerHTML"))
+		singleIngredient['descriptor'] = ''
+		singleIngredient['preparation'] = ''
 		ingredients.append(singleIngredient)
 		singleIngredient = {}
 	i = 0
 	for value in ingredientSet1AmountsObjects:
+		amount = str(value.get_attribute("innerHTML"))
+		qty = re.search(r"[a-z]+", amount, flags=2)
+		print qty.group(0)
 		ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
 		i += 1
 
@@ -58,6 +64,8 @@ def getRecipeInfo():
 
 	for value in ingredientSet2NamesObjects:
 		singleIngredient['name'] = str(value.get_attribute("innerHTML"))
+		singleIngredient['descriptor'] = ''
+		singleIngredient['preparation'] = ''
 		ingredients.append(singleIngredient)
 		singleIngredient = {}
 
@@ -187,6 +195,22 @@ def getRecipeInfo():
 	recipe['cooking tools'] = recipeCookingUtensils
 
 	pprint(recipe)
+	
+	myInternalRecipe = {}
+	myInternalRecipe['name'] = str(recipeName)
+	myInternalRecipe['ingredients'] = []
+	for item in ingredients:
+		myInternalRecipe['ingredients'].append(item['name'])
+	
+	print myInternalRecipe
+	
+	f = open('recipeJson.json', 'w')
+	jobj = json.dumps(recipe)
+	f.write(jobj)
+	f.close()
+	with open('recipeJson.json', 'r') as f:
+		myJobj = map(json.loads, f)
+	print myJobj
 
 	#pg_src = driver.page_source.encode("utf-8")
 	#time.sleep(1)
