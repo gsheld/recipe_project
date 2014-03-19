@@ -8,6 +8,7 @@ vegetables
 grain
 dairy
 spice
+fats/oils
 ----------
 filipino
 american
@@ -20,5 +21,3 @@ kid meals
 vegetarian
 vegan
 healthy
-
-fats/oils

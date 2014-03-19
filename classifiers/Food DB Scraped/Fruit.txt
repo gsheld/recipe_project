@@ -1,0 +1,335 @@
+acerola, (west indian cherry), raw
+acerola juice, raw
+apples, raw, with skin
+apples, raw, without skin
+apples, raw, without skin, cooked, boiled
+apples, raw, without skin, cooked, microwave
+apples, canned, sweetened, sliced, drained, unheated
+apples, canned, sweetened, sliced, drained, heated
+apples, dehydrated (low moisture), sulfured, uncooked
+apples, dehydrated (low moisture), sulfured, stewed
+apples, dried, sulfured, uncooked
+apples, dried, sulfured, stewed, without added sugar
+apples, dried, sulfured, stewed, with added sugar
+apples, frozen, unsweetened, unheated
+apples, frozen, unsweetened, heated
+apple juice, canned or bottled, unsweetened, without added ascorbic acid
+apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid
+apple juice, frozen concentrate, unsweetened, diluted with 3 volume water without added ascorbic acid
+applesauce, canned, unsweetened, without added ascorbic acid (includes usda commodity)
+applesauce, canned, sweetened, without salt (includes usda commodity)
+apricots, raw
+apricots, canned, water pack, with skin, solids and liquids
+apricots, canned, water pack, without skin, solids and liquids
+apricots, canned, juice pack, with skin, solids and liquids
+apricots, canned, extra light syrup pack, with skin, solids and liquids
+apricots, canned, light syrup pack, with skin, solids and liquids
+apricots, canned, heavy syrup pack, with skin, solids and liquids
+apricots, canned, heavy syrup pack, without skin, solids and liquids
+apricots, canned, extra heavy syrup pack, without skin, solids and liquids
+apricots, dehydrated (low-moisture), sulfured, uncooked
+apricots, dehydrated (low-moisture), sulfured, stewed
+apricots, dried, sulfured, uncooked
+apricots, dried, sulfured, stewed, without added sugar
+apricots, dried, sulfured, stewed, with added sugar
+apricots, frozen, sweetened
+apricot nectar, canned, without added ascorbic acid
+avocados, raw, all commercial varieties
+avocados, raw, california
+avocados, raw, florida
+bananas, raw
+bananas, dehydrated, or banana powder
+blackberries, raw
+blackberry juice, canned
+cherries, tart, dried, sweetened
+blackberries, canned, heavy syrup, solids and liquids
+blackberries, frozen, unsweetened
+blueberries, raw
+blueberries, canned, heavy syrup, solids and liquids
+blueberries, wild, frozen
+blueberries, frozen, unsweetened
+blueberries, frozen, sweetened
+boysenberries, canned, heavy syrup
+boysenberries, frozen, unsweetened
+breadfruit, raw
+carambola, (starfruit), raw
+carissa, (natal-plum), raw
+cherimoya, raw
+cherries, sour, red, raw
+cherries, sour, red, canned, water pack, solids and liquids (includes usda commodity red tart cherries, canned)
+cherries, sour, red, canned, light syrup pack, solids and liquids
+cherries, sour, red, canned, heavy syrup pack, solids and liquids
+cherries, sour, red, canned, extra heavy syrup pack, solids and liquids
+cherries, sour, red, frozen, unsweetened
+cherries, sweet, raw
+cherries, sweet, canned, water pack, solids and liquids
+cherries, sweet, canned, juice pack, solids and liquids
+cherries, sweet, canned, light syrup pack, solids and liquids
+cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids
+cherries, sweet, canned, extra heavy syrup pack, solids and liquids
+cherries, sweet, frozen, sweetened
+crabapples, raw
+cranberries, raw
+cranberries, dried, sweetened
+cranberry sauce, canned, sweetened
+cranberry-orange relish, canned
+currants, european black, raw
+currants, red and white, raw
+currants, zante, dried
+custard-apple, (bullock's-heart), raw
+dates, deglet noor
+elderberries, raw
+figs, raw
+figs, canned, water pack, solids and liquids
+figs, canned, light syrup pack, solids and liquids
+figs, canned, heavy syrup pack, solids and liquids
+figs, canned, extra heavy syrup pack, solids and liquids
+figs, dried, uncooked
+figs, dried, stewed
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, juice pack, solids and liquids
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra light syrup, solids and liquids
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, light syrup, solids and liquids
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, heavy syrup, solids and liquids
+fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, extra heavy syrup, solids and liquids
+fruit salad, (peach and pear and apricot and pineapple and cherry), canned, water pack, solids and liquids
+fruit salad, (peach and pear and apricot and pineapple and cherry), canned, juice pack, solids and liquids
+fruit salad, (peach and pear and apricot and pineapple and cherry), canned, light syrup, solids and liquids
+fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heavy syrup, solids and liquids
+fruit salad, (peach and pear and apricot and pineapple and cherry), canned, extra heavy syrup, solids and liquids
+gooseberries, raw
+gooseberries, canned, light syrup pack, solids and liquids
+grapefruit, raw, pink and red and white, all areas
+grapefruit, raw, pink and red, all areas
+grapefruit, raw, pink and red, california and arizona
+grapefruit, raw, pink and red, florida
+grapefruit, raw, white, all areas
+grapefruit, raw, white, california
+grapefruit, raw, white, florida
+grapefruit, sections, canned, water pack, solids and liquids
+grapefruit, sections, canned, juice pack, solids and liquids
+grapefruit, sections, canned, light syrup pack, solids and liquids
+grapefruit juice, white, canned, unsweetened
+grapefruit juice, white, canned, sweetened
+grapefruit juice, white, frozen concentrate, unsweetened, undiluted
+grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume water
+grapefruit juice, white, raw
+grapes, muscadine, raw
+grape juice, canned or bottled, unsweetened, with added ascorbic acid
+grapes, american type (slip skin), raw
+grapes, red or green (european type, such as thompson seedless), raw
+grapes, canned, thompson seedless, water pack, solids and liquids
+grapes, canned, thompson seedless, heavy syrup pack, solids and liquids
+grape juice, canned or bottled, unsweetened, without added ascorbic acid
+groundcherries, (cape-gooseberries or poha), raw
+guavas, common, raw
+guavas, strawberry, raw
+guava sauce, cooked
+jackfruit, raw
+java-plum, (jambolan), raw
+jujube, raw
+jujube, dried
+kiwifruit, green, raw
+kumquats, raw
+lemons, raw, without peel
+lemon juice, raw
+lemon juice, canned or bottled
+lemon juice, frozen, unsweetened, single strength
+lemon peel, raw
+limes, raw
+lime juice, raw
+lime juice, canned or bottled, unsweetened
+blueberries, dried, sweetened
+litchis, raw
+litchis, dried
+loganberries, frozen
+longans, raw
+longans, dried
+loquats, raw
+mammy-apple, (mamey), raw
+mangos, raw
+mangosteen, canned, syrup pack
+melons, cantaloupe, raw
+melons, casaba, raw
+melons, honeydew, raw
+melon balls, frozen
+mulberries, raw
+nectarines, raw
+oheloberries, raw
+olives, ripe, canned (small-extra large)
+olives, ripe, canned (jumbo-super colossal)
+olives, pickled, canned or bottled, green
+oranges, raw, all commercial varieties
+oranges, raw, california, valencias
+oranges, raw, navels
+oranges, raw, florida
+oranges, raw, with peel
+orange juice, raw
+orange juice, canned, unsweetened
+orange juice, chilled, includes from concentrate
+orange juice, chilled, includes from concentrate, fortified with calcium and vitamin d
+orange juice, chilled, includes from concentrate, fortified with calcium
+orange juice, frozen concentrate, unsweetened, undiluted
+orange juice, frozen concentrate, unsweetened, diluted with 3 volume water
+orange peel, raw
+orange-grapefruit juice, canned, unsweetened
+tangerines, (mandarin oranges), raw
+tangerines, (mandarin oranges), canned, juice pack
+tangerines, (mandarin oranges), canned, light syrup pack
+tangerine juice, raw
+tangerine juice, canned, sweetened
+tangerine juice, frozen concentrate, sweetened, undiluted
+tangerine juice, frozen concentrate, sweetened, diluted with 3 volume water
+papayas, raw
+papaya, canned, heavy syrup, drained
+papaya nectar, canned
+passion-fruit, (granadilla), purple, raw
+passion-fruit juice, purple, raw
+passion-fruit juice, yellow, raw
+peaches, raw
+peaches, canned, water pack, solids and liquids
+peaches, canned, juice pack, solids and liquids
+peaches, canned, extra light syrup, solids and liquids
+peaches, canned, light syrup pack, solids and liquids
+peaches, canned, heavy syrup pack, solids and liquids
+peaches, canned, extra heavy syrup pack, solids and liquids
+peaches, spiced, canned, heavy syrup pack, solids and liquids
+peaches, dehydrated (low-moisture), sulfured, uncooked
+peaches, dehydrated (low-moisture), sulfured, stewed
+peaches, dried, sulfured, uncooked
+peaches, dried, sulfured, stewed, without added sugar
+peaches, dried, sulfured, stewed, with added sugar
+peaches, frozen, sliced, sweetened
+peach nectar, canned, without added ascorbic acid
+pears, raw
+pears, canned, water pack, solids and liquids
+pears, canned, juice pack, solids and liquids
+pears, canned, extra light syrup pack, solids and liquids
+pears, canned, light syrup pack, solids and liquids
+pears, canned, heavy syrup pack, solids and liquids
+pears, canned, extra heavy syrup pack, solids and liquids
+pears, dried, sulfured, uncooked
+pears, dried, sulfured, stewed, without added sugar
+pears, dried, sulfured, stewed, with added sugar
+pear nectar, canned, without added ascorbic acid
+persimmons, japanese, raw
+persimmons, japanese, dried
+persimmons, native, raw
+pineapple, raw, all varieties
+pineapple, canned, water pack, solids and liquids
+pineapple, canned, juice pack, solids and liquids
+pineapple, canned, light syrup pack, solids and liquids
+pineapple, canned, heavy syrup pack, solids and liquids
+pineapple, canned, extra heavy syrup pack, solids and liquids
+pineapple, frozen, chunks, sweetened
+pineapple juice, canned, unsweetened, without added ascorbic acid
+pineapple juice, frozen concentrate, unsweetened, undiluted
+pineapple juice, frozen concentrate, unsweetened, diluted with 3 volume water
+pitanga, (surinam-cherry), raw
+plantains, raw
+plantains, cooked
+plums, raw
+plums, canned, purple, water pack, solids and liquids
+plums, canned, purple, juice pack, solids and liquids
+plums, canned, purple, light syrup pack, solids and liquids
+plums, canned, purple, heavy syrup pack, solids and liquids
+plums, canned, purple, extra heavy syrup pack, solids and liquids
+pomegranates, raw
+prickly pears, raw
+prunes, canned, heavy syrup pack, solids and liquids
+prunes, dehydrated (low-moisture), uncooked
+prunes, dehydrated (low-moisture), stewed
+plums, dried (prunes), uncooked
+plums, dried (prunes), stewed, without added sugar
+plums, dried (prunes), stewed, with added sugar
+prune juice, canned
+pummelo, raw
+quinces, raw
+raisins, golden seedless
+raisins, seedless
+raisins, seeded
+rambutan, canned, syrup pack
+raspberries, raw
+raspberries, canned, red, heavy syrup pack, solids and liquids
+raspberries, frozen, red, sweetened
+rhubarb, raw
+rhubarb, frozen, uncooked
+rhubarb, frozen, cooked, with sugar
+roselle, raw
+rose-apples, raw
+sapodilla, raw
+sapote, mamey, raw
+soursop, raw
+strawberries, raw
+strawberries, canned, heavy syrup pack, solids and liquids
+strawberries, frozen, unsweetened
+strawberries, frozen, sweetened, whole
+strawberries, frozen, sweetened, sliced
+sugar-apples, (sweetsop), raw
+tamarinds, raw
+fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids
+watermelon, raw
+maraschino cherries, canned, drained
+feijoa, raw
+pears, asian, raw
+fruit cocktail, canned, heavy syrup, drained
+blueberries, canned, light syrup, drained
+blueberries, wild, canned, heavy syrup, drained
+pineapple, canned, juice pack, drained
+apricots, canned, heavy syrup, drained
+cherries, sour, canned, water pack, drained
+cherries, sweet, canned, pitted, heavy syrup, drained
+peaches, canned, heavy syrup, drained
+pears, canned, heavy syrup, drained
+plums, canned, heavy syrup, drained
+tangerines, (mandarin oranges), canned, juice pack, drained
+apple juice, canned or bottled, unsweetened, with added ascorbic acid
+applesauce, canned, unsweetened, with added ascorbic acid
+applesauce, canned, sweetened, with salt
+apricot nectar, canned, with added ascorbic acid
+grapefruit juice, pink, raw
+peach nectar, canned, with added ascorbic acid
+pear nectar, canned, with added ascorbic acid
+pineapple juice, canned, unsweetened, with added ascorbic acid
+apple juice, frozen concentrate, unsweetened, undiluted, with added ascorbic acid
+apple juice, frozen concentrate, unsweetened, diluted with 3 volume water, with added ascorbic acid
+pears, raw, bartlett
+pears, raw, red anjou
+pears, raw, bosc
+pears, raw, green anjou
+jackfruit, canned, syrup pack
+dates, medjool
+durian, raw or frozen
+prune puree
+candied fruit
+abiyuch, raw
+rowal, raw
+pineapple, raw, traditional varieties
+pineapple, raw, extra sweet variety
+usda commodity, mixed fruit (peaches, pears, grapes), canned, light syrup, drained
+usda commodity, mixed fruit (peaches, pears, grapes), canned, light syrup, solids and liquids
+clementines, raw
+guanabana nectar, canned
+guava nectar, canned
+mango nectar, canned
+tamarind nectar, canned
+usda commodity peaches, canned, light syrup, drained
+usda commodity pears, canned, juice pack, drained
+usda commodity pears, canned, light syrup, drained
+pomegranate juice, bottled
+juice, apple and grape blend, with added ascorbic acid
+juice, apple, grape and pear blend, with added ascorbic acid and calcium
+kiwifruit, gold, raw
+plantains, green, fried
+plantains, yellow, fried, latino restaurant
+nance, canned, syrup, drained
+nance, frozen, unsweetened
+naranjilla (lulo) pulp, frozen, unsweetened
+horned melon (kiwano)
+orange pineapple juice blend
+apples, raw, red delicious, with skin
+apples, raw, golden delicious, with skin
+apples, raw, granny smith, with skin
+apples, raw, gala, with skin
+apples, raw, fuji, with skin
+cranberry juice, unsweetened

@@ -1,4 +1,4 @@
-﻿almond oil
+almond oil
 ambadi seed oil
 argan oil
 avocado oil
@@ -56,8 +56,8 @@ sunflower oil
 tail fat
 tallow
 tea seed oil
+vegetable oil
 vegetable shortening
 walnut oil
-watermelon seed oil
-palm kernel oil
+watermelon seed oilpalm kernel oil
 ﻿lard
