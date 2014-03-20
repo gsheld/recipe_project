@@ -1,0 +1,337 @@
+pork, fresh, enhanced, composite of separable fat, cooked
+pork, fresh, carcass, separable lean and fat, raw
+pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder), separable lean only, raw
+pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes cuts to be cured), separable lean and fat, raw
+pork, fresh, backfat, raw
+pork, fresh, belly, raw
+pork, fresh, separable fat, raw
+pork, fresh, separable fat, cooked
+pork, fresh, leg (ham), whole, separable lean and fat, raw
+pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted
+pork, fresh, leg (ham), whole, separable lean only, raw
+pork, fresh, leg (ham), whole, separable lean only, cooked, roasted
+pork, fresh, leg (ham), rump half, separable lean and fat, raw
+pork, fresh, leg (ham), rump half, separable lean and fat, cooked, roasted
+pork, fresh, leg (ham), rump half, separable lean only, raw
+pork, fresh, leg (ham), rump half, separable lean only, cooked, roasted
+pork, fresh, leg (ham), shank half, separable lean and fat, raw
+pork, fresh, leg (ham), shank half, separable lean and fat, cooked, roasted
+pork, fresh, leg (ham), shank half, separable lean only, raw
+pork, fresh, leg (ham), shank half, separable lean only, cooked, roasted
+pork, fresh, loin, whole, separable lean and fat, raw
+pork, fresh, loin, whole, separable lean and fat, cooked, braised
+pork, fresh, loin, whole, separable lean and fat, cooked, broiled
+pork, fresh, loin, whole, separable lean and fat, cooked, roasted
+pork, fresh, loin, whole, separable lean only, raw
+pork, fresh, loin, whole, separable lean only, cooked, braised
+pork, fresh, loin, whole, separable lean only, cooked, broiled
+pork, fresh, loin, whole, separable lean only, cooked, roasted
+pork, fresh, loin, blade (chops or roasts), bone-in, separable lean and fat, raw
+pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, braised
+pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, broiled
+pork, fresh, loin, blade (roasts), bone-in, separable lean and fat, cooked, roasted
+pork, fresh, loin, blade (chops or roasts), bone-in, separable lean only, raw
+pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, braised
+pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, broiled
+pork, fresh, loin, blade (roasts), bone-in, separable lean only, cooked, roasted
+pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, raw
+pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, braised
+pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, broiled
+pork, fresh, loin, center loin (roasts), bone-in, separable lean and fat, cooked, roasted
+pork, fresh, loin, center loin (chops), bone-in, separable lean only, raw
+pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, braised
+pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, broiled
+pork, fresh, loin, center loin (roasts), bone-in, separable lean only, cooked, roasted
+pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean and fat, raw
+pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, braised
+pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, broiled
+pork, fresh, loin, center rib (roasts), bone-in, separable lean and fat, cooked, roasted
+pork, fresh, loin, center rib (chops or roasts), bone-in, separable lean only, raw
+pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, braised
+pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, broiled
+pork, fresh, loin, center rib (roasts), bone-in, separable lean only, cooked, roasted
+pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean and fat, raw
+pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, braised
+pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, broiled
+pork, fresh, loin, sirloin (roasts), bone-in, separable lean and fat, cooked, roasted
+pork, fresh, loin, sirloin (chops or roasts), bone-in, separable lean only, raw
+pork, fresh, loin, sirloin (chops), bone-in, separable lean only, cooked, braised
+pork, fresh, loin, sirloin (chops), bone-in, separable lean only, cooked, broiled
+pork, fresh, loin, sirloin (roasts), bone-in, separable lean only, cooked, roasted
+pork, fresh, loin, tenderloin, separable lean only, raw
+pork, fresh, loin, tenderloin, separable lean only, cooked, roasted
+pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw
+pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, braised
+pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, broiled
+pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted
+pork, fresh, loin, top loin (chops), boneless, separable lean only, raw
+pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, braised
+pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, broiled
+pork, fresh, loin, top loin (roasts), boneless, separable lean only, cooked, roasted
+pork, fresh, shoulder, whole, separable lean and fat, raw
+pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted
+pork, fresh, shoulder, whole, separable lean only, raw
+pork, fresh, shoulder, whole, separable lean only, cooked, roasted
+pork, fresh, shoulder, arm picnic, separable lean and fat, raw
+pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised
+pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, roasted
+pork, fresh, shoulder, arm picnic, separable lean only, raw
+pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised
+pork, fresh, shoulder, arm picnic, separable lean only, cooked, roasted
+pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat, raw
+pork, fresh, shoulder, (boston butt), blade (steaks), separable lean and fat, cooked, braised
+pork, fresh, shoulder, blade, boston (steaks), separable lean and fat, cooked, broiled
+pork, fresh, shoulder, blade, boston (roasts), separable lean and fat, cooked, roasted
+pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, raw
+pork, fresh, shoulder, (boston butt), blade (steaks), separable lean only, cooked, braised
+pork, fresh, shoulder, blade, boston (steaks), separable lean only, cooked, broiled
+pork, fresh, shoulder, blade, boston (roasts), separable lean only, cooked, roasted
+pork, fresh, spareribs, separable lean and fat, raw
+pork, fresh, spareribs, separable lean and fat, cooked, braised
+pork, fresh, composite of trimmed retail cuts (leg, loin, and shoulder), separable lean only, cooked
+pork, fresh, variety meats and by-products, brain, raw
+pork, fresh, variety meats and by-products, brain, cooked, braised
+pork, fresh, variety meats and by-products, chitterlings, raw
+pork, fresh, variety meats and by-products, chitterlings, cooked, simmered
+pork, fresh, variety meats and by-products, ears, frozen, raw
+pork, fresh, variety meats and by-products, ears, frozen, cooked, simmered
+pork, fresh, variety meats and by-products, feet, raw
+pork, fresh, variety meats and by-products, heart, raw
+pork, fresh, variety meats and by-products, heart, cooked, braised
+pork, fresh, variety meats and by-products, jowl, raw
+pork, fresh, variety meats and by-products, kidneys, raw
+pork, fresh, variety meats and by-products, kidneys, cooked, braised
+pork, fresh, variety meats and by-products, leaf fat, raw
+pork, fresh, variety meats and by-products, liver, raw
+pork, fresh, variety meats and by-products, liver, cooked, braised
+pork, fresh, variety meats and by-products, lungs, raw
+pork, fresh, variety meats and by-products, lungs, cooked, braised
+pork, fresh, variety meats and by-products, mechanically separated, raw
+pork, fresh, variety meats and by-products, pancreas, raw
+pork, fresh, variety meats and by-products, pancreas, cooked, braised
+pork, fresh, variety meats and by-products, spleen, raw
+pork, fresh, variety meats and by-products, spleen, cooked, braised
+pork, fresh, variety meats and by-products, stomach, raw
+pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, pan-fried
+pork, fresh, variety meats and by-products, tongue, raw
+pork, fresh, variety meats and by-products, tongue, cooked, braised
+pork, cured, bacon, unprepared
+pork, cured, breakfast strips, raw or unheated
+pork, cured, breakfast strips, cooked
+canadian bacon, unprepared
+pork, cured, canadian-style bacon, grilled
+pork, cured, feet, pickled
+pork, cured, ham, boneless, extra lean (approximately 5% fat), roasted
+pork, cured, ham, boneless, regular (approximately 11% fat), roasted
+pork, cured, ham, extra lean (approximately 4% fat), canned, unheated
+pork, cured, ham, extra lean (approximately 4% fat), canned, roasted
+pork, cured, ham, regular (approximately 13% fat), canned, roasted
+pork, cured, ham, center slice, country-style, separable lean only, raw
+pork, cured, ham, center slice, separable lean and fat, unheated
+pork, cured, ham, patties, unheated
+pork, cured, ham, steak, boneless, extra lean, unheated
+pork, cured, ham, whole, separable lean and fat, unheated
+pork, cured, ham, whole, separable lean only, unheated
+pork, cured, ham, whole, separable lean only, roasted
+usda commodity, pork, canned
+pork, cured, salt pork, raw
+pork, cured, separable fat (from ham and arm picnic), unheated
+pork, cured, separable fat (from ham and arm picnic), roasted
+pork, cured, shoulder, arm picnic, separable lean and fat, roasted
+pork, cured, shoulder, arm picnic, separable lean only, roasted
+pork, cured, shoulder, blade roll, separable lean and fat, unheated
+pork, cured, shoulder, blade roll, separable lean and fat, roasted
+pork, fresh, variety meats and by-products, feet, cooked, simmered
+pork, fresh, variety meats and by-products, tail, raw
+pork, fresh, variety meats and by-products, tail, cooked, simmered
+pork, fresh, loin, center loin (chops), bone-in, separable lean only, cooked, pan-fried
+pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, pan-fried
+pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, pan-fried
+pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked, pan-fried
+pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked, pan-fried
+pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, pan-fried
+pork, cured, ham, boneless, extra lean and regular, unheated
+pork, cured, ham, boneless, extra lean and regular, roasted
+pork, cured, ham, extra lean and regular, canned, unheated
+pork, cured, ham, extra lean and regular, canned, roasted
+pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, pan-fried
+pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, raw
+pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and spareribs), separable lean and fat, cooked
+pork, fresh, backribs, separable lean and fat, raw
+pork, fresh, backribs, separable lean and fat, cooked, roasted
+pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw
+pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, braised
+pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, broiled
+pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked, pan-fried
+pork, fresh, loin, center rib (roasts), boneless, separable lean and fat, cooked, roasted
+pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw
+pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, braised
+pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, broiled
+pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, pan-fried
+pork, fresh, loin, center rib (roasts), boneless, separable lean only, cooked, roasted
+pork, fresh, loin, country-style ribs, separable lean and fat, raw
+pork, fresh, loin, country-style ribs, separable lean and fat, cooked, braised
+pork, fresh, loin, country-style ribs, separable lean and fat, bone-in, cooked, roasted
+pork, fresh, loin, country-style ribs, separable lean only, raw
+pork, fresh, loin, country-style ribs, separable lean only, cooked, braised
+pork, fresh, loin, country-style ribs, separable lean only, bone-in, cooked, roasted
+pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean and fat, raw
+pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, braised
+pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, broiled
+pork, fresh, loin, sirloin (roasts), boneless, separable lean and fat, cooked, roasted
+pork, fresh, loin, sirloin (chops or roasts), boneless, separable lean only, raw
+pork, fresh, loin, sirloin (chops), boneless, separable lean only, cooked, braised
+pork, fresh, loin, sirloin (chops), boneless, separable lean only, cooked, broiled
+pork, fresh, loin, sirloin (roasts), boneless, separable lean only, cooked, roasted
+pork, fresh, loin, tenderloin, separable lean and fat, raw
+pork, fresh, ground, raw
+pork, fresh, ground, cooked
+pork, fresh, loin, tenderloin, separable lean and fat, cooked, broiled
+pork, fresh, loin, tenderloin, separable lean and fat, cooked, roasted
+pork, fresh, loin, tenderloin, separable lean only, cooked, broiled
+pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw
+pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw
+pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, raw
+pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, cooked
+pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, raw
+pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean only, cooked
+usda commodity, pork, cured, ham, boneless, cooked, heated
+usda commodity, pork, ground, fine/coarse, frozen, cooked
+usda commodity, pork, cured, ham, boneless, cooked, unheated
+usda commodity, pork, ground, fine/coarse, frozen, raw
+hormel, cure 81 ham
+hormel always tender, pork tenderloin, teriyaki-flavored
+hormel always tender, pork tenderloin, peppercorn-flavored
+hormel always tender, pork loin filets, lemon garlic-flavored
+hormel always tender, center cut chops, fresh pork
+hormel always tender, boneless pork loin, fresh pork
+hormel canadian style bacon
+pork, fresh, loin, top loin (chops), boneless, enhanced, separable lean only, cooked, pan-broiled
+pork, fresh, loin, top loin (chops), boneless, enhanced, separable lean and fat, cooked, pan-broiled
+pork, cured, bacon, cooked, baked
+pork, cured, bacon, cooked, microwaved
+pork, cured, bacon, pre-sliced, cooked, pan-fried
+pork, fresh, variety meats and by-products, stomach, cooked, simmered
+pork, bacon, rendered fat, cooked
+pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted
+pork, cured, ham -- water added, rump, bone-in, separable lean only, unheated
+pork, cured, ham -- water added, shank, bone-in, separable lean only, heated, roasted
+pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil
+pork, cured, ham and water product, slice, bone-in, separable lean only, heated, pan-broil
+pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil
+pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted
+pork, cured, ham and water product, whole, boneless, separable lean only, unheated
+pork, cured, ham with natural juices, rump, bone-in, separable lean only, heated, roasted
+pork, cured, ham with natural juices, shank, bone-in, separable lean only, heated, roasted
+pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil
+pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted
+pork, cured, ham and water product, rump, bone-in, separable lean only, heated, roasted
+pork, cured, ham -- water added, slice, boneless, separable lean only, heated, pan-broil
+pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted
+pork, cured, ham -- water added, whole, boneless, separable lean only, unheated
+pork, cured, ham and water product, shank, bone-in, separable lean only, heated, roasted
+pork, cured, ham with natural juices, slice, boneless, separable lean only, heated, pan-broil
+pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted
+pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated
+pork, cured, ham -- water added, shank, bone-in, separable lean only, unheated
+pork, cured, ham -- water added, slice, bone-in, separable lean only, unheated
+pork, cured, ham and water product, rump, bone-in, separable lean only, unheated
+pork, cured, ham and water product, slice, bone-in, separable lean only, unheated
+pork, cured, ham and water product, shank, bone-in, unheated, separable lean only
+pork, cured, ham with natural juices, rump, bone-in, separable lean only, unheated
+pork, cured, ham with natural juices, shank, bone-in, separable lean only, unheated
+pork, cured, ham with natural juices, slice, bone-in, separable lean only, unheated
+pork, cured, ham with natural juices, spiral slice, boneless, separable lean only, unheated
+pork, cured, ham, separable fat, boneless, heated
+pork, cured, ham, separable fat, boneless, unheated
+pork, pickled pork hocks
+pork, cured, ham, slice, bone-in, separable lean only, heated, pan-broil
+pork, cured, ham with natural juices, whole, boneless, separable lean and fat, unheated
+pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, unheated
+pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, unheated
+pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated
+pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, unheated
+pork, cured, ham and water product, whole, boneless, separable lean and fat, unheated
+pork, cured, ham and water product, slice, bone-in, separable lean and fat, unheated
+pork, cured, ham and water product, shank, bone-in, separable lean and fat, unheated
+pork, cured, ham and water product, rump, bone-in, separable lean and fat, unheated
+pork, cured, ham -- water added, whole, boneless, separable lean and fat, unheated
+pork, cured, ham -- water added, slice, bone-in, separable lean and fat, unheated
+pork, cured, ham -- water added, shank, bone-in, separable lean and fat, unheated
+pork, cured, ham -- water added, rump, bone-in, separable lean and fat, unheated
+pork, cured, ham -- water added, rump, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham -- water added, shank, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham -- water added, slice, bone-in, separable lean and fat, heated, pan-broil
+pork, cured, ham -- water added, slice, boneless, separable lean and fat, heated, pan-broil
+pork, cured, ham -- water added, whole, boneless, separable lean and fat, heated, roasted
+pork, cured, ham and water product, rump, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham and water product, shank, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham and water product, slice, bone-in, separable lean and fat, heated, pan-broil
+pork, cured, ham and water product, slice, boneless, separable lean and fat, heated, pan-broil
+pork, cured, ham and water product, whole, boneless, separable lean and fat, heated, roasted
+pork, cured, ham with natural juices, rump, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham with natural juices, slice, bone-in, separable lean and fat, heated, pan-broil
+pork, cured, ham with natural juices, slice, boneless, separable lean and fat, heated, pan-broil
+pork, cured, ham with natural juices, spiral slice, boneless, separable lean and fat, heated, roasted
+pork, cured, ham with natural juices, whole, boneless, separable lean and fat, heated, roasted
+pork, cured, ham, rump, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham, rump, bone-in, separable lean only, heated, roasted
+pork, cured, ham, rump, bone-in, separable lean only, unheated
+pork, cured, ham, shank, bone-in, separable lean only, heated, roasted
+pork, cured, ham, shank, bone-in, separable lean only, unheated
+pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted
+pork, cured, ham, shank, bone-in, separable lean and fat, unheated
+pork, cured, ham, slice, bone-in, separable lean and fat, heated, pan-broil
+pork, cured, ham, slice, bone-in, separable lean only, unheated
+pork, cured, ham, slice, bone-in, separable lean and fat, unheated
+pork, fresh, spareribs, separable lean and fat, cooked, roasted
+pork, fresh, enhanced, composite of separable fat, raw
+pork, fresh, enhanced, loin, tenderloin, separable lean only, cooked, roasted
+pork, fresh, enhanced, loin, tenderloin, separable lean only, raw
+pork, fresh, enhanced, shoulder, (boston butt), blade (steaks), separable lean only, cooked, braised
+pork, fresh, enhanced, shoulder, (boston butt), blade (steaks), separable lean only, raw
+pork, fresh, enhanced, loin, top loin (chops), boneless, separable lean only, cooked, broiled
+pork, fresh, enhanced, loin, top loin (chops), boneless, separable lean only, raw
+pork, fresh, enhanced, loin, top loin (chops), boneless, separable lean and fat, raw
+pork, fresh, enhanced, loin, top loin (chops), boneless, separable lean and fat, cooked, broiled
+pork, fresh, enhanced, loin, tenderloin, separable lean and fat, raw
+pork, fresh, enhanced, loin, tenderloin, separable lean and fat, cooked, roasted
+pork, fresh, enhanced, shoulder, (boston butt), blade (steaks), separable lean and fat, raw
+pork, fresh, enhanced, shoulder, (boston butt), blade (steaks), separable lean and fat, cooked, braised
+pork, cured, ham, rump, bone-in, separable lean and fat, unheated
+pork, loin, leg cap steak, boneless, separable lean and fat, cooked, broiled
+pork, leg cap steak, boneless, separable lean and fat, raw
+pork, shoulder breast, boneless, separable lean and fat, raw
+pork, shoulder breast, boneless, separable lean and fat, cooked, broiled
+pork, shoulder, petite tender, boneless, separable lean and fat, cooked, broiled
+pork, shoulder petite tender, boneless, separable lean and fat, raw
+pork, leg sirloin tip roast, boneless, separable lean and fat, cooked, braised
+pork, leg sirloin tip roast, boneless, separable lean and fat, raw
+pork, ground, 84% lean / 16% fat, raw
+pork, ground, 96% lean / 4% fat, raw
+pork, ground, 72% lean / 28% fat, cooked, crumbles
+pork, ground, 84% lean / 16% fat, cooked, crumbles
+pork, ground, 96% lean / 4% fat, cooked, crumbles
+pork, ground, 72% lean / 28% fat, cooked, pan-broiled
+pork, ground, 84% lean / 16% fat, cooked, pan-broiled
+pork, ground, 96% lean / 4% fat, cooked, pan-broiled
+pork, fresh, loin, blade (chops or roasts), boneless, separable lean only, raw
+pork, fresh, loin, blade (roasts), boneless, separable lean only, cooked, roasted
+pork, fresh, loin, blade (chops), boneless, separable lean only, boneless, cooked, broiled
+pork, fresh, loin, country-style ribs, separable lean only, boneless, cooked, broiled
+pork, fresh, loin, country-style ribs, separable lean only, bone-in, cooked, broiled
+pork, fresh, loin, country-style ribs, separable lean only, boneless, cooked, roasted
+pork, fresh, blade, (chops), boneless, separable lean and fat, cooked, broiled
+pork, fresh, loin, blade (chops or roasts), boneless, separable lean and fat only, raw
+pork, fresh, loin, blade (roasts), boneless, separable lean and fat, cooked, roasted
+pork, fresh, loin, country-style ribs, separable lean and fat, boneless, cooked, broiled
+pork, fresh, loin, country-style ribs, separable lean and fat, bone-in, cooked, broiled
+pork, fresh, loin, country-style ribs, separable lean and fat, boneless, cooked, roasted
+bacon, pre-sliced, reduced/low sodium, unprepared
+canadian bacon, cooked, pan-fried
+pork, oriental style, dehydrated
+pork, cured, ham, boneless, low sodium, extra lean and regular, roasted
+pork, cured, ham, low sodium, lean and fat, cooked
+pork, cured, ham, boneless, low sodium, extra lean (approximately 5% fat), roasted
+pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium
