@@ -279,7 +279,7 @@ def getRecipeInfo(myURL):
 	with open('recipeJson.json', 'r') as f:
 		myJobj = map(json.loads, f)
 
-	return myInternalRecipe
+	return myInternalRecipe, recipe
 
 	#print myJobj
 
@@ -292,8 +292,8 @@ def getRecipeInfo(myURL):
 ### The main function is just to call the function that does everything and gets the data ###
 
 def main():
-	object = getRecipeInfo(sys.argv[1])
-	return object
+	internal, complete = getRecipeInfo(sys.argv[1])
+	return internal, complete
 
 
 if __name__ == "__main__":

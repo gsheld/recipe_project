@@ -2,13 +2,13 @@ import pprint
 import NLPtool
 from IngredObj import IngredObj
 import IngredRecog
-import RecipeProject
+# import RecipeProject
 
 
 def txt2attr_list(folder, attr_names, Dict):
 # Read the lists for all the attribute names passed in
 # folder    = path
-# attr_name = file name & attribute name 
+# attr_name = file name & attribute name
     for attr_name in attr_names:
         tmp = []
         filename = folder + '/' + attr_name + '.txt'
@@ -20,7 +20,7 @@ def txt2attr_list(folder, attr_names, Dict):
                     tmp.append(ingred.lower().rstrip().lstrip())
         Dict[attr_name] = tmp
 #
-    
+
 
 
 def add_nutrition(nutritions, ingred_attr):
@@ -29,7 +29,7 @@ def add_nutrition(nutritions, ingred_attr):
         nutrition = nutritions[nutri_name]
         for ingred in nutrition:
             ID = NLPtool.uni_rep(ingred)
-            # Make unique identifier to merge similar 
+            # Make unique identifier to merge similar
             # representations of the same ingredient
             if ID not in ingred_attr:
                 ingred_attr[ID] = IngredObj(ingred) # Point ID to a new ingredient object, with name ingred
@@ -43,7 +43,7 @@ def add_cuisine(cuisines, ingred_attr, frequent_sub, thrown_list):
         cuisine = cuisines[cuisine_name]
         for ingred in cuisine:
             ID = NLPtool.uni_rep(ingred)
-            # Make unique identifier to merge similar 
+            # Make unique identifier to merge similar
             # representations of the same ingredient
             nutri = None
             if ID not in ingred_attr:
@@ -88,7 +88,7 @@ def additional_logic(ingred_attr):
                'fruit' in obj.nutri or\
                'vegan' in obj.cuisine:
             obj.cuisine.add('vegetarian')
-        
+
 #
 
 def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
@@ -103,9 +103,6 @@ def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
 #
 
 
-def load_recipes():
-# load the recipe list in the 
-
 def learn_ingredients(path):
 # Wrap the entire data table loading and building process
     nutritions = {}
@@ -115,7 +112,7 @@ def learn_ingredients(path):
     frequent = {}
     load_knowledge_base(path, nutritions, cuisines)
     frequent = build_table(path, ingred_attr, nutritions, cuisines, thrown_list)
-    recipes = load_recipes()
+    # recipes = load_recipes()
     return [ingred_attr, nutritions, cuisines, thrown_list, frequent]
     #pprint.pprint(thrown_list)
     #pprint.pprint(frequent)
