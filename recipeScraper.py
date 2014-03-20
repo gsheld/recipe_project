@@ -10,6 +10,7 @@ import re
 import sys
 import string
 import json
+import random
 from itertools import cycle
 from pprint import pprint
 from nltk.util import ngrams
@@ -43,17 +44,38 @@ def getRecipeInfo():
 	ingredientSet1AmountsObjects = driver.find_elements_by_xpath(ingredientSet1AmountsXPath)
 
 	for value in ingredientSet1NamesObjects:
-		singleIngredient['name'] = str(value.get_attribute("innerHTML"))
-		singleIngredient['descriptor'] = ''
+		fullSingleIngredient = str(value.get_attribute("innerHTML"))
+		if string.find(fullSingleIngredient, ', ') > -1:
+			singleIngredientParts = string.split(fullSingleIngredient, ', ')
+			singleIngredient['name'] = singleIngredientParts[0]
+			singleIngredient['descriptor'] = singleIngredientParts[1]
+		else:
+			singleIngredient['name'] = fullSingleIngredient
+			singleIngredient['descriptor'] = ''
 		singleIngredient['preparation'] = ''
 		ingredients.append(singleIngredient)
 		singleIngredient = {}
 	i = 0
 	for value in ingredientSet1AmountsObjects:
 		amount = str(value.get_attribute("innerHTML"))
-		qty = re.search(r"[a-z]+", amount, flags=2)
-		print qty.group(0)
-		ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
+		qty = re.search(r"[a-z]+", amount)
+		if qty != None:
+			#print qty.group(0)
+			ingredients[i]['measurement'] = qty.group(0)
+			myQty = string.replace(amount, str(qty.group(0)), '')
+			myQty = myQty.strip()
+			if string.find(myQty, '/') > -1:			
+				qtyNum = string.split(myQty, '/')
+				if string.find(qtyNum[0], ' ') > -1:
+					numerator = string.split(qtyNum[0], ' ')
+					ingredients[i]['quantity'] = (float(numerator[0])*float(qtyNum[1])+float(numerator[1]))/float(qtyNum[1])
+				else:
+					ingredients[i]['quantity'] = float(qtyNum[0])/float(qtyNum[1])
+			else:
+				ingredients[i]['quantity'] = myQty
+		else:
+			ingredients[i]['measurement'] = 'unit'
+			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
 		i += 1
 
 	ingredientSet2NamesXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap secondColumn"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngName"]'
@@ -63,14 +85,38 @@ def getRecipeInfo():
 	ingredientSet2AmountsObjects = driver.find_elements_by_xpath(ingredientSet2AmountsXPath)
 
 	for value in ingredientSet2NamesObjects:
-		singleIngredient['name'] = str(value.get_attribute("innerHTML"))
-		singleIngredient['descriptor'] = ''
+		fullSingleIngredient = str(value.get_attribute("innerHTML"))
+		if string.find(fullSingleIngredient, ', ') > -1:
+			singleIngredientParts = string.split(fullSingleIngredient, ', ')
+			singleIngredient['name'] = singleIngredientParts[0]
+			singleIngredient['descriptor'] = singleIngredientParts[1]
+		else:
+			singleIngredient['name'] = fullSingleIngredient
+			singleIngredient['descriptor'] = ''
 		singleIngredient['preparation'] = ''
 		ingredients.append(singleIngredient)
 		singleIngredient = {}
 
 	for value in ingredientSet2AmountsObjects:
-		ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
+		amount = str(value.get_attribute("innerHTML"))
+		qty = re.search(r"[a-z]+", amount)
+		if qty != None:
+			#print qty.group(0)
+			ingredients[i]['measurement'] = qty.group(0)
+			myQty = string.replace(amount, str(qty.group(0)), '')
+			myQty = myQty.strip()
+			if string.find(myQty, '/') > -1:			
+				qtyNum = string.split(myQty, '/')
+				if string.find(qtyNum[0], ' ') > -1:
+					numerator = string.split(qtyNum[0], ' ')
+					ingredients[i]['quantity'] = (float(numerator[0])*float(qtyNum[1])+float(numerator[1]))/float(qtyNum[1])
+				else:
+					ingredients[i]['quantity'] = float(qtyNum[0])/float(qtyNum[1])
+			else:
+				ingredients[i]['quantity'] = myQty
+		else:
+			ingredients[i]['measurement'] = 'unit'
+			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
 		i += 1
 
 	#pprint(ingredients)
@@ -191,7 +237,7 @@ def getRecipeInfo():
 	
 	recipe = {}
 	recipe['ingredients'] = ingredients
-	recipe['cooking method'] = recipeCookingMethods
+	recipe['cooking method'] = random.choice(recipeCookingMethods)
 	recipe['cooking tools'] = recipeCookingUtensils
 
 	pprint(recipe)
@@ -202,7 +248,7 @@ def getRecipeInfo():
 	for item in ingredients:
 		myInternalRecipe['ingredients'].append(item['name'])
 	
-	print myInternalRecipe
+	#print myInternalRecipe
 	
 	f = open('recipeJson.json', 'w')
 	jobj = json.dumps(recipe)
@@ -210,7 +256,7 @@ def getRecipeInfo():
 	f.close()
 	with open('recipeJson.json', 'r') as f:
 		myJobj = map(json.loads, f)
-	print myJobj
+	#print myJobj
 
 	#pg_src = driver.page_source.encode("utf-8")
 	#time.sleep(1)
