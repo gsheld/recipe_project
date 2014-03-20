@@ -1,0 +1,353 @@
+veal, australian, rib, rib roast, separable lean only, raw
+lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4" fat, choice, cooked
+lamb, domestic, composite of trimmed retail cuts, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, composite of trimmed retail cuts, separable lean only, trimmed to 1/4" fat, choice, cooked
+lamb, domestic, composite of trimmed retail cuts, separable fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, composite of trimmed retail cuts, separable fat, trimmed to 1/4" fat, choice, cooked
+lamb, domestic, foreshank, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, foreshank, separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, foreshank, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, foreshank, separable lean only, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, shank half, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, leg, sirloin half, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, leg, sirloin half, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, loin, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, loin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, loin, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, loin, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, loin, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, loin, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, rib, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, rib, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, rib, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, rib, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, rib, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, rib, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, whole (arm and blade), separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, arm, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4" fat, choice, raw
+lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4" fat, choice, cooked, braised
+lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4" fat, choice, cooked, broiled
+lamb, domestic, shoulder, blade, separable lean only, trimmed to 1/4" fat, choice, cooked, roasted
+lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4" fat, raw
+lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4" fat, cooked, braised
+lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only, trimmed to 1/4" fat, cooked, broiled
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, raw
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, cooked
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, raw
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean only, cooked
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable fat, raw
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable fat, cooked
+lamb, new zealand, imported, frozen, foreshank, separable lean and fat, raw
+lamb, new zealand, imported, frozen, foreshank, separable lean and fat, cooked, braised
+lamb, new zealand, imported, frozen, foreshank, separable lean only, raw
+lamb, new zealand, imported, frozen, foreshank, separable lean only, cooked, braised
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, raw
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, cooked, roasted
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean only, raw
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean only, cooked, roasted
+lamb, new zealand, imported, frozen, loin, separable lean and fat, raw
+lamb, new zealand, imported, frozen, loin, separable lean and fat, cooked, broiled
+lamb, new zealand, imported, frozen, loin, separable lean only, raw
+lamb, new zealand, imported, frozen, loin, separable lean only, cooked, broiled
+lamb, new zealand, imported, frozen, rib, separable lean and fat, raw
+lamb, new zealand, imported, frozen, rib, separable lean and fat, cooked, roasted
+lamb, new zealand, imported, frozen, rib, separable lean only, raw
+lamb, new zealand, imported, frozen, rib, separable lean only, cooked, roasted
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, raw
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, cooked, braised
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean only, raw
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean only, cooked, braised
+veal, composite of trimmed retail cuts, separable lean and fat, raw
+veal, composite of trimmed retail cuts, separable lean and fat, cooked
+veal, composite of trimmed retail cuts, separable lean only, raw
+veal, composite of trimmed retail cuts, separable lean only, cooked
+veal, composite of trimmed retail cuts, separable fat, raw
+veal, composite of trimmed retail cuts, separable fat, cooked
+veal, leg (top round), separable lean and fat, raw
+veal, leg (top round), separable lean and fat, cooked, braised
+veal, leg (top round), separable lean and fat, cooked, pan-fried, breaded
+veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded
+veal, leg (top round), separable lean and fat, cooked, roasted
+veal, leg (top round), separable lean only, raw
+veal, leg (top round), separable lean only, cooked, braised
+veal, leg (top round), separable lean only, cooked, pan-fried, breaded
+veal, leg (top round), separable lean only, cooked, pan-fried, not breaded
+veal, leg (top round), separable lean only, cooked, roasted
+veal, loin, separable lean and fat, raw
+veal, loin, separable lean and fat, cooked, braised
+veal, loin, separable lean and fat, cooked, roasted
+veal, loin, separable lean only, raw
+veal, loin, separable lean only, cooked, braised
+veal, loin, separable lean only, cooked, roasted
+veal, rib, separable lean and fat, raw
+veal, rib, separable lean and fat, cooked, braised
+veal, rib, separable lean and fat, cooked, roasted
+veal, rib, separable lean only, raw
+veal, rib, separable lean only, cooked, braised
+veal, rib, separable lean only, cooked, roasted
+veal, shoulder, whole (arm and blade), separable lean and fat, raw
+veal, shoulder, whole (arm and blade), separable lean and fat, cooked, braised
+veal, shoulder, whole (arm and blade), separable lean and fat, cooked, roasted
+veal, shoulder, whole (arm and blade), separable lean only, raw
+veal, shoulder, whole (arm and blade), separable lean only, cooked, braised
+veal, shoulder, whole (arm and blade), separable lean only, cooked, roasted
+veal, shoulder, arm, separable lean and fat, raw
+veal, shoulder, arm, separable lean and fat, cooked, braised
+veal, shoulder, arm, separable lean and fat, cooked, roasted
+veal, shoulder, arm, separable lean only, raw
+veal, shoulder, arm, separable lean only, cooked, braised
+veal, shoulder, arm, separable lean only, cooked, roasted
+veal, shoulder, blade, separable lean and fat, raw
+veal, shoulder, blade, separable lean and fat, cooked, braised
+veal, shoulder, blade, separable lean and fat, cooked, roasted
+veal, shoulder, blade, separable lean only, raw
+veal, shoulder, blade, separable lean only, cooked, braised
+veal, shoulder, blade, separable lean only, cooked, roasted
+veal, sirloin, separable lean and fat, raw
+veal, sirloin, separable lean and fat, cooked, braised
+veal, sirloin, separable lean and fat, cooked, roasted
+veal, sirloin, separable lean only, raw
+veal, sirloin, separable lean only, cooked, braised
+veal, sirloin, separable lean only, cooked, roasted
+veal, cubed for stew (leg and shoulder), separable lean only, raw
+veal, cubed for stew (leg and shoulder), separable lean only, cooked, braised
+veal, ground, raw
+veal, ground, cooked, broiled
+game meat, antelope, raw
+game meat, antelope, cooked, roasted
+game meat, bear, raw
+game meat, bear, cooked, simmered
+bison, ground, grass-fed, cooked
+bison, ground, grass-fed, raw
+game meat, beaver, raw
+game meat, beaver, cooked, roasted
+game meat, beefalo, composite of cuts, raw
+game meat, beefalo, composite of cuts, cooked, roasted
+veal, australian, separable fat, raw
+veal, australian, rib, rib roast, separable lean and fat, raw
+game meat, bison, separable lean only, raw
+game meat, bison, separable lean only, cooked, roasted
+game meat, boar, wild, raw
+game meat, boar, wild, cooked, roasted
+game meat, buffalo, water, raw
+game meat, buffalo, water, cooked, roasted
+game meat, caribou, raw
+game meat, caribou, cooked, roasted
+game meat, deer, raw
+game meat, deer, cooked, roasted
+game meat, elk, raw
+game meat, elk, cooked, roasted
+goat, raw
+game meat, goat, cooked, roasted
+game meat, horse, raw
+game meat, horse, cooked, roasted
+game meat, moose, raw
+game meat, moose, cooked, roasted
+game meat, muskrat, raw
+game meat, muskrat, cooked, roasted
+game meat, opossum, cooked, roasted
+game meat, rabbit, domesticated, composite of cuts, raw
+game meat, rabbit, domesticated, composite of cuts, cooked, roasted
+game meat, rabbit, domesticated, composite of cuts, cooked, stewed
+game meat, rabbit, wild, raw
+game meat, rabbit, wild, cooked, stewed
+game meat, raccoon, cooked, roasted
+game meat, squirrel, raw
+game meat, squirrel, cooked, roasted
+lamb, variety meats and by-products, brain, raw
+lamb, variety meats and by-products, brain, cooked, braised
+lamb, variety meats and by-products, brain, cooked, pan-fried
+veal, variety meats and by-products, brain, raw
+veal, variety meats and by-products, brain, cooked, braised
+veal, variety meats and by-products, brain, cooked, pan-fried
+lamb, variety meats and by-products, heart, raw
+lamb, variety meats and by-products, heart, cooked, braised
+veal, variety meats and by-products, heart, raw
+veal, variety meats and by-products, heart, cooked, braised
+lamb, variety meats and by-products, kidneys, raw
+lamb, variety meats and by-products, kidneys, cooked, braised
+veal, variety meats and by-products, kidneys, raw
+veal, variety meats and by-products, kidneys, cooked, braised
+lamb, variety meats and by-products, liver, raw
+lamb, variety meats and by-products, liver, cooked, braised
+lamb, variety meats and by-products, liver, cooked, pan-fried
+veal, variety meats and by-products, liver, raw
+veal, variety meats and by-products, liver, cooked, braised
+veal, variety meats and by-products, liver, cooked, pan-fried
+lamb, variety meats and by-products, lungs, raw
+lamb, variety meats and by-products, lungs, cooked, braised
+veal, variety meats and by-products, lungs, raw
+veal, variety meats and by-products, lungs, cooked, braised
+lamb, variety meats and by-products, mechanically separated, raw
+lamb, variety meats and by-products, pancreas, raw
+lamb, variety meats and by-products, pancreas, cooked, braised
+veal, variety meats and by-products, pancreas, raw
+veal, variety meats and by-products, pancreas, cooked, braised
+lamb, variety meats and by-products, spleen, raw
+lamb, variety meats and by-products, spleen, cooked, braised
+veal, variety meats and by-products, spleen, raw
+veal, variety meats and by-products, spleen, cooked, braised
+veal, variety meats and by-products, thymus, raw
+veal, variety meats and by-products, thymus, cooked, braised
+lamb, variety meats and by-products, tongue, raw
+lamb, variety meats and by-products, tongue, cooked, braised
+veal, variety meats and by-products, tongue, raw
+veal, variety meats and by-products, tongue, cooked, braised
+lamb, ground, raw
+lamb, ground, cooked, broiled
+lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, choice, cooked
+lamb, domestic, foreshank, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, foreshank, separable lean and fat, trimmed to 1/8" fat, cooked, braised
+lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, leg, shank half, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, leg, sirloin half, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, loin, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, loin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+lamb, domestic, loin, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, rib, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, rib, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+lamb, domestic, rib, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+lamb, domestic, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, domestic, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, choice, roasted
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, choice, raw
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, choice, cooked, braised
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, choice, cooked, broiled
+lamb, domestic, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, choice, cooked, roasted
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, cooked
+lamb, new zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, foreshank, separable lean and fat, trimmed to 1/8" fat, cooked, braised
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, new zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, loin, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, new zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, rib, separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, raw
+lamb, new zealand, imported, frozen, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, cooked, braised
+game meat, bison, top sirloin, separable lean only, trimmed to 0" fat, raw
+game meat, bison, ribeye, separable lean only, trimmed to 0" fat, raw
+game meat, bison, shoulder clod, separable lean only, trimmed to 0" fat, raw
+veal, breast, separable fat, cooked
+veal, breast, whole, boneless, separable lean and fat, raw
+veal, breast, whole, boneless, separable lean and fat, cooked, braised
+veal, breast, plate half, boneless, separable lean and fat, cooked, braised
+veal, breast, point half, boneless, separable lean and fat, cooked, braised
+veal, breast, whole, boneless, separable lean only, cooked, braised
+veal, shank (fore and hind), separable lean and fat, raw
+veal, shank (fore and hind), separable lean and fat, cooked, braised
+veal, shank (fore and hind), separable lean only, raw
+veal, shank (fore and hind), separable lean only, cooked, braised
+lamb, australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8" fat, cooked
+lamb, australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, composite of trimmed retail cuts, separable lean only, trimmed to 1/8" fat, cooked
+lamb, australian, imported, fresh, separable fat, raw
+lamb, australian, imported, fresh, separable fat, cooked
+lamb, australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, foreshank, separable lean and fat, trimmed to 1/8" fat, cooked, braised
+lamb, australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, foreshank, separable lean only, trimmed to 1/8" fat, cooked, braised
+lamb, australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, whole (shank and sirloin), separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, whole (shank and sirloin), separable lean only, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, shank half, separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, shank half, separable lean only, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, sirloin half, boneless, separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, sirloin half, boneless, separable lean only, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, sirloin chops, boneless, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, sirloin chops, boneless, separable lean only, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, center slice, bone-in, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, leg, center slice, bone-in, separable lean only, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, loin, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, loin, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, loin, separable lean only, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, rib, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, rib, separable lean and fat, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, rib, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, rib, separable lean only, trimmed to 1/8" fat, cooked, roasted
+lamb, australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/8" fat, cooked
+lamb, australian, imported, fresh, shoulder, whole (arm and blade), separable lean only,   trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder, whole (arm and blade), separable lean only, trimmed to 1/8" fat, cooked
+lamb, australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder, arm, separable lean and fat, trimmed to 1/8" fat, cooked, braised
+lamb, australian, imported, fresh, shoulder, arm, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder, arm, separable lean only,   trimmed to 1/8" fat, cooked, braised
+lamb, australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder, blade, separable lean and fat, trimmed to 1/8" fat, cooked, broiled
+lamb, australian, imported, fresh, shoulder, blade, separable lean only, trimmed to 1/8" fat, raw
+lamb, australian, imported, fresh, shoulder ,blade, separable lean only, trimmed to 1/8" fat, cooked, broiled
+game meat , bison, ground, raw
+game meat, bison, ground, cooked, pan-broiled
+game meat , bison, top sirloin, separable lean only, 1" steak, cooked, broiled
+game meat, bison, chuck, shoulder clod, separable lean only, 3-5 lb roast, cooked, braised
+game meat, bison, chuck, shoulder clod, separable lean only, 3-5 lb roast, raw
+game meat, bison, ribeye, separable lean only, 1" steak, cooked, broiled
+game meat, bison, top round, separable lean only, 1" steak, cooked, broiled
+game meat, bison, top round, separable lean only, 1" steak, raw
+game meat, elk, ground, raw
+game meat, elk, ground, cooked, pan-broiled
+game meat, elk, loin, separable lean only, cooked, broiled
+game meat, elk, round, separable lean only, cooked, broiled
+game meat, elk, tenderloin, separable lean only, cooked, broiled
+game meat, deer, ground, raw
+game meat, deer, ground, cooked, pan-broiled
+game meat, deer, loin, separable lean only, 1" steak, cooked, broiled
+game meat, deer, shoulder clod, separable lean only, 3-5 lb roast, cooked, braised
+game meat, deer, tenderloin, separable lean only, 0.5-1 lb roast, cooked, broiled
+game meat, deer, top round, separable lean only, 1" steak, cooked, broiled
+veal, australian, shank, fore, bone-in, separable lean only, raw
+veal, australian, shank, fore, bone-in, separable lean and fat, raw
+veal, australian, shank, hind, bone-in, separable lean only, raw
+veal, australian, shank, hind, bone-in, separable lean and fat
+lamb, australian, ground,  85% lean / 15% fat, raw
