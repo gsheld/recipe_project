@@ -2,9 +2,10 @@ import pprint
 import NLPtool
 from IngredObj import IngredObj
 import IngredRecog
-from RecipeObject import RecipeObject
 import cPickle
 
+sys.path.append('..')
+from RecipeObject import RecipeObject
 
 def txt2attr_list(folder, attr_names, Dict):
 # Read the lists for all the attribute names passed in
@@ -103,9 +104,6 @@ def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
     return frequent
 #
 
-
-<<<<<<< HEAD
-=======
 def load_recipes(path):
 # load the recipe list in the
     databaseFile = open(path+'database-updated.pkl', 'rb')
@@ -113,7 +111,6 @@ def load_recipes(path):
     databaseFile.close()
     return recipes
 
->>>>>>> 6f945063ce0a52d106a7793811c884b884d14f51
 def learn_ingredients(path):
 # Wrap the entire data table loading and building process
     nutritions = {}
@@ -123,13 +120,8 @@ def learn_ingredients(path):
     frequent = {}
     load_knowledge_base(path, nutritions, cuisines)
     frequent = build_table(path, ingred_attr, nutritions, cuisines, thrown_list)
-<<<<<<< HEAD
-    # recipes = load_recipes()
-    return [ingred_attr, nutritions, cuisines, thrown_list, frequent]
-=======
     recipes = load_recipes(path)
     return [ingred_attr, nutritions, cuisines, thrown_list, recipes, frequent]
->>>>>>> 6f945063ce0a52d106a7793811c884b884d14f51
     #pprint.pprint(thrown_list)
     #pprint.pprint(frequent)
 #
