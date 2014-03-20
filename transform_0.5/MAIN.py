@@ -61,7 +61,7 @@ Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
 # Knowledge: [ingred_attr, nutritions, cuisines, thrown_list, recipes, frequent]
 common_words(Knowledge[0], 10)
 #pprint.pprint(Knowledge[-1])
-pprint.pprint(Knowledge[-2])
+#pprint.pprint(Knowledge[-2])
 
 print RecipeTransform.transform(['pork','lamb','salt','deep south dry rub'], 'french', Knowledge)
 print ''

@@ -3,6 +3,7 @@ import NLPtool
 from IngredObj import IngredObj
 import IngredRecog
 import cPickle
+import sys
 
 sys.path.append('..')
 from RecipeObject import RecipeObject
@@ -107,7 +108,7 @@ def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
 def load_recipes(path):
 # load the recipe list in the
     databaseFile = open(path+'database-updated.pkl', 'rb')
-    recipes = pickle.load(databaseFile)
+    recipes = cPickle.load(databaseFile)
     databaseFile.close()
     return recipes
 
