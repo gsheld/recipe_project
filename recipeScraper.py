@@ -23,7 +23,7 @@ def getRecipeInfo():
 
 	driver = webdriver.Firefox()
 	myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
-	print myURL
+	#print myURL
 	driver.get(myURL)
 
 	### Here the recipe name is extracted ###
@@ -33,7 +33,7 @@ def getRecipeInfo():
 
 	for value in recipeNameObject:
 		recipeName = value.get_attribute("innerHTML")
-	print recipeName
+	#print recipeName
 
 	ingredients = []
 	singleIngredient = {}
@@ -240,7 +240,7 @@ def getRecipeInfo():
 	recipe['cooking method'] = random.choice(recipeCookingMethods)
 	recipe['cooking tools'] = recipeCookingUtensils
 
-	pprint(recipe)
+	#pprint(recipe)
 
 	myInternalRecipe = {}
 	myInternalRecipe['name'] = str(recipeName)
@@ -256,6 +256,9 @@ def getRecipeInfo():
 	f.close()
 	with open('recipeJson.json', 'r') as f:
 		myJobj = map(json.loads, f)
+	
+	return myInternalRecipe
+	
 	#print myJobj
 
 	#pg_src = driver.page_source.encode("utf-8")
@@ -345,7 +348,8 @@ def getRecipeInfo():
 ### The main function is just to call the function that does everything and gets the data ###
 
 def main():
-	getRecipeInfo()
+	object = getRecipeInfo()
+	return object
 
 
 if __name__ == "__main__":
