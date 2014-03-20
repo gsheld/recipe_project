@@ -13,9 +13,8 @@ bead-like pasta
 biã¡ng biã¡ng noodles
 brown rice
 brown rice bread
-brown rice tortilla
-brown rice
 brown rice flour
+brown rice tortilla
 bucatini
 buckwheat
 buckwheat flour
@@ -30,6 +29,7 @@ capellini
 capunti
 casarecce
 casoncelli
+casonsã¨i
 casunziei
 cavatappi
 cavatelli
@@ -43,8 +43,8 @@ conchigliette
 conchiglioni
 corallini
 corn
-corn tortillas
 corn chips
+corn tortillas
 cornbread
 corzetti
 couscous
@@ -173,7 +173,6 @@ rigatoncini
 rigatoni
 risi
 rolled oats
-rolled oats
 rolled oats or oat groats
 rotelle
 rotini
@@ -183,6 +182,7 @@ sacchettoni
 sagnarelli
 sagne 'ncannulate
 scialatelli
+scilatielli
 seme di melone
 shahe fen
 shredded wheat
@@ -228,37 +228,28 @@ vermicelli
 vermicelloni
 wheat
 wheat berries
-wheat berries
 wheatberries
-white bread
-white rice
-white sandwich buns and rolls
 white bread
 white flour
 white rice
+white sandwich buns and rolls
 whole grain barley
 whole grain cornmeal
+whole rice crackers
 whole rye
+whole rye flour
+whole wheat
 whole wheat bread
 whole wheat cereal flakes
 whole wheat couscous
 whole wheat crackers
+whole wheat flour
 whole wheat pasta
 whole wheat pita bread
 whole wheat sandwich buns and rolls
 whole wheat tortillas
-whole rice crackers
-whole rye flour
-whole wheat
-whole wheat bread
-whole wheat pasta
-whole wheat crackers
-whole wheat flour
 whole-wheat pasta or couscous
-wild rice
 wild rice
 ziti
 zitoni
-casonsã¨i
-scilatielli
 ï»¿amaranth

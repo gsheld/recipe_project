@@ -44,6 +44,7 @@ chaat masala
 chana dal
 chat masala
 cheddar cheese
+chicken
 chili peppers
 chili powder 
 cinnamon
@@ -109,7 +110,7 @@ jaggery
 jaljeera powder
 kali mirch / black pepper
 kalijiri seeds
-lemon salt
+lamblemon salt
 lentils
 mace
 maida / all-purpose flour
@@ -177,9 +178,11 @@ samba rice
 sambar powder
 sambhar masala
 saunf / fennel seed
+sea bass
 semolina
 sesame oil
 sesame seeds
+shrimp
 sooji / semolina
 soya sauce
 soybean oil

@@ -2,16 +2,22 @@
 2% fat  lactose reduced milk
 2% fat  lactose-free milk
 2% fat milk
-american swiss cheese
 american cheese
 american cheese food
 american pasteurized process cheese food
+american swiss cheese
 ammonium caseinate
-bavarian swiss cheese
+baby gouda
+baker's cheese
 bavarian blue
+bavarian swiss cheese
 beaufort
 beaumont cheese
+beer cheese
+beer kaese
 bel paese
+bierkaese
+bierkã¤se
 bleu d'auvergne
 bleu de bresse
 bleu de chevre
@@ -20,11 +26,13 @@ bleu de septmoncel
 bleu des causses
 bleuet
 blue castello
-blue cheshire
 blue cheese
+blue cheshire
 bocconcini
+boule de lille
 boursault
 boursin
+breakfast cream
 bresse bleu
 brick cheese
 brie
@@ -32,11 +40,13 @@ brillat savarin cheese
 brinza cheese
 bryndza cheese
 brynza cheese
+buffalo milk mozzarella
 butter
 butter fat
 butter oil
 butter solids
 buttermilk
+buttermilk cheese
 buttermilk powder
 cabrales
 cacciocavallo
@@ -57,46 +67,71 @@ carrã© de l'est
 casciotta
 casein
 caseinate 
+casero cheese
 cashel bleu
 cashel blue
+castle cheese
+chaka
 chaource cheese
 chaubier cheese
 cheddar
 cheese
 cheshire
+chevre (aged)
+chevre frais
 chihuahuaâ® cheese
 chocolate flavored milk
+chã¨vre
+chã¨vre frais
+clotted cream
+coconut butter
+coconut cream
+coconut juice
+coconut milk
+coconut water
+coffee cream
 colby
 comte
 comte gruyere
 comtã©
+concentrated milk
 condensed milk
 cool whip
 coon
+corsu vecchio cheese
+cotija
 cottage cheese
 coulommiers
+cow's milk
+cow's milk mozzarella
 cream
+cream cheese
+cream of coconut
 crema dania
 crema danica
 crescenza
+curd-cheese
 curds
 custard
 danablu
 danbo
-danish port salut
 danish blue
+danish port salut
 delactosed whey
 demineralized whey
-derby sage cheese
 derby cheese
+derby sage cheese
 derbyshire cheese
 devon cream
 devonshire cream
+double cream
 double gloucester
 dream whip
 drinkable yogurt
+dry jack
 dry milk powder
 dry milk solids
+dry monterey
 edam
 emmental
 emmentaler
@@ -108,18 +143,36 @@ esrom
 evaporated milk
 excelsior
 explorateur
+farm cheese
+farmer cheese
+farmer's cheese
 fat-free  lactose reduced milk
 fat-free  lactose-free milk
 fat-free fruit yogurt
 fat-free milk
 fat-free yogurt
+feta
+fior di latte
 fiore sardo cheese
+fontina
 fourme d'ambert
+fresh hispanic cheese
+fresh hispanic-style cheese
+fresh mexican cheese
+fresh milk
+fresh mozzarella
+fromage de chã¨vre frais
+fromage frais
 frozen yogurt
+gamonedo
+gamoneãº
+gervais
 ghee (see p109)
 gjetost
 gloucester
+goat cheese (fresh)
 goat milk
+goat's milk
 gorgonzola
 gorgonzola dolce
 gorgonzola naturale
@@ -137,13 +190,23 @@ gruyã¨re du comtã©
 half & half
 halloumi
 haloumi
+hand
+handkase
+handkã¤se
 harz
+harzer kase
+harzer kã¤se
 havarti
+heavy cream
+heavy whipping cream
 high moisture mozzarella
+hoop cheese
+horchata
 humboldt fog cheese
 huntsman cheese
 hydrolyzed casein
 hydrolyzed milk protein
+ice cream
 ice milk
 idiazabal cheese
 idiazã¡bal cheese
@@ -151,6 +214,7 @@ indian curd cheese
 irish cashel
 iron caseinate
 italian cream cheese
+jack cheese
 jalapeã±o jack
 jarlsberg
 kachkeval
@@ -158,9 +222,17 @@ kachkeval (aged)
 kaser
 kashkaval
 kashkaval (aged)
+kasseri
 kefalotiri
 kefalotyri
+kefir cheese
+kochkase
+kochkã¤se
+l'explorateur
 la vache qui rit
+labanah
+labne
+labneh
 lactalbumin
 lactoferrin
 lactoglobulin
@@ -171,17 +243,22 @@ laguiole
 lancashire
 lappi
 laughing cow
+lebna
 leerdammer
 leicester
 leiden
 leyden
 liederkranz
+light coconut milk
+light cream
+light whipping cream
 limburger
+lite coconut milk
 livarot
 low fat fruit yogurt
+low fat ice cream
 low fat milk
 low fat yogurt
-low fat ice cream
 low-fat milk
 lowfat drinkable yogurt
 lowfat frozen yogurt
@@ -194,7 +271,11 @@ manchego (aged)
 manchego cheese
 manouri cheese
 maroilles
+mascarpone
+mascherpone
+mature gouda
 maytag blue
+medium gouda
 mexican jack
 milk
 milk derivative
@@ -202,58 +283,111 @@ milk fat
 milk powder
 milk protein
 milk solids
+milnot
+mimolette cheese
 mizithra (aged)
 mizithra cheese
 montbriac
 montbriac rochebaron
 monterey jack
 morbier cheese
+mountain gorgonzola
 mozzarella
+mozzarella di bufalo
 muenster
 munster
 mysost
 mytzithra (aged)
+myzithra
 mã¼nster
 natural butter flavor
 neufchatel
 neufchã¢tel
 nokkelost
+nondairy topping
 nonfat milk
 nonfat powdered (dry) milk
 nougat
 nã¸kkelost
+oat milk
 oaxaca cheese
 oka
+old gouda
 ossau-iraty cheese
 ossau-iraty-brebis-pyrenees
 paglietta
 paladin bavarian blue
 paneer
+panela
+panir cheese
 parmesan
 parmesan cheese
 parmigiano
+pasta filata
 pecorino romano
 pecorino tuscano
 pepper jack
+petit gervais
 petit suisse
 petit-suisse
+picon
 picon cabrales
+picos de europa
+picã³n
+plastic curd cheeses
 pont l'eveque
 pont-l'evãªque
-port salut cheese
 port du salut
+port salut cheese
 potassium caseinate
 powdered (dry) milk 
+powdered milk
+pressed cheese
 primost
+process cheese
+processed cheese
+provolone
 pudding
+pulled curd cheeses
+qaimaaq
+quarg
+quark
+quark-curd
+queso anejado
+queso anejo
+queso asadero
+queso blanco
+queso chihuahuaâ®
+queso crema
+queso de cabrales
+queso de canasta
 queso de l'alt urgell y la cerdanya
+queso de metate
+queso enchilada
+queso fresco
+queso gamonedo
+queso manchego viejo
+queso menonita
+queso panela
+queso para freir
+queso vasco
+raclette
+raw milk
+real milk
 reblochon cheese
 recaldent
 red leicester
 rennet casein
 requeson cheese
 requesã³n
+rice milk
 ricotta
+ricotta cheese
+ricotta salata
+robiola
+robiola cheese (aged)
+robiola lombardia cheese
+robiola piemonte
 romano
 rondele
 rondelã©
@@ -281,10 +415,18 @@ sierra
 single gloucester
 skim milk
 skimmed (nonfat) evaporated milk
+smierkase
+smoked gouda
 sodium caseinate
 sonoma jack
 sour cream
 sour milk solids
+soy beverage
+soy milk
+soya beverage
+soya milk
+soymilk
+spun curd cheeses
 st. andre cheese
 st. marcellin cheese
 st. nectaire cheese
@@ -292,12 +434,15 @@ stilton cheese
 stracchino
 stracchino di crescenza
 strawberry flavored milk
+stretched curd cheeses
+string cheese
 sweet whey
 sweetened condensed milk
 swiss
-swiss sbrinz
 swiss cheese
+swiss sbrinz
 syrian cheese
+table cream
 taleggio
 teleme
 tete de moine
@@ -307,10 +452,13 @@ tilsiter
 tomme crayeuse cheese
 tomme d'abondance
 tomme de beaumont
+tomme de montagne
 tomme de savoie cheese
+topfen
 tybo
 tzfati
 tãªte de moine
+ultra-pasteurized cream
 urgelia cheese
 vacchino romano
 vache qui rit
@@ -318,183 +466,25 @@ vacherin
 valdeon
 vasterboten cheese
 velveeta
+very aged gouda
 wensleydale
 whey
+whey cheeses
 whey powder
 whey protein concentrate
 whey protein hydrolysate
 whipped cream
 whipped topping
+whipping cream
+white cheese
 whole lactose reduced milk
 whole lactose-free milk
 whole milk
 whole milk fruit yogurt
 whole milk puddings
 whole milk yogurt
-yogurt
-zinc caseinate
-baby gouda
-baker's cheese
-beer cheese
-beer kaese
-bierkaese
-bierkã¤se
-boule de lille
-breakfast cream
-buffalo milk mozzarella
-buttermilk cheese
-casero cheese
-castle cheese
-chaka
-chevre (aged)
-chevre frais
-chã¨vre
-chã¨vre frais
-clotted cream
-coconut butter
-coconut cream
-coconut juice
-coconut milk
-coconut water
-coffee cream
-concentrated milk
-condensed milk
-corsu vecchio cheese
-cotija
-cottage cheese
-cow's milk
-cow's milk mozzarella
-cream
-cream cheese
-cream of coconut
-curd-cheese
-double cream
-dry monterey
-dry jack
-evaporated milk
-farm cheese
-farmer cheese
-farmer's cheese
-feta
-fior di latte
-fontina
-fresh hispanic cheese
-fresh hispanic-style cheese
-fresh mexican cheese
-fresh milk
-fresh mozzarella
-fromage de chã¨vre frais
-fromage frais
-gamonedo
-gamoneãº
-gervais
-goat cheese (fresh)
-goat's milk
-hand
-handkase
-handkã¤se
-harzer kase
-harzer kã¤se
-heavy cream
-heavy whipping cream
-hoop cheese
-horchata
-ice cream
-jack cheese
-kasseri
-kefir cheese
-kochkase
-kochkã¤se
-l'explorateur
-labanah
-labne
-labneh
-lebna
-light coconut milk
-light cream
-light whipping cream
-lite coconut milk
-low-fat milk
-mascarpone
-mascherpone
-mature gouda
-medium gouda
-milk
-milnot
-mimolette cheese
-mountain gorgonzola
-mozzarella
-mozzarella di bufalo
-myzithra
-nondairy topping
-oat milk
-old gouda
-paneer
-panela
-panir cheese
-pasta filata
-petit gervais
-picon
-picos de europa
-picã³n
-plastic curd cheeses
-powdered milk
-pressed cheese
-process cheese
-processed cheese
-provolone
-pulled curd cheeses
-qaimaaq
-quarg
-quark
-quark-curd
-queso chihuahuaâ®
-queso manchego viejo
-queso menonita
-queso anejado
-queso anejo
-queso asadero
-queso blanco
-queso crema
-queso de cabrales
-queso de canasta
-queso de metate
-queso enchilada
-queso fresco
-queso gamonedo
-queso panela
-queso para freir
-queso vasco
-raclette
-raw milk
-real milk
-rice milk
-ricotta cheese
-ricotta salata
-robiola
-robiola lombardia cheese
-robiola piemonte
-robiola cheese (aged)
-smierkase
-smoked gouda
-soy beverage
-soy milk
-soya beverage
-soya milk
-soymilk
-spun curd cheeses
-stretched curd cheeses
-string cheese
-sweetened condensed milk
-table cream
-tomme de montagne
-topfen
-ultra-pasteurized cream
-very aged gouda
-whey cheeses
-whipped cream
-whipping cream
-white cheese
 yak cheese
+yogurt
 yogurt cheese
-young goudaï»¿acidophilus milk
+young goudazinc caseinate
+ï»¿acidophilus milk

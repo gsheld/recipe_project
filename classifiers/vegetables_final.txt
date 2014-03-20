@@ -1,5 +1,4 @@
 acorn squash
-acorn squash
 alfalfa sprouts
 amaranth
 anise
@@ -12,18 +11,18 @@ asparagus
 aubergine
 azuki beans 
 banana squash
-banana squash
 basil
 bean sprouts
 beet
 beets
 belgian endive
 belgian endive 
+bell pepper
 bell peppers
+black beans
 black eyed peas
 black radish
 black salsify
-black beans
 black-eyed peas
 bok choy
 bok choy 
@@ -33,12 +32,10 @@ broccoflower
 broccoli
 broccolini
 brussels sprouts
-brussels sprouts
 burdock root
-butter lettuce
 butter bean
+butter lettuce
 buttercup squash
-butternut squash
 butternut squash
 cabbage
 cactus
@@ -49,6 +46,7 @@ carrot
 carrots
 cauliflower
 cayenne pepper
+ceci beans
 celeriac
 celeriac (celery root)
 celery
@@ -63,7 +61,6 @@ chinese eggplants
 chinese long beans
 chives
 cilantro seeds 
-collard greens
 collard greens
 corn
 corn salad
@@ -88,16 +85,15 @@ garlic
 gem squash
 ginger
 green beans
-green soybeans (edamame)
-green beans
+green onion
 green pepper
+green soybeans (edamame)
 habanero
 herbs and spices
 horseradish
 hubbard squash
 jalapeno
 jalapeno peppers
-jerusalem artichoke
 jerusalem artichoke
 jicama
 kale
@@ -111,8 +107,8 @@ lemon grass
 lentils
 lettuce
 lima beans
-lima beans
 maize
+mangel-wurzel
 mangetout
 manoa lettuce
 marjoram
@@ -120,7 +116,6 @@ morel mushrooms
 mung beans
 mushrooms
 mushrooms 
-mustard greens
 mustard greens
 navy beans
 nettles
@@ -140,6 +135,7 @@ pea pods
 pearl onions
 peas
 peppers 
+pimento
 pinto beans
 potato
 potatoes
@@ -160,6 +156,7 @@ rutabaga
 rutabagas
 sage
 salad savoy
+scallion
 shallot
 shallots
 skirret
@@ -171,11 +168,13 @@ spaghetti squash
 spinach
 spring baby lettuce
 spring onion 
+squash
 sugar snap peas
 summer squash
 sweet dumpling squash
-sweet potatoes
 sweet potato 
+sweet potatoes
+sweetcorn
 swiss chard
 tabasco pepper
 taro
@@ -199,12 +198,4 @@ yam
 yucca root
 yukon gold potatoes
 zucchini
-bell pepper
-ceci beans
-green onion
-mangel-wurzel
-pimento
-scallion
-squash
-sweetcorn
 ﻿amaranth

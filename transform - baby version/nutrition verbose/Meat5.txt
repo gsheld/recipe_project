@@ -1,0 +1,243 @@
+barbecue loaf, pork, beef
+beerwurst, beer salami, pork and beef
+beerwurst, beer salami, pork
+sausage, berliner, pork, beef
+blood sausage
+bockwurst, pork, veal, raw
+bologna, beef
+bologna, beef and pork
+bologna, pork
+bologna, turkey
+bratwurst, pork, cooked
+braunschweiger (a liver sausage), pork
+brotwurst, pork, beef, link
+cheesefurter, cheese smokie, pork, beef
+chicken roll, light meat
+chicken spread
+chorizo, pork and beef
+corned beef loaf, jellied
+dutch brand loaf, chicken, pork and beef
+frankfurter, beef, unheated
+frankfurter, beef and pork
+frankfurter, chicken
+frankfurter, turkey
+ham, chopped, canned
+ham, chopped, not canned
+ham, sliced, packaged (96% fat free, water added)
+ham, sliced, regular (approximately 11% fat)
+ham, minced
+ham salad spread
+ham and cheese loaf or roll
+ham and cheese spread
+headcheese, pork
+sausage, italian, pork, raw
+kielbasa, kolbassy, pork, beef, nonfat dry milk added
+knackwurst, knockwurst, pork, beef
+lebanon bologna, beef
+liver cheese, pork
+liver sausage, liverwurst, pork
+luncheon meat, beef, loaved
+luncheon meat, beef, thin sliced
+usda commodity, luncheon meat, canned
+luncheon meat, pork, canned
+turkey breast, low salt, prepackaged or deli, luncheon meat
+mortadella, beef, pork
+olive loaf, pork
+pastrami, turkey
+pate, chicken liver, canned
+pate, goose liver, smoked, canned
+pate, liver, not specified, canned
+peppered loaf, pork, beef
+pepperoni, pork, beef
+pickle and pimiento loaf, pork
+polish sausage, pork
+luxury loaf, pork
+mother's loaf, pork
+picnic loaf, pork, beef
+pork sausage, link/patty, unprepared
+pork sausage, link/patty, cooked, pan-fried
+pork and beef sausage, fresh, cooked
+turkey sausage, reduced fat, brown and serve, cooked (include butterball breakfast links turkey sausage)
+poultry salad sandwich spread
+salami, cooked, beef
+salami, cooked, beef and pork
+salami, cooked, turkey
+salami, dry or hard, pork
+salami, dry or hard, pork, beef
+sandwich spread, pork, beef
+smoked link sausage, pork
+sausage, smoked link sausage, pork and beef
+smoked link sausage, pork and beef, flour and nonfat dry milk added
+smoked link sausage, pork and beef, nonfat dry milk added
+thuringer, cervelat, summer sausage, beef, pork
+turkey breast, sliced, oven roasted, luncheon meat
+turkey ham, cured turkey thigh meat
+turkey breast, sliced, prepackaged
+turkey roll, light and dark meat
+sausage, vienna, canned, chicken, beef, pork
+honey roll sausage, beef
+sausage, italian, pork, cooked
+luncheon sausage, pork and beef
+new england brand sausage, pork, beef
+oscar mayer, bologna (chicken, pork, beef)
+oscar mayer, bologna (beef)
+oscar mayer, bologna (beef light)
+oscar mayer, bologna (fat free)
+oscar mayer, bologna light (pork, chicken, beef)
+oscar mayer. bologna (wisconsin made ring)
+oscar mayer, braunschweiger liver sausage (sliced)
+oscar mayer, braunschweiger liver sausage (saren tube)
+oscar mayer, chicken breast (honey glazed)
+oscar mayer, chicken breast (oven roasted, fat free)
+oscar mayer, ham and cheese loaf
+oscar mayer, ham (chopped with natural juice)
+oscar mayer, ham (water added, baked cooked 96% fat free)
+oscar mayer, ham (water added, boiled)
+oscar mayer, ham (water added, honey)
+oscar mayer, ham (water added, smoked, cooked)
+oscar mayer, ham (40% ham/water product, smoked, fat free)
+oscar mayer, head cheese
+oscar mayer, liver cheese, pork fat wrapped
+oscar mayer, luncheon loaf (spiced)
+oscar mayer, old fashioned loaf
+oscar mayer, olive loaf (chicken, pork, turkey)
+oscar mayer, pickle pimiento loaf (with chicken)
+oscar mayer, pork sausage links (cooked)
+oscar mayer, salami beef cotto
+oscar mayer, salami cotto (beef, pork, chicken)
+oscar mayer, salami (for beer)
+oscar mayer, salami (genoa)
+oscar mayer, salami (hard)
+oscar mayer, sandwich spread (pork, chicken, beef)
+oscar mayer, smokie links sausage
+oscar mayer, smokies (beef)
+oscar mayer, smokies (cheese)
+oscar mayer, smokies sausage little (pork, turkey)
+oscar mayer, smokies sausage little cheese (pork, turkey)
+oscar mayer, summer sausage beef thuringer cervelat
+oscar mayer, summer sausage thuringer cervalat
+oscar mayer, turkey breast (smoked, fat free)
+oscar mayer, wieners (pork, turkey)
+oscar mayer, wieners (beef franks)
+oscar mayer, wieners (beef franks, bun length)
+oscar mayer, wieners (beef franks, fat free)
+oscar mayer, wieners (beef franks, light)
+oscar mayer, wieners (cheese hot dogs with turkey)
+oscar mayer, wieners (fat free hot dogs)
+oscar mayer, wieners (light pork, turkey, beef)
+oscar mayer, wieners little (pork, turkey)
+louis rich, chicken breast classic baked /grill (carving board)
+louis rich, chicken breast (oven roasted deluxe)
+louis rich, chicken (white, oven roasted)
+louis rich, franks (turkey and chicken cheese)
+louis rich, franks (turkey and chicken)
+louis rich, turkey bacon
+louis rich, turkey bologna
+louis rich, turkey breast and white turkey (oven roasted)
+louis rich, turkey breast and white turkey (smoked sliced)
+louis rich, turkey (honey roasted, fat free)
+louis rich, turkey breast (oven roasted, fat free)
+louis rich, turkey breast (oven roasted, portion fat free)
+louis rich, turkey breast (smoked, carving board)
+louis rich, turkey breast (smoked, portion fat free)
+louis rich, turkey ham (10% water added)
+louis rich, turkey nuggets/sticks (breaded)
+louis rich, turkey salami
+louis rich, turkey salami cotto
+louis rich, turkey smoked sausage
+butcher boy meats, inc., turkey franks
+carl buddig, cooked corned beef, chopped, pressed
+carl buddig, smoked sliced chicken, light and dark meat
+carl buddig, smoked sliced beef
+carl buddig, smoked sliced turkey, light and dark meat
+carl buddig. cooked smoked beef pastrami, chopped, pressed
+carl buddig, smoked sliced ham
+hormel spam, luncheon meat, pork with ham, minced, canned
+hormel spam, lite luncheon meat, pork and chicken, minced, canned, ascorbic acid added
+hormel pillow pak sliced turkey pepperoni
+hormel wrangler beef franks
+turkey, pork, and beef sausage, low fat, smoked
+usda commodity, pork, sausage, bulk/links/patties, frozen, cooked
+frankfurter, beef, pork, and turkey, fat free
+luncheon meat, pork, ham, and chicken, minced, canned, reduced sodium, added ascorbic acid, includes spam, 25% less sodium
+usda commodity, pork sausage, bulk/links/patties, frozen, raw
+luncheon meat, pork with ham, minced, canned, includes spam (hormel)
+luncheon meat, pork and chicken, minced, canned, includes spam lite
+bratwurst, veal, cooked
+liverwurst spread
+roast beef spread
+salami, pork, beef, less sodium
+sausage, italian, sweet, links
+sausage, polish, beef with chicken, hot
+sausage, polish, pork and beef, smoked
+sausage, pork and beef, with cheddar cheese, smoked
+sausage, summer, pork and beef, sticks, with cheddar cheese
+sausage, turkey, breakfast links, mild
+swisswurst, pork and beef, with swiss cheese, smoked
+bacon and beef sticks
+bratwurst, beef and pork, smoked
+bratwurst, chicken, cooked
+bratwurst, pork, beef and turkey, lite, smoked
+pastrami, beef, 98% fat-free
+salami, italian, pork
+sausage, italian, turkey, smoked
+sausage, chicken, beef, pork, skinless, smoked
+sausage, turkey, hot, smoked
+yachtwurst, with pistachio nuts, cooked
+beerwurst, pork and beef
+chicken breast, fat-free, mesquite flavor, sliced
+chicken breast, oven-roasted, fat-free, sliced
+kielbasa, polish, turkey and beef, smoked
+oven-roasted chicken breast roll
+bologna, pork and turkey, lite
+bologna, pork, turkey and beef
+ham, honey, smoked, cooked
+frankfurter, pork
+macaroni and cheese loaf, chicken, pork and beef
+salami, italian, pork and beef, dry, sliced, 50% less sodium
+pate, truffle flavor
+turkey, breast, smoked, lemon pepper flavor, 97% fat-free
+turkey, white, rotisserie, deli cut
+frankfurter, beef, heated
+frankfurter, meat, heated
+frankfurter, meat
+scrapple, pork
+bologna, chicken, turkey, pork
+pork sausage, link/patty, fully cooked, microwaved
+beef sausage, pre-cooked
+turkey sausage, fresh, raw
+beef sausage, fresh, cooked
+pork and turkey sausage, pre-cooked
+turkey sausage, fresh, cooked
+bologna, chicken, pork, beef
+bologna, chicken, pork
+chicken breast, deli, rotisserie seasoned, sliced, prepackaged
+frankfurter, meat and poultry, unheated
+frankfurter, meat and poultry, cooked, boiled
+frankfurter, meat and poultry, cooked, grilled
+pork sausage, link/patty, reduced fat, unprepared
+pork sausage, link/patty, reduced fat, cooked, pan-fried
+pork sausage, link/patty, fully cooked, unheated
+kielbasa, fully cooked, grilled
+kielbasa, fully cooked, pan-fried
+kielbasa, fully cooked, unheated
+bologna, meat and poultry
+beef, cured, corned beef, canned
+beef, cured, dried
+beef, cured, luncheon meat, jellied
+beef, cured, pastrami
+beef, cured, sausage, cooked, smoked
+beef, cured, smoked, chopped beef
+beef, cured, thin-sliced beef
+turkey ham, sliced, extra lean, prepackaged or deli-sliced
+bologna, beef and pork, low fat
+bologna, beef, low fat
+turkey and pork sausage, fresh, bulk, patty or link, cooked
+frankfurter, beef, low fat
+frankfurter, beef and pork, low fat
+pork sausage rice links, brown and serve, cooked
+turkey, pork, and beef sausage, reduced fat, smoked
+sausage, chicken and beef, smoked
+frankfurter, meat and poultry, low fat
+beef, bologna, reduced sodium
+frankfurter, low sodium

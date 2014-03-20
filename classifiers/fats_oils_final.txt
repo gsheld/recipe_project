@@ -33,6 +33,7 @@ muktuk
 mustard oil
 niter kibbeh
 olive oil
+palm kernel oil
 palm oil 
 peanut oil
 pecan oil
@@ -59,5 +60,4 @@ tea seed oil
 vegetable oil
 vegetable shortening
 walnut oil
-watermelon seed oilpalm kernel oil
-﻿lard
+watermelon seed oil﻿lard

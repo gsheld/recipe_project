@@ -9,15 +9,15 @@ grain
 dairy
 spice
 fats/oils
-----------
-filipino
-american
+"american"
+healthy
+vegan
+vegetarian
+kid-meals
 chinese
 mexican
+filipino
+----------
 
 allerginic
 hypo-allergenic
-kid meals
-vegetarian
-vegan
-healthy
