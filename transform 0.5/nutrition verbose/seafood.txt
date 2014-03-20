@@ -1,0 +1,267 @@
+fish, anchovy, european, raw
+fish, anchovy, european, canned in oil, drained solids
+fish, bass, fresh water, mixed species, raw
+fish, bass, striped, raw
+fish, bluefish, raw
+fish, burbot, raw
+fish, butterfish, raw
+fish, carp, raw
+fish, carp, cooked, dry heat
+fish, catfish, channel, wild, raw
+fish, catfish, channel, cooked, breaded and fried
+fish, caviar, black and red, granular
+fish, cisco, raw
+fish, cisco, smoked
+fish, cod, atlantic, raw
+fish, cod, atlantic, cooked, dry heat
+fish, cod, atlantic, canned, solids and liquid
+fish, cod, atlantic, dried and salted
+fish, cod, pacific, raw
+fish, croaker, atlantic, raw
+fish, croaker, atlantic, cooked, breaded and fried
+fish, cusk, raw
+fish, dolphinfish, raw
+fish, drum, freshwater, raw
+fish, eel, mixed species, raw
+fish, eel, mixed species, cooked, dry heat
+fish, fish sticks, frozen, prepared
+fish, flatfish (flounder and sole species), raw
+fish, flatfish (flounder and sole species), cooked, dry heat
+fish, gefiltefish, commercial, sweet recipe
+fish, grouper, mixed species, raw
+fish, grouper, mixed species, cooked, dry heat
+fish, haddock, raw
+fish, haddock, cooked, dry heat
+fish, haddock, smoked
+fish, halibut, atlantic and pacific, raw
+fish, halibut, atlantic and pacific, cooked, dry heat
+fish, halibut, greenland, raw
+fish, herring, atlantic, raw
+fish, herring, atlantic, cooked, dry heat
+fish, herring, atlantic, pickled
+fish, herring, atlantic, kippered
+fish, herring, pacific, raw
+fish, ling, raw
+fish, lingcod, raw
+fish, mackerel, atlantic, raw
+fish, mackerel, atlantic, cooked, dry heat
+fish, mackerel, jack, canned, drained solids
+fish, mackerel, king, raw
+fish, mackerel, pacific and jack, mixed species, raw
+fish, mackerel, spanish, raw
+fish, mackerel, spanish, cooked, dry heat
+fish, milkfish, raw
+fish, monkfish, raw
+fish, mullet, striped, raw
+fish, mullet, striped, cooked, dry heat
+fish, ocean perch, atlantic, raw
+fish, ocean perch, atlantic, cooked, dry heat
+fish, pout, ocean, raw
+fish, perch, mixed species, raw
+fish, perch, mixed species, cooked, dry heat
+fish, pike, northern, raw
+fish, pike, northern, cooked, dry heat
+fish, pike, walleye, raw
+fish, pollock, atlantic, raw
+fish, pollock, alaska, raw
+fish, pollock, alaska, cooked, dry heat
+fish, pompano, florida, raw
+fish, pompano, florida, cooked, dry heat
+fish, rockfish, pacific, mixed species, raw
+fish, rockfish, pacific, mixed species, cooked, dry heat
+fish, roe, mixed species, raw
+fish, roughy, orange, raw
+fish, sablefish, raw
+fish, sablefish, smoked
+fish, salmon, atlantic, wild, raw
+fish, salmon, chinook, smoked
+fish, salmon, chinook, raw
+fish, salmon, chum, raw
+fish, salmon, chum, canned, drained solids with bone
+fish, salmon, coho, wild, raw
+fish, salmon, coho, wild, cooked, moist heat
+fish, salmon, pink, raw
+fish, salmon, pink, canned, total can contents
+fish, salmon, sockeye, raw
+fish, salmon, sockeye, cooked, dry heat
+fish, salmon, sockeye, canned, drained solids
+fish, sardine, atlantic, canned in oil, drained solids with bone
+fish, sardine, pacific, canned in tomato sauce, drained solids with bone
+fish, scup, raw
+fish, sea bass, mixed species, raw
+fish, sea bass, mixed species, cooked, dry heat
+fish, seatrout, mixed species, raw
+fish, shad, american, raw
+fish, shark, mixed species, raw
+fish, shark, mixed species, cooked, batter-dipped and fried
+fish, sheepshead, raw
+fish, sheepshead, cooked, dry heat
+fish, smelt, rainbow, raw
+fish, smelt, rainbow, cooked, dry heat
+fish, snapper, mixed species, raw
+fish, snapper, mixed species, cooked, dry heat
+fish, spot, raw
+fish, sturgeon, mixed species, raw
+fish, sturgeon, mixed species, cooked, dry heat
+fish, sturgeon, mixed species, smoked
+fish, sucker, white, raw
+fish, sunfish, pumpkin seed, raw
+fish, surimi
+fish, swordfish, raw
+fish, swordfish, cooked, dry heat
+fish, tilefish, raw
+fish, tilefish, cooked, dry heat
+fish, trout, mixed species, raw
+fish, trout, rainbow, wild, raw
+fish, trout, rainbow, wild, cooked, dry heat
+fish, tuna, fresh, bluefin, raw
+fish, tuna, fresh, bluefin, cooked, dry heat
+fish, tuna, light, canned in oil, drained solids
+fish, tuna, light, canned in water, drained solids
+fish, tuna, fresh, skipjack, raw
+fish, tuna, white, canned in oil, drained solids
+fish, tuna, white, canned in water, drained solids
+fish, tuna, fresh, yellowfin, raw
+fish, tuna salad
+fish, turbot, european, raw
+fish, whitefish, mixed species, raw
+fish, whitefish, mixed species, smoked
+fish, whiting, mixed species, raw
+fish, whiting, mixed species, cooked, dry heat
+fish, wolffish, atlantic, raw
+fish, yellowtail, mixed species, raw
+crustaceans, crab, alaska king, raw
+crustaceans, crab, alaska king, cooked, moist heat
+crustaceans, crab, alaska king, imitation, made from surimi
+crustaceans, crab, blue, raw
+crustaceans, crab, blue, cooked, moist heat
+crustaceans, crab, blue, canned
+crustaceans, crab, blue, crab cakes, home recipe
+crustaceans, crab, dungeness, raw
+crustaceans, crab, queen, raw
+crustaceans, crayfish, mixed species, wild, raw
+crustaceans, crayfish, mixed species, wild, cooked, moist heat
+crustaceans, lobster, northern, raw
+crustaceans, lobster, northern, cooked, moist heat
+crustaceans, shrimp, mixed species, raw
+crustaceans, shrimp, mixed species, cooked, breaded and fried
+crustaceans, shrimp, mixed species, cooked, moist heat
+crustaceans, shrimp, mixed species, canned
+crustaceans, shrimp, mixed species, imitation, made from surimi
+crustaceans, spiny lobster, mixed species, raw
+mollusks, abalone, mixed species, raw
+mollusks, abalone, mixed species, cooked, fried
+mollusks, clam, mixed species, raw
+mollusks, clam, mixed species, cooked, breaded and fried
+mollusks, clam, mixed species, cooked, moist heat
+mollusks, clam, mixed species, canned, drained solids
+mollusks, clam, mixed species, canned, liquid
+mollusks, cuttlefish, mixed species, raw
+mollusks, mussel, blue, raw
+mollusks, mussel, blue, cooked, moist heat
+mollusks, octopus, common, raw
+mollusks, oyster, eastern, wild, raw
+mollusks, oyster, eastern, cooked, breaded and fried
+mollusks, oyster, eastern, wild, cooked, moist heat
+mollusks, oyster, eastern, canned
+mollusks, oyster, pacific, raw
+mollusks, scallop, mixed species, raw
+mollusks, scallop, mixed species, cooked, breaded and fried
+mollusks, scallop, mixed species, imitation, made from surimi
+mollusks, squid, mixed species, raw
+mollusks, squid, mixed species, cooked, fried
+mollusks, whelk, unspecified, raw
+mollusks, whelk, unspecified, cooked, moist heat
+fish, salmon, chinook, smoked, (lox), regular
+fish, salmon, chum, canned, without salt, drained solids with bone
+fish, salmon, pink, canned, without salt, solids with bone and liquid
+fish, salmon, sockeye, canned, without salt, drained solids with bone
+fish, tuna, light, canned in oil, without salt, drained solids
+fish, tuna, light, canned in water, without salt, drained solids
+fish, tuna, white, canned in oil, without salt, drained solids
+fish, tuna, white, canned in water, without salt, drained solids
+fish, bass, freshwater, mixed species, cooked, dry heat
+fish, bass, striped, cooked, dry heat
+fish, bluefish, cooked, dry heat
+fish, burbot, cooked, dry heat
+fish, butterfish, cooked, dry heat
+fish, cod, pacific, cooked, dry heat
+fish, cusk, cooked, dry heat
+fish, dolphinfish, cooked, dry heat
+fish, drum, freshwater, cooked, dry heat
+fish, halibut, greenland, cooked, dry heat
+fish, herring, pacific, cooked, dry heat
+fish, ling, cooked, dry heat
+fish, lingcod, cooked, dry heat
+fish, mackerel, king, cooked, dry heat
+fish, mackerel, pacific and jack, mixed species, cooked, dry heat
+fish, milkfish, cooked, dry heat
+fish, monkfish, cooked, dry heat
+fish, pike, walleye, cooked, dry heat
+fish, pollock, atlantic, cooked, dry heat
+fish, pout, ocean, cooked, dry heat
+fish, roe, mixed species, cooked, dry heat
+fish, sablefish, cooked, dry heat
+fish, salmon, atlantic, wild, cooked, dry heat
+fish, salmon, chinook, cooked, dry heat
+fish, salmon, chum, cooked, dry heat
+fish, salmon, pink, cooked, dry heat
+fish, scup, cooked, dry heat
+fish, seatrout, mixed species, cooked, dry heat
+fish, shad, american, cooked, dry heat
+fish, spot, cooked, dry heat
+fish, sucker, white, cooked, dry heat
+fish, sunfish, pumpkin seed, cooked, dry heat
+fish, trout, mixed species, cooked, dry heat
+fish, tuna, skipjack, fresh, cooked, dry heat
+fish, tuna, yellowfin, fresh, cooked, dry heat
+fish, turbot, european, cooked, dry heat
+fish, whitefish, mixed species, cooked, dry heat
+fish, wolffish, atlantic, cooked, dry heat
+fish, yellowtail, mixed species, cooked, dry heat
+crustaceans, crab, dungeness, cooked, moist heat
+crustaceans, crab, queen, cooked, moist heat
+crustaceans, spiny lobster, mixed species, cooked, moist heat
+mollusks, cuttlefish, mixed species, cooked, moist heat
+mollusks, octopus, common, cooked, moist heat
+mollusks, oyster, pacific, cooked, moist heat
+fish, roughy, orange, cooked, dry heat
+fish, catfish, channel, wild, cooked, dry heat
+fish, catfish, channel, farmed, raw
+fish, catfish, channel, farmed, cooked, dry heat
+fish, salmon, atlantic, farmed, raw
+fish, salmon, atlantic, farmed, cooked, dry heat
+fish, salmon, coho, farmed, raw
+fish, salmon, coho, farmed, cooked, dry heat
+fish, trout, rainbow, farmed, raw
+fish, trout, rainbow, farmed, cooked, dry heat
+crustaceans, crayfish, mixed species, farmed, raw
+crustaceans, crayfish, mixed species, farmed, cooked, moist heat
+mollusks, oyster, eastern, wild, cooked, dry heat
+mollusks, oyster, eastern, farmed, raw
+mollusks, oyster, eastern, farmed, cooked, dry heat
+fish, salmon, coho, wild, cooked, dry heat
+mollusks, conch, baked or broiled
+usda commodity, salmon nuggets, breaded, frozen, heated
+usda commodity, salmon nuggets, cooked as purchased, unheated
+salmon, sockeye, canned, total can contents
+fish, salmon, pink, canned, drained solids
+fish, tilapia, raw
+fish, tilapia, cooked, dry heat
+salmon, sockeye, canned, drained solids, without skin and bones
+fish, salmon, pink, canned, drained solids, without skin and bones
+fish, pollock, alaska, untreated, raw
+fish, pollock, alaska, untreated, cooked
+fish, cod, pacific, untreated, raw
+fish, cod, pacific, untreated, cooked
+crustaceans, shrimp, untreated, raw
+crustaceans, shrimp, untreated, cooked
+fish, salmon, sockeye, untreated, raw
+fish, salmon, sockeye, untreated, cooked
+fish, trout, brook, raw, new york state
+jellyfish, dried, salted
+frog legs, raw
+fish, mackerel, salted
+mollusks, scallop, (bay and sea), cooked, steamed
+mollusks, snail, raw
+turtle, green, raw

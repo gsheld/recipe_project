@@ -1,0 +1,258 @@
+butter, salted
+butter, whipped, with salt
+butter oil, anhydrous
+cheese, blue
+cheese, brick
+cheese, brie
+cheese, camembert
+cheese, caraway
+cheese, cheddar
+cheese, cheshire
+cheese, colby
+cheese, cottage, creamed, large or small curd
+cheese, cottage, creamed, with fruit
+cheese, cottage, nonfat, uncreamed, dry, large or small curd
+cheese, cottage, lowfat, 2% milkfat
+cheese, cottage, lowfat, 1% milkfat
+cheese, cream
+cheese, edam
+cheese, feta
+cheese, fontina
+cheese, gjetost
+cheese, gouda
+cheese, gruyere
+cheese, limburger
+cheese, monterey
+cheese, mozzarella, whole milk
+cheese, mozzarella, whole milk, low moisture
+cheese, mozzarella, part skim milk
+cheese, mozzarella, part skim milk, low moisture
+cheese, muenster
+cheese, neufchatel
+cheese, parmesan, grated
+cheese, parmesan, hard
+cheese, port de salut
+cheese, provolone
+cheese, ricotta, whole milk
+cheese, ricotta, part skim milk
+cheese, romano
+cheese, roquefort
+cheese, swiss
+cheese, tilsit
+cheese, pasteurized process, american, fortified with vitamin d
+cheese, pasteurized process, pimento
+cheese, pasteurized process, swiss
+cheese food, cold pack, american
+cheese food, pasteurized process, american, vitamin d fortified
+cheese food, pasteurized process, swiss
+cheese spread, pasteurized process, american
+cream, fluid, half and half
+cream, fluid, light (coffee cream or table cream)
+cream, fluid, light whipping
+cream, fluid, heavy whipping
+cream, whipped, cream topping, pressurized
+cream, sour, reduced fat, cultured
+cream, sour, cultured
+eggnog
+sour dressing, non-butterfat, cultured, filled cream-type
+milk, filled, fluid, with blend of hydrogenated vegetable oils
+milk, filled, fluid, with lauric acid oil
+cheese, american, nonfat or fat free
+cream substitute, liquid, with hydrogenated vegetable oil and soy protein
+cream substitute, liquid, with lauric acid oil and sodium caseinate
+cream substitute, powdered
+dessert topping, powdered
+dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk
+dessert topping, pressurized
+dessert topping, semi solid, frozen
+sour cream, imitation, cultured
+milk substitutes, fluid, with lauric acid oil
+milk, whole, 3.25% milkfat, with added vitamin d
+milk, producer, fluid, 3.7% milkfat
+milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d
+milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin a and vitamin d
+milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin a and vitamin d
+milk, lowfat, fluid, 1% milkfat, with added vitamin a and vitamin d
+milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin a and vitamin d
+milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin a and vitamin d
+milk, nonfat, fluid, with added vitamin a and vitamin d (fat free or skim)
+milk, nonfat, fluid, with added nonfat milk solids, vitamin a and vitamin d (fat free or skim)
+milk, nonfat, fluid, protein fortified, with added vitamin a and vitamin d (fat free and skim)
+milk, buttermilk, fluid, cultured, lowfat
+milk, low sodium, fluid
+milk, dry, whole, with added vitamin d
+milk, dry, nonfat, regular, without added vitamin a and vitamin d
+milk, dry, nonfat, instant, with added vitamin a and vitamin d
+milk, dry, nonfat, calcium reduced
+milk, buttermilk, dried
+milk, canned, condensed, sweetened
+milk, canned, evaporated, with added vitamin d and without added vitamin a
+milk, canned, evaporated, nonfat, with added vitamin a and vitamin d
+milk, chocolate, fluid, commercial, whole, with added vitamin a and vitamin d
+milk, chocolate, fluid, commercial, reduced fat, with added vitamin a and vitamin d
+milk, chocolate, fluid, commercial, lowfat, with added vitamin a and vitamin d
+milk, chocolate beverage, hot cocoa, homemade
+milk, goat, fluid, with added vitamin d
+milk, human, mature, fluid
+milk, indian buffalo, fluid
+milk, sheep, fluid
+milk shakes, thick chocolate
+milk shakes, thick vanilla
+whey, acid, fluid
+whey, acid, dried
+whey, sweet, fluid
+whey, sweet, dried
+yogurt, plain, whole milk, 8 grams protein per 8 ounce
+yogurt, plain, low fat, 12 grams protein per 8 ounce
+yogurt, plain, skim milk, 13 grams protein per 8 ounce
+yogurt, vanilla, low fat, 11 grams protein per 8 ounce
+yogurt, fruit, low fat, 9 grams protein per 8 ounce
+yogurt, fruit, low fat, 10 grams protein per 8 ounce
+yogurt, fruit, low fat, 11 grams protein per 8 ounce
+egg, whole, raw, fresh
+egg, white, raw, fresh
+egg, yolk, raw, fresh
+egg, yolk, raw, frozen, pasteurized
+egg, yolk, raw, frozen, sugared, pasteurized
+egg, whole, cooked, fried
+egg, whole, cooked, hard-boiled
+egg, whole, cooked, omelet
+egg, whole, cooked, poached
+egg, whole, cooked, scrambled
+egg, whole, dried
+egg, whole, dried, stabilized, glucose reduced
+egg, white, dried, flakes, stabilized, glucose reduced
+egg, white, dried, powder, stabilized, glucose reduced
+egg, yolk, dried
+egg, duck, whole, fresh, raw
+egg, goose, whole, fresh, raw
+egg, quail, whole, fresh, raw
+egg, turkey, whole, fresh, raw
+egg substitute, powder
+butter, without salt
+cheese, parmesan, shredded
+milk, nonfat, fluid, without added vitamin a and vitamin d (fat free or skim)
+milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin a
+milk, canned, evaporated, with added vitamin a
+milk, dry, nonfat, regular, with added vitamin a and vitamin d
+milk, dry, nonfat, instant, without added vitamin a and vitamin d
+cheese, goat, hard type
+cheese, goat, semisoft type
+cheese, goat, soft type
+egg, yolk, raw, frozen, salted, pasteurized
+cheese substitute, mozzarella
+cheese sauce, prepared from recipe
+cheese, mexican, queso anejo
+cheese, mexican, queso asadero
+cheese, mexican, queso chihuahua
+cheese, low fat, cheddar or colby
+cheese, low-sodium, cheddar or colby
+egg, whole, raw, frozen, pasteurized
+egg, white, raw, frozen, pasteurized
+egg, white, dried
+milk, reduced fat, fluid, 2% milkfat, without added vitamin a and vitamin d
+milk, fluid, 1% fat, without added vitamin a and vitamin d
+sour cream, reduced fat
+sour cream, light
+sour cream, fat free
+usda commodity, cheese, cheddar, reduced fat
+yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener
+parmesan cheese topping, fat free
+cheese, cream, fat free
+yogurt, chocolate, nonfat milk
+kraft cheez whiz pasteurized process cheese sauce
+kraft cheez whiz light pasteurized process cheese product
+kraft free singles american nonfat pasteurized process cheese product
+kraft velveeta pasteurized process cheese spread
+kraft velveeta light reduced fat pasteurized process cheese product
+kraft breakstone's reduced fat sour cream
+kraft breakstone's free fat free sour cream
+cream, half and half, fat free
+reddi wip fat free whipped topping
+milk, chocolate, fluid, commercial, reduced fat, with added calcium
+yogurt, fruit, lowfat, with low calorie sweetener
+cheese, parmesan, dry grated, reduced fat
+cream substitute, flavored, liquid
+cream substitute, flavored, powdered
+cheese, provolone, reduced fat
+cheese, mexican, blend, reduced fat
+egg mix, usda commodity
+milk, whole, 3.25% milkfat, without added vitamin a and vitamin d
+milk, dry, whole, without added vitamin d
+milk, canned, evaporated, without added vitamin a and vitamin d
+cheese product, pasteurized process, american, reduced fat, fortified with vitamin d
+yogurt, fruit, low fat, 9 grams protein per 8 ounce, fortified with vitamin d
+yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin d
+yogurt, fruit variety, nonfat, fortified with vitamin d
+yogurt, fruit, lowfat, with low calorie sweetener, fortified with vitamin d
+yogurt, vanilla, low fat, 11 grams protein per 8 ounce, fortified with vitamin d
+yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener, fortified with vitamin d
+yogurt, chocolate, nonfat milk, fortified with vitamin d
+protein supplement, milk based, muscle milk, powder
+protein supplement, milk based, muscle milk light, powder
+dulce de leche
+egg substitute, liquid or frozen, fat free
+cheese, dry white, queso seco
+cheese, fresh, queso fresco
+cheese, white, queso blanco
+milk, buttermilk, fluid, whole
+yogurt, vanilla flavor, lowfat milk, sweetened with low calorie sweetener
+yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener
+ice cream, soft serve, chocolate
+ice cream, bar or stick, chocolate covered
+ice cream sandwich
+ice cream cookie sandwich
+ice cream cone, chocolate covered, with nuts, flavors other than chocolate
+ice cream sandwich, made with light ice cream, vanilla
+ice cream sandwich, vanilla, light, no sugar added
+fat free ice cream, no sugar added, flavors other than chocolate
+milk dessert bar, frozen, made from lowfat milk
+nutritional supplement for people with diabetes, liquid
+cheese, mexican blend
+cheese product, pasteurized process, american, vitamin d fortified
+cheese, pasteurized process, american, without added vitamin d
+cheese food, pasteurized process, american, without added vitamin d
+egg, whole, raw, frozen, salted, pasteurized
+yogurt, greek, plain, nonfat
+egg, white, dried, stabilized, glucose reduced
+cheese spread, american or cheddar cheese base, reduced fat
+cheese, cheddar, reduced fat
+yogurt, greek, chobani champions, very berry
+ice cream, light, soft serve, chocolate
+ice cream bar, stick or nugget, with crunch coating
+cheese, cheddar, nonfat or fat free
+cheese, swiss, nonfat or fat free
+queso cotija
+imitation cheese, american or cheddar, low cholesterol
+whipped topping, frozen, low fat
+cream substitute, powdered, light
+cream substitute, liquid, light
+cheese, monterey, low fat
+milk, buttermilk, fluid, cultured, reduced fat
+cheese, pasteurized process, cheddar or american, fat-free
+cheese, cottage, lowfat, 1% milkfat, lactose reduced
+cheese product, pasteurized process, cheddar, reduced fat
+milk, fluid, nonfat, calcium fortified (fat free or skim)
+cheese, muenster, low fat
+cheese, mozzarella, nonfat
+beverage, milkshake mix, dry, not chocolate
+beverage, instant breakfast powder, chocolate, not reconstituted
+beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted
+yogurt, fruit variety, nonfat
+whipped cream substitute, dietetic, made from powdered mix
+cheese, cottage, with vegetables
+cheese, cream, low fat
+cheese, pasteurized process, american, low fat
+cheese spread, cream cheese base
+cheese, american cheddar, imitation
+eggs, scrambled, frozen mixture
+cheese, parmesan, low sodium
+cheese, cottage, lowfat, 1% milkfat, no sodium added
+cheese, pasteurized process, swiss, low fat
+cheese, cottage, lowfat, 1% milkfat, with vegetables
+cheese, pasteurized process, cheddar or american, low sodium
+cheese, swiss, low sodium
+milk, imitation, non-soy
+cheese, swiss, low fat
+cheese, mozzarella, low sodium
+cheese food, pasteurized process, american, imitation, without added vitamin d
