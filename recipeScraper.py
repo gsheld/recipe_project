@@ -247,15 +247,9 @@ def getRecipeInfo():
 	myInternalRecipe['ingredients'] = []
 	for item in ingredients:
 		myInternalRecipe['ingredients'].append(item['name'])
-<<<<<<< HEAD
 	
 	#print myInternalRecipe
 	
-=======
-
-	print myInternalRecipe
-
->>>>>>> FETCH_HEAD
 	f = open('recipeJson.json', 'w')
 	jobj = json.dumps(recipe)
 	f.write(jobj)
