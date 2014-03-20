@@ -22,28 +22,6 @@ def whatis(ingred):
 #
 
 
-#
-def common_words(dictionary, frequency_thres):
-    # split and count:
-    counter = {}
-    for key in dictionary:
-        words = key.split()
-        for word in words:
-            if word not in counter:
-                counter[word] = 0
-            counter[word] += 1
-    # Then find the top N:
-    top = []
-    for word in counter:
-        if counter[word] >= frequency_thres:
-            top.append(word)
-    # Print to file:
-    with open('frequent.txt', 'w') as f:
-        for word in top:
-            f.write(word + '\n')
-#
-
-
 # print the entire knowledge table
 def show_table():
     global Knowledge
@@ -58,7 +36,6 @@ def show_table():
 path = '.\\'     # CHANGE HERE if path for data folders are changed
 Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
 # Knowledge: [ingred_attr, nutritions, cuisines, thrown_list, frequent]
-common_words(Knowledge[0], 10)
 #pprint.pprint(Knowledge[-1])
 
 print RecipeTransform.transform(['pork','lamb','salt','deep south dry rub'], 'french', Knowledge)

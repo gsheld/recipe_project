@@ -2,8 +2,11 @@ import NLPtool
 import IngredRecog
 
 
-def transform(from_ingreds, to_cuisine_name, cuisines, ingred_attr, frequent, mute = False):
+def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
 # Give a valid transformation
+    cuisines = Knowledge[2]
+    ingred_attr = Knowledge[0]
+    frequent = Knowledge[-1]
     out_list = []
     target_cuisine = cuisines[to_cuisine_name]
     for ingred in from_ingreds:
@@ -45,6 +48,6 @@ def transform(from_ingreds, to_cuisine_name, cuisines, ingred_attr, frequent, mu
         out_list.append(substitute)
         if not mute:
             print ingred, '-->', substitute
-    out_list = list(set(out_list)) # get rid of possible duplicates
+    #out_list = list(set(out_list)) # get rid of possible duplicates
     return out_list
 #

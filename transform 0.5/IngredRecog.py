@@ -12,10 +12,10 @@ def nutri_guesser(ID, frequent):
 
 
 #
-def nutri_for_frequent_ingred(ingred_attr):
+def nutri_for_frequent_ingred(path, ingred_attr):
     frequent = {}
     freq_set = set()
-    with open('concrete.txt', 'r') as f:
+    with open(path+'concrete.txt', 'r') as f:
         for line in f:
             line = line.rstrip()
             frequent[line] = defaultdict(int)

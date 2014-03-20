@@ -71,9 +71,9 @@ def load_knowledge_base(path, nutritions, cuisines):
 #
 
 
-def build_table(ingred_attr, nutritions, cuisines, thrown_list):
+def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
     add_nutrition(nutritions, ingred_attr)
-    frequent = IngredRecog.nutri_for_frequent_ingred(ingred_attr)
+    frequent = IngredRecog.nutri_for_frequent_ingred(path, ingred_attr)
     #pprint.pprint(frequent)
     add_cuisine(cuisines, ingred_attr, frequent, thrown_list)
     #print len(ingred_attr), '\n'
@@ -81,10 +81,15 @@ def build_table(ingred_attr, nutritions, cuisines, thrown_list):
 #
 
 
-def learn_ingredients(path, ingred_attr, nutritions, cuisines, thrown_list):
+def learn_ingredients(path):
+    nutritions = {}
+    cuisines = {}
+    ingred_attr = {}
+    thrown_list = []
+    frequent = {}
     load_knowledge_base(path, nutritions, cuisines)
-    frequent = build_table(ingred_attr, nutritions, cuisines, thrown_list)
-    return frequent
+    frequent = build_table(path, ingred_attr, nutritions, cuisines, thrown_list)
+    return [ingred_attr, nutritions, cuisines, thrown_list, frequent]
     #pprint.pprint(thrown_list)
     #pprint.pprint(frequent)
 #
