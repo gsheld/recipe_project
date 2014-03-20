@@ -16,6 +16,53 @@ def veg_safe(obj, veg_type):
 #
 
 
+def veg_safe_by_name(name, veg_type, Knowledge):
+    ingred_attr = Knowledge[0]
+    frequent = Knowledge[-1]
+    ID = NLPtool.uni_rep(name)
+    if ID in ingred_attr:
+        return veg_safe(ingred_attr[ID], veg_type)
+    possible_nutri = IngredRecog.nutri_guesser(ID, frequent)
+    if possible_nutri == None: return True
+    if 'meat' in possible_nutri:
+        return False
+    if veg_type=='vegan' and 'dairy' in possible_nutri:
+        return False
+    return True
+
+
+def FindSimilar(from_ingreds, to_cuisine_name, Knowledge):
+# find a similar recipe in the database
+    ingred_attr = Knowledge[0]
+    recipes = Knowledge[-2]
+    max_similar = -1
+    best_match = None
+    from_set = set()
+    for ingred in from_ingreds:
+        from_set.add(NLPtool.uni_rep(ingred))
+    # look for match:
+    for recipe in recipes:
+        cand_IDs = set()
+        for cand in recipe.ingredients:
+            cand_IDs.add(NLPtool.uni_rep(cand))
+        # veg check:
+        valid_flag = True
+        if to_cuisine_name in ['vegan', 'vegetarian']:
+            for ID in cand_IDs:
+                if not veg_safe_by_name(ID, to_cuisine_name, Knowledge):
+                    valid_flag = False
+        if not valid_flag:
+            continue
+        # find overlap:
+        similar = len(from_set.intersection(cand_IDs))
+        if similar > max_similar:
+            max_similar = similar
+            best_match = recipe
+    # return result url:
+    return best_match.url
+
+
+
 def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
 # Give a valid transformation
     cuisines = Knowledge[2]
@@ -59,7 +106,7 @@ def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
                         match = len(NUTRI.intersection(ingred_attr[candID].nutri))
                         if match > max_nutri_match:
                             substitue = cand
-                            max_nutri_match = match   
+                            max_nutri_match = match
         if substitute == 'NOT FOUND':
             if veg_safe(ingred_attr[fromID], to_cuisine_name):
                 if not mute:
@@ -73,5 +120,8 @@ def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
                 print ingred, '-->', substitute
         out_list.append(substitute)
     #out_list = list(set(out_list)) # get rid of possible duplicates
-    return out_list
+    print 'Suggested transformation:'
+    print out_list
+    print 'Looking for best match in the database...'
+    return FindSimilar(out_list, to_cuisine_name, Knowledge)
 #
