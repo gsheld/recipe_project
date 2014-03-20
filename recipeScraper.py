@@ -10,6 +10,7 @@ import re
 import sys
 import string
 import json
+import sets
 import random
 from itertools import cycle
 from pprint import pprint
@@ -21,7 +22,7 @@ from nltk.util import bigrams
 def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
-	driver = webdriver.Chrome('./chromedriver')
+	driver = webdriver.Firefox()
 	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
 
@@ -64,6 +65,11 @@ def getRecipeInfo(myURL):
 	i = 0
 	for value in ingredientSet1AmountsObjects:
 		amount = str(value.get_attribute("innerHTML"))
+		if string.find(amount, '(') > -1:
+			actualAmount = string.split(amount, '(')
+			amount = string.split(actualAmount[1], ')')
+			amount = amount[0]
+			#print actualAmount
 		qty = re.search(r"[a-z]+", amount)
 		if qty != None:
 			#print qty.group(0)
@@ -81,7 +87,7 @@ def getRecipeInfo(myURL):
 				ingredients[i]['quantity'] = myQty
 		else:
 			ingredients[i]['measurement'] = 'unit'
-			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
+			ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
 		i += 1
 
 	ingredientSet2NamesXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap secondColumn"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngName"]'
@@ -105,6 +111,11 @@ def getRecipeInfo(myURL):
 
 	for value in ingredientSet2AmountsObjects:
 		amount = str(value.get_attribute("innerHTML"))
+		if string.find(amount, '(') > -1:
+			actualAmount = string.split(amount, '(')
+			amount = string.split(actualAmount[1], ')')
+			amount = amount[0]
+			#print amount
 		qty = re.search(r"[a-z]+", amount)
 		if qty != None:
 			#print qty.group(0)
@@ -122,7 +133,7 @@ def getRecipeInfo(myURL):
 				ingredients[i]['quantity'] = myQty
 		else:
 			ingredients[i]['measurement'] = 'unit'
-			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
+			ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
 		i += 1
 
 	#pprint(ingredients)
@@ -240,6 +251,11 @@ def getRecipeInfo(myURL):
 						#if flag == 1:
 						recipeCookingUtensils.append(tool)
 		#print '1-grams done'
+	
+	utensilsSet = set(recipeCookingUtensils)
+	recipeCookingUtensils = list(utensilsSet)
+	cookingMethodsSet = set(recipeCookingMethods)
+	recipeCookingMethods = list(cookingMethodsSet)
 
 	recipe = {}
 	recipe['ingredients'] = ingredients
@@ -271,90 +287,12 @@ def getRecipeInfo(myURL):
 	#time.sleep(1)
 	#driver.quit()
 
-	"""
-	### The HTML content (treated as a giant string) is split on the basis of tags < & > ###
-
-	collector = re.split('>|<', pg_src)
-	my_iter = cycle(collector)
-	recipe = {}
-	valFlag = -1
-	flag = 0
-	tablecount = 0
-	trcount = 0
-	i = 1
-	j = 0
-	parent = ''
-	#for i in range(2):
-	my_iter.next()
-
-	### Now we cycle through our giant list of strings to find ingredient substitutions ###
-
-	for item in collector:
-		info = my_iter.next()
-		if "colspan" in item:
-			flag = 1
-			#print item, " ; ", info
-		if flag == 1 and "tr" in item:
-			#if tablecount == 3:
-			trcount += 1
-			#print item, " ; ", info
-		if trcount == 4:
-			flag = 0
-			#print 'i before incr = ', i
-			temp = item.lstrip()
-			if re.match('[A-Z]+', temp) != None:
-				parent = temp.split(',')
-				#print parent
-				#print "\n",
-				#raw_input("Press Enter to continue...")
-			if re.match('[^0-9]', temp) != None and re.match('[A-Z]+', temp) == None:
-				#print "\n",
-				#parent=",parent,'<<'
-				if len(parent) > 0:
-					if string.find(temp, '\xc2') > -1:
-						holder = string.replace(temp, '\xc2', '')
-						final = string.replace(holder, '\xa0', '')
-						temp = parent[0] + ' ' + final
-					else:
-						temp = parent[0] + temp
-					#re.sub('^\s[a-z]+', ' [a-z]+', temp)
-				#print 'updated temp=',temp,'<-'
-			if i % 2 == 0 and len(temp) > 0:
-				#re.match('\s', item.lstrip()) == None and re.match('[^a-z]', item) != None:
-				#print('| ', info, ' |'),
-				#sys.stdout.write('| ')
-				if not re.match(r'[0-9]', temp):
-					if valFlag > 0:
-						substitutions[key] = sub
-					valFlag = 0
-					key = temp
-					sub = {}
-				elif re.match(r'[0-9]', temp) and valFlag == 0:
-					sub['amount'] = temp
-					valFlag += 1
-				else:
-					#possibilities = string.split(temp, ';')
-					#for option in possibilities:
-					#	if len(option) > 2:
-					localKey = 'alternate #' + str(valFlag)
-					sub[localKey] = temp
-					valFlag += 1
-				#sys.stdout.write(temp)
-				#sys.stdout.write(' |')
-				#print
-				#j += 1
-			i += 1
-			#print item
-				#j = 0
-			if "colspan" in item:
-				return substitutions
-	"""
 
 
 ### The main function is just to call the function that does everything and gets the data ###
 
 def main():
-	object = getRecipeInfo()
+	object = getRecipeInfo(sys.argv[1])
 	return object
 
 
