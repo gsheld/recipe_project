@@ -17,6 +17,7 @@ def mainMenu():
 def transformRecipe():
 	internal = None
 	complete = None
+	transformOptions = {}
 	transformOptions['1'] = 'healthy'
 	transformOptions['2'] = 'vegetarian'
 	transformOptions['3'] = 'vegan'
@@ -26,20 +27,21 @@ def transformRecipe():
 	transformOptions['7'] = 'indian'
 	transformOptions['8'] = 'italian'
 	transformOptions['9'] = 'mexican'
+	transformWanted = '1'
 	url = raw_input('Enter the URL of the recipe you would like to transform:\n>> ')
 	print '\nTransforms possible:'
 	for key, value in transformOptions.items():
 		print key, ' - ', value
 	transformWanted = raw_input('Enter the transform of the recipe you would like to perform:\n>> ')
 
-	try:
-		internal, complete = getRecipeInfo(url)
+#	try:
+	internal, complete = getRecipeInfo(url)
 	#	transformWanted = raw_input('Enter the transform of the recipe you would like to perform:\n>> ')
-	except:
-		print '\n*** Enter a valid allrecipes.com URL ***\n'
-		transformRecipe()
+#	except:
+#		print '\n*** Enter a valid allrecipes.com URL ***\n'
+#		transformRecipe()
 
-	transformMain(internal['ingredients'], transformOptions[transformedWanted])
+	transformMain(internal['ingredients'], transformOptions[transformWanted])
 
 	raw_input('\nPress Any Key to Continue...')
 	runProgram()

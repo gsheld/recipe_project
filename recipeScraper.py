@@ -22,7 +22,8 @@ from nltk.util import bigrams
 def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
-	driver = webdriver.Chrome('./chromedriver')
+	#driver = webdriver.Chrome('./chromedriver')
+	driver = webdriver.Firefox()
 	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
 

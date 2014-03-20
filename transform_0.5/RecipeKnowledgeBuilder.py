@@ -3,6 +3,7 @@ import NLPtool
 from IngredObj import IngredObj
 import IngredRecog
 import cPickle
+import sys
 
 sys.path.append('..')
 from RecipeObject import RecipeObject
