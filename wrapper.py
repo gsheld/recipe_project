@@ -3,7 +3,7 @@ from selenium import webdriver
 from recipeScraper import getRecipeInfo
 
 sys.path.append('./transform_0.5')
-from MAIN_for_Grant import transformMain
+from MAIN_for_Grant import transformMain, whatis
 
 def mainMenu():
 	print '\nWhat would you like to do?'
@@ -25,14 +25,14 @@ def transformRecipe():
 
 	transformMain()
 
-	raw_input('\nPress Any Key to Continue.')
+	raw_input('\nPress Any Key to Continue...')
 	runProgram()
 
 def funSearch():
 	searchTerm = raw_input('Enter the ingredient you\'re curious about:\n>> ')
-	# whatis(searchTerm)
+	whatis(searchTerm)
 
-	raw_input('\nPress Any Key to Continue >> ')
+	raw_input('\nPress Any Key to Continue...')
 	runProgram()
 
 def runProgram():

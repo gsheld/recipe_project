@@ -22,7 +22,7 @@ from nltk.util import bigrams
 def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
-	driver = webdriver.Firefox()
+	driver = webdriver.Chrome('./chromedriver')
 	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
 
@@ -251,7 +251,7 @@ def getRecipeInfo(myURL):
 						#if flag == 1:
 						recipeCookingUtensils.append(tool)
 		#print '1-grams done'
-	
+
 	utensilsSet = set(recipeCookingUtensils)
 	recipeCookingUtensils = list(utensilsSet)
 	cookingMethodsSet = set(recipeCookingMethods)
