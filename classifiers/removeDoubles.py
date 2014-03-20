@@ -25,7 +25,7 @@ def removeDoubles(filename1, filename2):
 removeDoubles('italian.txt', 'italian_final.txt')
 removeDoubles('french.txt', 'french_final.txt')
 removeDoubles('indian.txt', 'indian_final.txt')
-##removeDoubles('filipino.txt','filipino_final.txt')
+removeDoubles('filipino.txt','filipino_final.txt')
 removeDoubles('american.txt','american_final.txt')
 removeDoubles('chinese.txt','chinese_final.txt')
 removeDoubles('mexican.txt','mexican_final.txt')

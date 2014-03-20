@@ -7,12 +7,12 @@ import string, time
 browser = webdriver.Firefox() 
 
 ingredientMap = {}
-ingredientDB_1 = 'http://www.mykitchentable.co.uk/index.php/2010/12/ken-hom-chinese-ingredients/'
+ingredientDB_1 = 'http://www.filipino-food-lovers.com/from-the-author/'
 #file = open('veganadd.txt', 'w')
 
 # Pulling from ingredientDB_1 #
 browser.get(ingredientDB_1)
-link1 = browser.find_elements_by_xpath('//strong')
+link1 = browser.find_elements_by_xpath('//div[@id="content"]/p')
 
 
 
