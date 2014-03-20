@@ -9,9 +9,10 @@ grain
 dairy
 spice
 fats/oils
+"american"
+healthy
 ----------
 filipino
-american
 chinese
 mexican
 
@@ -20,4 +21,3 @@ hypo-allergenic
 kid meals
 vegetarian
 vegan
-healthy

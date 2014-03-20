@@ -877,3 +877,56 @@ Ugli Fruit
 Water Coconut
 Watermelon  
 Wild Blueberries
+Canadian bacon
+turkey bacon
+smoked turkey
+lean prosciutto
+italian ham
+whole-grain bread
+rolled oats
+bran cereal
+applecauce
+prune puree
+non-trans fat butter spread
+non trans fat butter shortening
+cooking spray
+fat-free cream cheese
+low-fat cream cheese
+neufchatel
+low-fat cottage cheese
+egg whites
+whole-wheat flour
+extra-lean ground beef
+lean ground beef
+ground chicken breast
+ground turkey breast
+arugula
+chicory
+collard greens
+dandelion greens
+kale
+mustard greens
+spinach
+watercress
+evaporated skim milk
+reduced-fat milk
+fat-free milk
+wine
+balsamic vingegar
+fruit juice
+whole-wheat pasta
+brown rice
+wild rice
+bulgur
+pearl barley
+fat-free dressing
+garlic powder
+celery seed
+onion flakes
+sweet-and-sour sauce
+hot mustard sauce
+low-sodium soy sauce
+apple sauce
+sugar-free syrup
+plan low-fat yogurt
+

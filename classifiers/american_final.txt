@@ -1,169 +1,14 @@
-adobo seasoning
-american cheese, shredded
-anaheim chile
-ancho chile
-anise
-asparagus
-avocado
-basic sauce mix
-basil
-basilbay leaves
-bean
-bean 
-beet
-bell pepper
-better baking mix
-black pepper
-broccoli
-brussel sprout
-bug options:
-cabbage
-carrot
-carrots
-cauliflower
-cayenne
-celery
-cheddar or monterey jack cheese
-chervil
-chile de arbol
-chili and spice seasoning
-chipotle 
-chipotle: powder
-chive-freeze dried
-chive: rings
-chives  
-choose two of these:
-cilantro
-cinnamon
-cloves
-coriander
-corn
-corn-freeze dried
-crust:
-cucumber
-cumin
-dijon mustard
-dijon or spicy mustard
-dill
-dill weed
-dressing ingredients:
-dressing:
-dumplings:
-dynamite dressing
-eating smart seasoning mix
-english muffin
-english muffins
-fennel
-fenugreek
-filling:
-flour
-french bread
-french dressing
-french-style green beans
-garlic
-garnish:
-ginger
-gingerbread mix
-green chilies
-green tea
-habanero
-horseradish
-italian dressing
-italian dressing, light
-italian dressing, low-fat
-italian herb mix
-italian herb mix and black pepper to taste
-italian herb seasoning
-italian herbs, basil or rosemary
-italian or french bread
-italian pizza shell
-italian salad dressing
-italian salad dressing, light
-italian salad dressing, light or reduced fat
-italian salad dressing, low-fat
-italian seasoning
-italian seasoning or oregano, basil or thyme to taste
-italian style or stewed tomatoes
-jalapeno
-kale
-krab
-leek
-lemon peel
-lime juice
-lime peel
-log options:
-mace
-marjoram
-master mixes
-master mixes (oregon)
-mexican or italian style tomatoes
-mexican style tomato sauce
-monterey jack cheese
-mushroom
-mushrooms
-mustards (yellow, brown & oriental)
-nori
-nutmeg
-onion
-orange peel
-oregano
-other items needed:
-other necessary tools/equipment
-parmesan cheese
-parmesan cheese or romano cheese
-parmesan cheese, grated or other cheese
-parsley
-peas
-pepper and garlic salt with herbs
-pepperpaprika
-pico de gallo
-pita bread
-poblano
-poppy
-potato
-pumpkin
-quick chili:
-roots
-ramen noodle flavor packet
-ramen noodles
-ranch dressing, fat-free
-red chili
-red pepper
-roma tomatoes
-rosemary
-sage
-sauce ingredients:
-savory
-sesame
-shallot
-shallots
-spinach
-spread options:
-squash
-sweet potato
-swiss chard
-swiss cheese
-swiss cheese, shredded
-taco seasoning	
-tamale pie:
-tarragon
-tasty topping:
-thai chili
-thymebell pepper (red & green)
-tomato
-topping ingredients:
-turmeric
-turnip
-wasabe
-white pepper
-worcestershire sauce
-zucchini
 acorn squash
+adobo seasoning
 all-purpose flour
 allspice
 almonds
 aluminum foil
+american cheese, shredded
+anaheim chile
+ancho chile
 angel food cake mix
+anise
 apple
 apple butter
 apple cider vinegar
@@ -210,21 +55,25 @@ bananas, ripe
 barbecue sauce
 barley
 barley, quick cooking
+basic sauce mix
 basil
 basil leaves
 basil pesto, low-fat
 basil, dried (or thyme), optional (analyzed using basil)
+basilbay leaves
 bay leaf
 bay leaves
+bean
+bean 
 bean liquid
 bean sprout
 bean sprouts or chop suey mix, garlic, watercress, mushrooms, cheese, bell pepper, green onions
 bean sprouts, fresh
 beans
-beans, great northern
 beans, canned or cooked
 beans, canned, any type
 beans, dried pinto, black, or pink
+beans, great northern
 beans, low-sodium undrained
 beef
 beef bouillon
@@ -240,6 +89,7 @@ bell pepper, large
 bell peppers
 berries
 berries, frozen
+better baking mix
 biscuit mix
 black beans
 black beans or beans of your choice
@@ -294,7 +144,9 @@ brown rice, uncooked
 brown sugar
 brown sugar, firmly packed
 brown sugar, packed
+brussel sprout
 brussels sprouts
+bug options:
 bulgur
 bunch kale
 butter
@@ -355,6 +207,7 @@ catsup
 cauliflower
 cauliflower florets
 cauliflower head
+cayenne
 cayenne pepper
 celery
 celery flakes
@@ -381,6 +234,7 @@ cheddar cheese, shredded
 cheddar cheese, shredded reduced fat
 cheddar or american cheese
 cheddar or cojack cheese
+cheddar or monterey jack cheese
 cheese
 cheese (any variety)
 cheese, cheddar, reduced fat, shredded
@@ -398,6 +252,7 @@ cheese, shredded cheddar or monterey jack
 cheese, shredded low-fat
 cheese, shredded part-skim mozzarella
 cherry tomatoes
+chervil
 chick-peas
 chicken
 chicken bouillon
@@ -441,14 +296,22 @@ chicken, cooked, skinned and cubed
 chicken, skinless
 chicken, whole
 chickpeas
+chile de arbol
+chili and spice seasoning
 chili pepper flakes
 chili peppers
 chili powder
 chili powder, mild
 chili sauce
+chipotle 
+chipotle: powder
+chive-freeze dried
+chive: rings
 chives
+chives  
 chocolate chips
 chocolate syrup
+choose two of these:
 chopped apple
 chopped broccoli
 chopped cauliflower
@@ -533,6 +396,7 @@ corn syrup
 corn tortillas
 corn tortillas, small
 corn, drained
+corn-freeze dried
 cornflake crumbs
 cornflakes, crumbled
 cornmeal
@@ -577,6 +441,7 @@ crushed pineapple in juice
 crushed red pepper
 crushed tomatoes
 crushed tomatoes, undrained
+crust:
 cubed turkey
 cucumber
 cucumber, small
@@ -591,13 +456,13 @@ cut green beans
 dash cinnamon
 dehydrated onion
 deli mustard
-diced italian tomatoes
 diced apple
 diced bell pepper
 diced bell peppers
 diced celery
 diced cucumber
 diced green chilies
+diced italian tomatoes
 diced onion
 diced tomatoes
 diced tomatoes with chiles, undrained
@@ -607,9 +472,13 @@ diced tomatoes, drained
 diced tomatoes, low-sodium
 diced tomatoes, undrained
 diced tomatoes, unsalted
+dijon mustard
+dijon or spicy mustard
 dill
 dill weed
 dressing
+dressing ingredients:
+dressing:
 dried banana chips
 dried basil
 dried beans
@@ -647,7 +516,10 @@ dry pinto beans
 dry red lentils
 dry vegetable soup mix
 dry yeast
+dumplings:
+dynamite dressing
 ears of corn
+eating smart seasoning mix
 egg
 egg mix
 egg noodles
@@ -668,6 +540,8 @@ eggs, lightly beaten
 elbow macaroni
 elbow macaroni, cooked
 enchilada sauce
+english muffin
+english muffins
 envelope unflavored gelatin
 evaporated milk
 evaporated milk, non-fat
@@ -678,9 +552,11 @@ extra-sharp cheddar cheese, finely shredded
 fat-free italian dressing
 fat-free parmesan cheese
 fennel
+fenugreek
 feta cheese
 fettuccine noodles
 fettucini noodles, uncooked
+filling:
 finely chopped onion
 finely chopped pecans
 fish fillets
@@ -693,6 +569,9 @@ flour, all-purpose
 flour, white
 flour, whole wheat
 foil
+french bread
+french dressing
+french-style green beans
 fresh (or frozen unsweetened) blueberries
 fresh basil
 fresh basil leaves
@@ -756,12 +635,14 @@ garlic salt, salt, pepper
 garlic, chopped
 garlic, chopped finely
 garlic, minced
+garnish:
 gelatin
 gelatin, lemon flavored
 giblets
 ginger
 ginger root
 ginger, fresh grated
+gingerbread mix
 gingersnaps
 golden raisins
 goldfish crackers
@@ -783,12 +664,12 @@ grapes, red seedless
 grapes, seedless
 grapes, seedless, red or green
 grapes, sliced
-grated parmesan cheese
 grated carrot
 grated carrots
 grated cheddar cheese
 grated cheddar cheese, low-fat
 grated orange peel
+grated parmesan cheese
 grated sweet potatoes
 grated zucchini
 great northern beans
@@ -801,6 +682,7 @@ green cabbage
 green cabbage head
 green chile pepper
 green chiles
+green chilies
 green onion
 green onion, chopped
 green onions
@@ -813,6 +695,7 @@ green pepper, medium
 green pepper, seeded and diced
 green peppers
 green peppers, medium
+green tea
 green/red peppers
 greens
 ground beef
@@ -829,6 +712,7 @@ ground turkey
 ground turkey or ground beef
 ground turkey, 85% lean
 guacamole
+habanero
 haddock or cod fillets
 halved mushroom caps
 ham slices, 1-inch thick
@@ -861,6 +745,23 @@ instant chocolate pudding mix
 instant minced onion
 instant pudding mix, banana or vanilla
 instant vanilla pudding and pie-filling mix
+italian dressing
+italian dressing, light
+italian dressing, low-fat
+italian herb mix
+italian herb mix and black pepper to taste
+italian herb seasoning
+italian herbs, basil or rosemary
+italian or french bread
+italian pizza shell
+italian salad dressing
+italian salad dressing, light
+italian salad dressing, light or reduced fat
+italian salad dressing, low-fat
+italian seasoning
+italian seasoning or oregano, basil or thyme to taste
+italian style or stewed tomatoes
+jalapeno
 jalapeno chiles
 jalapeno chilis
 jalapeno pepper
@@ -891,6 +792,7 @@ kidney beans, drained
 kidney or pinto beans
 kiwi
 kiwifruit, cored and finely chopped
+krab
 lamb bones
 large avocado
 large egg
@@ -905,6 +807,7 @@ lasagna noodles
 lean beef
 lean ground beef
 lean pork
+leek
 lemon
 lemon (or lime) juice
 lemon juice
@@ -933,11 +836,13 @@ lime
 lime juice
 lime juice or lemon juice
 lime or orange juice
+lime peel
 lime wedges
 lime zest
 lime, juiced
 limes, juiced
 lite mayonnaise-type dressing
+log options:
 low-fat buttermilk
 low-fat cheese
 low-fat granola
@@ -949,6 +854,7 @@ lukewarm water
 macaroni
 macaroni, dry
 macaroni, uncooked
+mace
 magarine
 manadarin organges
 mandarin orange
@@ -967,6 +873,8 @@ marshmallows
 masa harina
 masa harina (corn flour, instant)
 mashed potatoes, instant
+master mixes
+master mixes (oregon)
 matzo meal
 mayonaise, reduced fat
 mayonnaise
@@ -982,6 +890,8 @@ medium potatoes, peeled and thinly sliced
 medium red onion
 melon slices
 melon, honeydew, cantaloupe or watermelon
+mexican or italian style tomatoes
+mexican style tomato sauce
 mild chiles
 mild salsa
 milk
@@ -1003,6 +913,7 @@ mixed vegetables, cooked
 mixed vegetables, fresh or frozen
 mixed vegetables, sliced and steamed
 molasses
+monterey jack cheese
 mozzarella
 mozzarella cheese
 mozzarella cheese, low-fat shredded
@@ -1027,6 +938,7 @@ mustard greens, or turnip, collard, kale, or mixture
 mustard or collard greens
 mustard powder
 mustard, spicy brown
+mustards (yellow, brown & oriental)
 navy, kidney or lima beans
 new potatoes
 non-fat dry milk
@@ -1040,6 +952,7 @@ noodles
 noodles, dry
 noodles, uncooked
 noodles, uncooked, 1/2 inch wide
+nori
 nutmeg
 nutmeg, allspice, or ginger
 nuts
@@ -1089,6 +1002,8 @@ oregano
 oregano leaves
 oregano, basil or other herb (optional)
 oregano, basil, or hot pepper
+other items needed:
+other necessary tools/equipment
 other optional fruit
 package of pasta, any shape
 pancake mix
@@ -1096,7 +1011,10 @@ papaya
 paper cups
 paper cups (3-ounce)
 paprika
+parmesan cheese
+parmesan cheese or romano cheese
 parmesan cheese, grated
+parmesan cheese, grated or other cheese
 parmesan cheese, non-fat
 parsley
 parsley flakes
@@ -1129,14 +1047,17 @@ peas
 peas, green, fresh or frozen
 pecans
 pepper
+pepper and garlic salt with herbs
 pepper flakes
-pepperjalapeno
 peppercorn
+pepperjalapeno
 pepperoni
+pepperpaprika
 pepperschili 
 perch fillets, fresh or frozen
 picante sauce
 pickle relish
+pico de gallo
 pie crust
 pimiento
 pinch of sugar
@@ -1157,6 +1078,7 @@ pink salmon
 pinto beans
 pinto or garbanzo beans, canned, drained or cooked and drained
 pinto or kidney beans
+pita bread
 pita pockets
 pita, whole wheat
 pizza sauce
@@ -1164,8 +1086,10 @@ plain yogurt
 plain yogurt, low-fat
 plantains
 plum tomatoes
+poblano
 popcorn
 popped corn
+poppy
 pork
 pork and beans
 pork chops
@@ -1190,6 +1114,7 @@ pudding mix, instant, lemon or vanilla
 pumpkin
 pumpkin pie spice
 pumpkin puree
+quick chili:
 quick oats
 quick rolled oats
 quick-cooking oats
@@ -1201,6 +1126,9 @@ raisins
 raisins or currants
 raisins, dates, or other dried fruit
 raisins, seedless
+ramen noodle flavor packet
+ramen noodles
+ranch dressing, fat-free
 ranch seasoning mix
 rapid rise yeast
 raspberries
@@ -1213,6 +1141,7 @@ red bell pepper, medium chopped
 red bell pepper, seeded and diced
 red cabbage
 red chile puree
+red chili
 red kidney beans
 red onion
 red onion, chopped
@@ -1239,9 +1168,11 @@ ricotta cheese, part-skim, 15 ounces
 ripe tomatoes
 roasted whole pumpkin seeds
 rolled oats
+roma tomatoes
 romaine lettuce
 romaine lettuces leaves
 root vegetables (choose a variety from potatoes, rutabagas, turnips, parsnips, beets, sweet potatoes, etc.)
+roots
 rosemary
 round oat cereal
 round steak
@@ -1264,7 +1195,9 @@ salt and lemon pepper, to taste
 salt and pepper
 salt and pepper, to taste
 saltine crackers
+sauce ingredients:
 sausage
+savory
 scallion stalk
 scallions
 scallions, chopped
@@ -1272,16 +1205,19 @@ seasoned pepper
 seasoned salt
 seasonings, to taste
 semolina
+sesame
 sesame oil
 sesame seeds
 sesame tahini
+shallot
+shallots
 shiitake mushrooms
 shortening
-shredded parmesan cheese
 shredded cabbage
 shredded cheese
 shredded cheese, low-fat
 shredded coconut
+shredded parmesan cheese
 shredded wheat
 shredded yellow squash
 sifted
@@ -1328,6 +1264,7 @@ spinach, shredded
 split peas
 split peas, dry
 spoons
+spread options:
 sprouted wheat
 square corn, rice or wheat cereal
 squash
@@ -1365,14 +1302,21 @@ sweet potatoes
 sweet potatoes, cooked, skin removed and mashed
 sweet potatoes, drained
 sweet red pepper
+swiss chard
+swiss cheese
+swiss cheese, shredded
 syrup or other toppings
 taco sauce
+taco seasoning	
 taco seasoning
 taco seasoning mix
 taco seasoning, reduced sodium
 taco shells
+tamale pie:
 tarragon
+tasty topping:
 teriyaki sauce, reduced sodium
+thai chili
 thinly sliced green onion
 thinly sliced squash
 thyme
@@ -1380,6 +1324,7 @@ thyme leaves
 thyme or sage
 thyme sprigs
 thyme, dried
+thymebell pepper (red & green)
 tilapia fillets
 tilapia fillets, fresh or thawed
 toasted oat cereal
@@ -1414,6 +1359,7 @@ tomatoes, diced unsalted
 tomatoes, large
 tomatoes, seeded and diced
 top loin pork chops
+topping ingredients:
 tortellini
 tortillas
 tortillas, corn
@@ -1436,6 +1382,7 @@ turkey, ground
 turkey, lean ground
 turmeric
 turmeric powder
+turnip
 turnips
 twist pretzels
 uncooked elbow macaroni
@@ -1478,6 +1425,7 @@ vinegar, white wine
 walnuts
 walnuts, lightly chopped
 warm water
+wasabe
 water
 water chestnuts, chopped
 water chestnuts, diced
@@ -1518,6 +1466,7 @@ whole wheat tortillas
 wine vinegar
 winter squash
 wooden sticks
+worcestershire sauce
 yams
 yeast
 yeast, active dry
