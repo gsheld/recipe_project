@@ -17,31 +17,37 @@ from nltk.util import ngrams
 from nltk.util import trigrams
 from nltk.util import bigrams
 
+
 def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
-
 	driver = webdriver.Chrome('./chromedriver')
 	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
-	driver.get(myURL)
 
-	### Here the recipe name is extracted ###
+	try:
+		driver.get(myURL)
 
-	recipeNameXPath = '//div[@class="detail-right fl-right"]/h1[@id="itemTitle"]'
-	recipeNameObject = driver.find_elements_by_xpath(recipeNameXPath)
+		### Here the recipe name is extracted ###
 
-	for value in recipeNameObject:
-		recipeName = value.get_attribute("innerHTML")
-	#print recipeName
+		recipeNameXPath = '//div[@class="detail-right fl-right"]/h1[@id="itemTitle"]'
+		recipeNameObject = driver.find_elements_by_xpath(recipeNameXPath)
 
-	ingredients = []
-	singleIngredient = {}
-	ingredientSet1NamesXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngName"]'
-	ingredientSet1NamesObjects = driver.find_elements_by_xpath(ingredientSet1NamesXPath)
+		for value in recipeNameObject:
+			recipeName = value.get_attribute("innerHTML")
+		#print recipeName
 
-	ingredientSet1AmountsXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngAmount"]'
-	ingredientSet1AmountsObjects = driver.find_elements_by_xpath(ingredientSet1AmountsXPath)
+		ingredients = []
+		singleIngredient = {}
+		ingredientSet1NamesXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngName"]'
+		ingredientSet1NamesObjects = driver.find_elements_by_xpath(ingredientSet1NamesXPath)
+
+		ingredientSet1AmountsXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngAmount"]'
+		ingredientSet1AmountsObjects = driver.find_elements_by_xpath(ingredientSet1AmountsXPath)
+
+	except:
+		driver.quit()
+		raise
 
 	for value in ingredientSet1NamesObjects:
 		fullSingleIngredient = str(value.get_attribute("innerHTML"))

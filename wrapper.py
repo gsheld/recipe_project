@@ -12,8 +12,12 @@ def mainMenu():
 
 def transformRecipe():
 	url = raw_input('Enter the URL of the recipe you would like to transform:\n>> ')
-	recipe = getRecipeInfo(url)
-	print recipe
+	try:
+		recipe = getRecipeInfo(url)
+		print recipe
+	except:
+		print '\n*** Enter a valid allrecipes.com URL ***\n'
+		transformRecipe()
 
 	# runProgram()
 
