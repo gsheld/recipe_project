@@ -1,0 +1,219 @@
+fat, beef tallow
+lard
+salad dressing, kraft mayo light mayonnaise
+salad dressing, kraft mayo fat free mayonnaise dressing
+salad dressing, kraft miracle whip free nonfat dressing
+salad dressing, russian dressing
+salad dressing, sesame seed dressing, regular
+salad dressing, thousand island, commercial, regular
+salad dressing, mayonnaise type, regular, with salt
+salad dressing, french dressing, reduced fat
+salad dressing, italian dressing, commercial, reduced fat
+salad dressing, russian dressing, low calorie
+salad dressing, thousand island dressing, reduced fat
+salad dressing, mayonnaise, regular
+salad dressing, mayonnaise, soybean and safflower oil, with salt
+salad dressing, mayonnaise, imitation, soybean
+salad dressing, mayonnaise, imitation, milk cream
+salad dressing, mayonnaise, imitation, soybean without cholesterol
+sandwich spread, with chopped pickle, regular, unspecified oils
+shortening, household, soybean (partially hydrogenated)-cottonseed (partially hydrogenated)
+oil, soybean, salad or cooking, (partially hydrogenated)
+oil, rice bran
+oil, wheat germ
+oil, peanut, salad or cooking
+oil, soybean, salad or cooking
+oil, coconut
+oil, olive, salad or cooking
+oil, palm
+oil, sesame, salad or cooking
+oil, sunflower, linoleic (less than 60%)
+margarine, regular, hard, soybean (hydrogenated)
+salad dressing, italian dressing, commercial, regular
+salad dressing, french dressing, commercial, regular
+margarine-like, vegetable oil spread, unspecified oils, approximately 37% fat, with salt
+salad dressing, french, home recipe
+salad dressing, home recipe, vinegar and oil
+salad dressing, french dressing, commercial, regular, without salt
+salad dressing, french dressing, reduced fat, without salt
+salad dressing, italian dressing, commercial, regular, without salt
+salad dressing, italian dressing, reduced fat, without salt
+salad dressing, mayonnaise, soybean oil, without salt
+salad dressing, french, cottonseed, oil, home recipe
+salad dressing, french dressing, fat-free
+oil, cocoa butter
+oil, cottonseed, salad or cooking
+oil, sunflower, linoleic, (approx. 65%)
+oil, safflower, salad or cooking, linoleic, (over 70%)
+oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)
+vegetable oil, palm kernel
+oil, poppyseed
+oil, tomatoseed
+oil, teaseed
+oil, grapeseed
+oil, corn, industrial and retail, all purpose salad or cooking
+fat, mutton tallow
+oil, walnut
+oil, almond
+oil, apricot kernel
+oil, soybean lecithin
+oil, hazelnut
+oil, babassu
+oil, sheanut
+salad dressing, blue or roquefort cheese dressing, commercial, regular
+oil, cupu assu
+fat, chicken
+oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed
+shortening, household, lard and vegetable oil
+oil, sunflower, linoleic, (partially hydrogenated)
+shortening bread, soybean (hydrogenated) and cottonseed
+shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)
+shortening industrial, lard and vegetable oil
+shortening frying (heavy duty), beef tallow and cottonseed
+shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)
+shortening industrial, soybean (hydrogenated) and cottonseed
+shortening frying (heavy duty), palm (hydrogenated)
+shortening household soybean (hydrogenated) and palm
+shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)
+shortening, confectionery, fractionated palm
+oil, nutmeg butter
+oil, ucuhuba butter
+fat, duck
+fat, turkey
+fat, goose
+oil, avocado
+oil, canola
+oil, mustard
+oil, sunflower, high oleic (70% and over)
+margarine-like, margarine-butter blend, soybean oil and butter
+shortening, special purpose for cakes and frostings, soybean (hydrogenated)
+shortening, special purpose for baking, soybean (hydrogenated) palm and cottonseed
+oil, oat
+fish oil, cod liver
+fish oil, herring
+fish oil, menhaden
+fish oil, menhaden, fully hydrogenated
+fish oil, salmon
+fish oil, sardine
+shortening, multipurpose, soybean (hydrogenated) and palm (hydrogenated)
+margarine-like, vegetable oil-butter spread, tub, with salt
+butter, light, stick, with salt
+butter, light, stick, without salt
+meat drippings (lard, beef tallow, mutton tallow)
+animal fat, bacon grease
+margarine, regular, 80% fat, composite, stick, with salt
+margarine, regular, 80% fat, composite, tub, with salt
+margarine-like, vegetable oil spread, 60% fat, stick, with salt
+margarine-like, vegetable oil spread, 60% fat, tub, with salt
+margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt
+shortening, vegetable, household, composite
+margarine, regular, 80% fat, composite, stick, without salt
+margarine, regular, 80% fat, composite, tub, without salt
+margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt
+margarine-like, vegetable oil spread, fat free, liquid, with salt
+margarine-like spread with yogurt, 70% fat, stick, with salt
+margarine-like spread with yogurt, approximately 40% fat, tub, with salt
+margarine, 80% fat, stick, includes regular and hydrogenated corn and soybean oils
+margarine, margarine-type vegetable oil spread, 70% fat, soybean and partially hydrogenated soybean, stick
+margarine spread, approximately 48% fat, tub
+margarine-like, vegetable oil spread, fat-free, tub
+margarine-like, vegetable oil spread, 20% fat, with salt
+margarine-like, vegetable oil spread, 20% fat, without salt
+salad dressing, thousand island dressing, fat-free
+salad dressing, italian dressing, fat-free
+salad dressing, ranch dressing, fat-free
+salad dressing, ranch dressing, commercial, regular
+salad dressing, ranch dressing, reduced fat
+salad dressing, mayonnaise, light
+oil, industrial, mid-oleic, sunflower
+oil, industrial, canola with antifoaming agent, principal uses salads, woks and light frying
+oil, industrial, canola for salads, woks and light frying
+oil, industrial, canola (partially hydrogenated) oil for deep fat frying
+oil, industrial, coconut, principal uses candy coatings, oil sprays, roasting nuts
+oil, industrial, soy (partially hydrogenated), principal uses popcorn and flavoring vegetables
+shortening, industrial, soy (partially hydrogenated), pourable liquid fry shortening
+oil, industrial, soy, refined, for woks and light frying
+oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter flavor
+oil, industrial, soy ( partially hydrogenated), all purpose
+oil, industrial, soy (partially hydrogenated ) and soy (winterized), pourable clear fry
+oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as a tortilla shortening
+margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries
+oil, industrial, palm kernel, confection fat, uses similar to high quality cocoa butter
+oil, industrial, palm kernel (hydrogenated), confection fat, uses similar to 95 degree hard butter
+oil, industrial, palm kernel (hydrogenated), confection fat, intermediate grade product
+oil, industrial, coconut, confection fat, typical basis for ice cream coatings
+oil, industrial, palm kernel (hydrogenated) , used for whipped toppings, non-dairy
+oil, industrial, coconut (hydrogenated), used for whipped toppings and coffee whiteners
+oil, industrial, palm and palm kernel, filling fat (non-hydrogenated)
+oil, industrial, palm kernel (hydrogenated), filling fat
+oil, industrial, soy (partially hydrogenated ), palm, principal uses icings and fillings
+margarine, industrial, non-dairy, cottonseed, soy oil (partially hydrogenated ), for flaky pastries
+shortening, industrial, soy (partially hydrogenated ) and corn for frying
+shortening, industrial, soy (partially hydrogenated ) for baking and confections
+margarine, industrial, soy and partially hydrogenated soy oil, use for baking, sauces and candy
+usda commodity food, oil, vegetable, soybean, refined
+usda commodity food, oil, vegetable, low saturated fat
+margarine-like spread, smart balance regular buttery spread with flax oil
+margarine-like spread, smart balance light buttery spread
+margarine-like spread, smart beat super light without saturated fat
+margarine-like spread, smart beat smart squeeze
+margarine-like spread, smart balance omega plus spread (with plant sterols &amp; fish oil)
+oil, vegetable, natreon canola, high stability, non trans, high oleic (70%)
+oil, pam cooking spray, original
+margarine, margarine-like vegetable oil spread, 67-70% fat, tub
+margarine, 80% fat, tub, canola harvest soft spread (canola, palm and palm kernel oils)
+oil, cooking and salad, enova, 80% diglycerides
+salad dressing, honey mustard dressing, reduced calorie
+margarine-like spread, benecol light spread
+salad dressing, spray-style dressing, assorted flavors
+salad dressing, mayonnaise, light, smart balance, omega plus light
+margarine-like, vegetable oil spread, approximately 37% fat, unspecified oils, with salt, with added vitamin d
+margarine, regular, 80% fat, composite, stick, with salt, with added vitamin d
+margarine, regular, 80% fat, composite, tub, with salt, with added vitamin d
+margarine-like, vegetable oil spread, 60% fat, stick, with salt, with added vitamin d
+margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin d
+margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat, with added vitamin d
+margarine, regular, 80% fat, composite, stick, without salt, with added vitamin d
+margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt, with added vitamin d
+oil, industrial, canola, high oleic
+oil, industrial, soy, low linolenic
+oil, industrial, soy, ultra low linolenic
+oil, industrial, soy, fully hydrogenated
+oil, industrial, cottonseed, fully hydrogenated
+salad dressing, honey mustard, regular
+salad dressing, poppyseed, creamy
+salad dressing, caesar, fat-free
+dressing, honey mustard, fat-free
+oil, flaxseed, contains added sliced flaxseed
+mayonnaise, reduced fat, with olive oil
+creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie
+salad dressing, peppercorn dressing, commercial, regular
+mayonnaise, reduced-calorie or diet, cholesterol-free
+salad dressing, italian dressing, reduced calorie
+vegetable oil-butter spread, reduced calorie
+salad dressing, blue or roquefort cheese dressing, light
+creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, fat-free
+creamy dressing, made with sour cream and/or buttermilk and oil, reduced calorie, cholesterol-free
+salad dressing, french dressing, reduced calorie
+mayonnaise, made with tofu
+salad dressing, blue or roquefort cheese dressing, fat-free
+salad dressing, mayonnaise-like, fat-free
+salad dressing, coleslaw dressing, reduced fat
+oil, flaxseed, cold pressed
+margarine-like, vegetable oil spread, stick or tub, sweetened
+oil, corn and canola
+margarine-like, butter-margarine blend, 80% fat, stick, without salt
+margarine-like, vegetable oil-butter spread, reduced calorie, tub, with salt
+salad dressing, caesar dressing, regular
+salad dressing, coleslaw
+salad dressing, green goddess, regular
+salad dressing, sweet and sour
+salad dressing, blue or roquefort cheese, low calorie
+salad dressing, caesar, low calorie
+butter replacement, without fat, powder
+salad dressing, buttermilk, lite
+salad dressing, mayonnaise and mayonnaise-type, low calorie
+salad dressing, bacon and tomato
+mayonnaise, low sodium, low calorie or diet
+mayonnaise dressing, no cholesterol
+oil, corn, peanut, and olive
