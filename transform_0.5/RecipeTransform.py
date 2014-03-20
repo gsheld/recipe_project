@@ -108,7 +108,7 @@ def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
                             substitue = cand
                             max_nutri_match = match
         if substitute == 'NOT FOUND':
-            if veg_safe(ingred_attr[fromID], to_cuisine_name):
+            if veg_safe_by_name(ingred, to_cuisine_name, Knowledge):
                 if not mute:
                     print "Substitute for", ingred, "not found: left unchanged"
                 substitute = ingred
