@@ -1,0 +1,182 @@
+amaranth, uncooked
+amaranth grain, cooked
+arrowroot flour
+barley, hulled
+barley, pearled, raw
+barley, pearled, cooked
+buckwheat
+buckwheat groats, roasted, dry
+buckwheat groats, roasted, cooked
+buckwheat flour, whole-groat
+bulgur, dry
+bulgur, cooked
+corn, yellow
+corn bran, crude
+corn flour, whole-grain, yellow
+corn flour, masa, enriched, white
+corn flour, degermed, unenriched, yellow
+corn flour, masa, unenriched, white
+cornmeal, whole-grain, yellow
+cornmeal, degermed, enriched, yellow
+cornmeal, self-rising, bolted, plain, enriched, yellow
+cornmeal, self-rising, bolted, with wheat flour added, enriched, yellow
+cornmeal, self-rising, degermed, enriched, yellow
+cornstarch
+couscous, dry
+couscous, cooked
+hominy, canned, white
+millet, raw
+millet, cooked
+oat bran, raw
+oat bran, cooked
+quinoa, uncooked
+rice, brown, long-grain, raw
+rice, brown, long-grain, cooked
+oats
+rice, brown, medium-grain, raw
+rice, brown, medium-grain, cooked
+rice, white, long-grain, regular, raw, enriched
+rice, white, long-grain, regular, cooked, enriched
+rice, white, long-grain, parboiled, enriched, dry
+rice, white, long-grain, parboiled, enriched, cooked
+rice, white, long-grain, precooked or instant, enriched, dry
+rice, white, long-grain, precooked or instant, enriched, prepared
+rice, white, medium-grain, raw, enriched
+rice, white, medium-grain, cooked
+rice, white, short-grain, raw
+rice, white, short-grain, cooked
+rice, white, glutinous, raw
+rice, white, glutinous, cooked
+rice, white, steamed, chinese restaurant
+rice bran, crude
+rice flour, white
+rye
+rye flour, dark
+rye flour, medium
+rye flour, light
+semolina, enriched
+sorghum
+tapioca, pearl, dry
+triticale
+triticale flour, whole-grain
+wheat, hard red spring
+wheat, hard red winter
+wheat, soft red winter
+wheat, hard white
+wheat, soft white
+wheat, durum
+wheat bran, crude
+wheat germ, crude
+wheat flour, whole-grain
+wheat flour, white, all-purpose, enriched, bleached
+wheat flour, white, all-purpose, self-rising, enriched
+wheat flour, white, bread, enriched
+wheat flour, white, cake, enriched
+wheat flour, white, tortilla mix, enriched
+wheat, sprouted
+wild rice, raw
+wild rice, cooked
+rice flour, brown
+pasta, corn, dry
+pasta, corn, cooked
+pasta, fresh-refrigerated, plain, as purchased
+pasta, fresh-refrigerated, plain, cooked
+pasta, fresh-refrigerated, spinach, as purchased
+pasta, fresh-refrigerated, spinach, cooked
+pasta, homemade, made with egg, cooked
+pasta, homemade, made without egg, cooked
+macaroni, dry, enriched
+macaroni, cooked, enriched
+macaroni, protein-fortified, dry, enriched, (n x 5.70)
+macaroni, protein-fortified, cooked, enriched, (n x 5.70)
+macaroni, vegetable, dry, enriched
+macaroni, vegetable, cooked, enriched
+macaroni, whole-wheat, dry
+macaroni, whole-wheat, cooked
+noodles, egg, dry, enriched
+noodles, egg, cooked, enriched
+noodles, egg, spinach, dry, enriched
+noodles, egg, spinach, cooked, enriched
+noodles, chinese, chow mein
+noodles, japanese, soba, dry
+noodles, japanese, soba, cooked
+noodles, japanese, somen, dry
+noodles, japanese, somen, cooked
+noodles, flat, crunchy, chinese restaurant
+spaghetti, dry, enriched
+spaghetti, cooked, enriched, without added salt
+spaghetti, protein-fortified, dry, enriched (n x 5.70)
+spaghetti, protein-fortified, cooked, enriched (n x 5.70)
+spaghetti, whole-wheat, dry
+spaghetti, whole-wheat, cooked
+spaghetti, spinach, dry
+spaghetti, spinach, cooked
+wheat flours, bread, unenriched
+barley flour or meal
+barley malt flour
+oat flour, partially debranned
+rice noodles, dry
+rice noodles, cooked
+quinoa, cooked
+wheat, kamut khorasan, uncooked
+wheat, kamut khorasan, cooked
+spelt, uncooked
+spelt, cooked
+teff, uncooked
+teff, cooked
+macaroni, protein-fortified, dry, enriched, (n x 6.25)
+macaroni, protein-fortified, cooked, enriched, (n x 6.25)
+noodles, egg, cooked, enriched, with added salt
+corn, white
+corn flour, whole-grain, blue (harina de maiz morado)
+corn flour, whole-grain, white
+corn flour, masa, enriched, yellow
+cornmeal, whole-grain, white
+spaghetti, cooked, enriched, with added salt
+cornmeal, degermed, enriched, white
+cornmeal, self-rising, bolted, plain, enriched, white
+cornmeal, self-rising, bolted, with wheat flour added, enriched, white
+cornmeal, self-rising, degermed, enriched, white
+hominy, canned, yellow
+rice, white, long-grain, regular, cooked, enriched, with salt
+wheat flour, white, all-purpose, enriched, calcium-fortified
+macaroni, cooked, unenriched
+noodles, egg, dry, unenriched
+noodles, egg, cooked, unenriched, without added salt
+spaghetti, dry, unenriched
+spaghetti, cooked, unenriched, without added salt
+cornmeal, degermed, unenriched, yellow
+rice, white, long-grain, regular, raw, unenriched
+rice, white, long-grain, regular, cooked, unenriched, without salt
+rice, white, long-grain, parboiled, unenriched, dry
+rice, white, long-grain, parboiled, unenriched, cooked
+rice, white, medium-grain, raw, unenriched
+rice, white, medium-grain, cooked, unenriched
+rice, white, short-grain, raw, unenriched
+rice, white, short-grain, cooked, unenriched
+semolina, unenriched
+wheat flour, white, all-purpose, unenriched
+macaroni, dry, unenriched
+noodles, egg, cooked, unenriched, with added salt
+spaghetti, cooked, unenriched, with added salt
+cornmeal, degermed, unenriched, white
+spaghetti, protein-fortified, cooked, enriched (n x 6.25)
+rice, white, long-grain, regular, cooked, unenriched, with salt
+wheat flour, white, all-purpose, enriched, unbleached
+spaghetti, protein-fortified, dry, enriched (n x 6.25)
+wheat flour, white (industrial), 9% protein, bleached, enriched
+wheat flour, white (industrial), 9% protein, bleached, unenriched
+wheat flour, white (industrial), 10% protein, bleached, enriched
+wheat flour, white (industrial), 10% protein, bleached, unenriched
+wheat flour, white (industrial), 10% protein, unbleached, enriched
+wheat flour, white (industrial), 11.5% protein, bleached, enriched
+wheat flour, white (industrial), 11.5% protein, bleached, unenriched
+wheat flour, white (industrial), 11.5% protein, unbleached, enriched
+wheat flour, white (industrial), 13% protein, bleached, enriched
+wheat flour, white (industrial), 13% protein, bleached, unenriched
+wheat flour, white (industrial), 15% protein, bleached, enriched
+wheat flour, white (industrial), 15% protein, bleached, unenriched
+millet flour
+sorghum flour
+wheat flour, whole-grain, soft wheat
+vital wheat gluten

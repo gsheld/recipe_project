@@ -2,7 +2,7 @@ import subprocess, sys, os, time
 from selenium import webdriver
 from recipeScraper import getRecipeInfo
 
-sys.path.append('./transform 0.5')
+sys.path.append('./transform_0.5')
 from MAIN_for_Grant import transformMain
 
 def mainMenu():
@@ -25,7 +25,7 @@ def transformRecipe():
 
 	transformMain()
 
-	raw_input('\nPress Any Key to Continue >> ')
+	raw_input('\nPress Any Key to Continue.')
 	runProgram()
 
 def funSearch():

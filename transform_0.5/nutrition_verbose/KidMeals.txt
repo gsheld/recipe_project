@@ -1,0 +1,347 @@
+snacks, fruit leather, pieces
+snacks, fruit leather, rolls
+candies, tootsie roll, chocolate-flavor roll
+candies, almond joy candy bar
+candies, twizzlers cherry bites
+candies, nestle, bit-o'-honey candy chews
+candies, nestle, butterfinger bar
+candies, butterscotch
+candies, carob, unsweetened
+candies, caramels
+candies, caramello candy bar
+candies, caramels, chocolate-flavor roll
+baking chocolate, unsweetened, liquid
+baking chocolate, unsweetened, squares
+candies, confectioner's coating, yogurt
+candies, semisweet chocolate
+candies, sweet chocolate
+candies, sweet chocolate coated fondant
+candies, hershey's golden almond solitaires
+candies, confectioner's coating, butterscotch
+candies, confectioner's coating, peanut butter
+candies, white chocolate
+ice creams, vanilla, light
+ice creams, vanilla, rich
+ice creams, french vanilla, soft-serve
+candies, york peppermint pattie
+candies, twizzlers nibs cherry bits
+candies, symphony milk chocolate bar
+desserts, flan, caramel custard, prepared-from-recipe
+ice creams, vanilla
+ice creams, vanilla, light, soft-serve
+sherbet, orange
+candies, 5th avenue candy bar
+candies, fondant, prepared-from-recipe
+candies, fudge, chocolate, prepared-from-recipe
+candies, fudge, chocolate, with nuts, prepared-from-recipe
+candies, fudge, peanut butter, prepared-from-recipe
+candies, fudge, vanilla, prepared-from-recipe
+candies, fudge, vanilla with nuts
+candies, nestle, goobers chocolate covered peanuts
+candies, gumdrops, starch jelly pieces
+candies, hard
+candies, jellybeans
+candies, kit kat wafer bar
+candies, krackel chocolate bar
+candies, nestle, baby ruth bar
+candies, twizzlers strawberry twists candy
+syrups, table blends, pancake, with butter
+ice creams, chocolate, light
+candies, mars snackfood us, mars almond bar
+candies, marshmallows
+candies, halavah, plain
+candies, nestle, oh henry! bar
+candies, nestle, chunky bar
+candies, milk chocolate
+puddings, banana, dry mix, instant, prepared with 2% milk
+puddings, banana, dry mix, regular, prepared with 2% milk
+puddings, chocolate, dry mix, instant, prepared with 2% milk
+baking chocolate, mexican, squares
+chocolate-flavored hazelnut spread
+candies, milk chocolate coated peanuts
+candies, milk chocolate coated raisins
+syrups, table blends, pancake, reduced-calorie
+syrups, table blends, pancake
+candies, hershey's pot of gold almond bar
+candies, milk chocolate, with almonds
+candies, milk chocolate, with rice cereal
+candies, mars snackfood us, milky way bar
+candies, skor toffee bar
+toppings, strawberry
+candies, truffles, prepared-from-recipe
+baking chocolate, mars snackfood us, m&amp;m's semisweet chocolate mini baking bits
+candies, mars snackfood us, m&amp;m's peanut chocolate candies
+candies, mars snackfood us, m&amp;m's milk chocolate candies
+candies, mounds candy bar
+candies, mr. goodbar chocolate bar
+candies, nestle, 100 grand bar
+candies, nestle, crunch bar and dessert topping
+baking chocolate, mars snackfood us, m&amp;m's milk chocolate mini baking bits
+candies, peanut bar
+candies, peanut brittle, prepared-from-recipe
+candies, nestle, raisinets chocolate covered raisins
+candies, reese's peanut butter cups
+candies, reese's pieces candy
+candies, rolo caramels in milk chocolate
+candies, nestle, after eight mints
+candies, sesame crunch
+candies, mars snackfood us, snickers bar
+candies, mars snackfood us, starburst fruit chews, original fruits
+candies, mars snackfood us, m&amp;m's minis milk chocolate candies
+candies, mars snackfood us, 3 musketeers bar
+candies, mars snackfood us, twix caramel cookie bars
+candies, mars snackfood us, twix peanut butter cookie bars
+candies, whatchamacallit candy bar
+chewing gum
+candies, special dark chocolate bar
+cocoa, dry powder, unsweetened
+cocoa, dry powder, unsweetened, processed with alkali
+desserts, egg custard, baked, prepared-from-recipe
+egg custards, dry mix
+egg custards, dry mix, prepared with whole milk
+cocoa, dry powder, unsweetened, hershey's european style cocoa
+gelatin desserts, dry mix
+gelatin desserts, dry mix, prepared with water
+gelatin desserts, dry mix, reduced calorie, with aspartame
+gelatin desserts, dry mix, reduced calorie, with aspartame, prepared with water
+gelatins, dry powder, unsweetened
+candies, york bites
+desserts, mousse, chocolate, prepared-from-recipe
+puddings, chocolate, ready-to-eat
+puddings, chocolate, dry mix, instant
+puddings, chocolate, dry mix, instant, prepared with whole milk
+desserts, apple crisp, prepared-from-recipe
+flan, caramel custard, dry mix
+puddings, chocolate, dry mix, regular
+puddings, chocolate, dry mix, regular, prepared with whole milk
+puddings, chocolate, dry mix, regular, prepared with 2% milk
+puddings, coconut cream, dry mix, instant, prepared with 2% milk
+puddings, rice, ready-to-eat
+puddings, rice, dry mix
+puddings, rice, dry mix, prepared with whole milk
+puddings, tapioca, dry mix
+puddings, tapioca, dry mix, prepared with whole milk
+puddings, vanilla, ready-to-eat
+puddings, vanilla, dry mix, instant
+puddings, vanilla, dry mix, instant, prepared with whole milk
+puddings, lemon, dry mix, instant, prepared with 2% milk
+egg custards, dry mix, prepared with 2% milk
+puddings, vanilla, dry mix, regular
+puddings, vanilla, dry mix, regular, prepared with whole milk
+puddings, rice, dry mix, prepared with 2% milk
+puddings, tapioca, dry mix, prepared with 2% milk
+puddings, vanilla, dry mix, regular, prepared with 2% milk
+rennin, chocolate, dry mix, prepared with 2% milk
+rennin, vanilla, dry mix, prepared with 2% milk
+candies, praline, prepared-from-recipe
+frozen novelties, ice type, fruit, no sugar added
+puddings, tapioca, ready-to-eat
+puddings, coconut cream, dry mix, regular, prepared with 2% milk
+desserts, rennin, chocolate, dry mix
+rennin, chocolate, dry mix, prepared with whole milk
+desserts, rennin, vanilla, dry mix
+rennin, vanilla, dry mix, prepared with whole milk
+desserts, rennin, tablets, unsweetened
+frostings, chocolate, creamy, ready-to-eat
+frostings, coconut-nut, ready-to-eat
+frostings, cream cheese-flavor, ready-to-eat
+frostings, vanilla, creamy, ready-to-eat
+flan, caramel custard, dry mix, prepared with 2% milk
+flan, caramel custard, dry mix, prepared with whole milk
+puddings, vanilla, ready-to-eat, fat free
+puddings, tapioca, ready-to-eat, fat free
+puddings, chocolate, ready-to-eat, fat free
+candies, hershey's milk chocolate with almond bites
+candies, reese's bites
+candies, reese's nutrageous candy bar
+frostings, chocolate, creamy, dry mix
+frostings, chocolate, creamy, dry mix, prepared with butter
+candies, heath bites
+frostings, vanilla, creamy, dry mix
+frostings, white, fluffy, dry mix
+frostings, white, fluffy, dry mix, prepared with water
+candies, hershey's, almond joy bites
+candies, hershey, reesesticks crispy wafers, peanut butter, milk chocolate
+candies, hershey, kit kat big kat bar
+candies, reese's, fast break, milk chocolate peanut butter and soft nougats
+candies, mars snackfood us, dove milk chocolate
+candies, mars snackfood us, dove dark chocolate
+candies, mars snackfood us, milky way caramels, milk chocolate covered
+candies, mars snackfood us, milky way caramels. dark chocolate covered
+ice creams, vanilla, light, no sugar added
+frozen novelties, fruit and juice bars
+ice creams, chocolate, light, no sugar added
+candies, dark chocolate coated coffee beans
+ice creams, chocolate
+ice creams, strawberry
+candies, milk chocolate coated coffee beans
+frozen novelties, ice type, lime
+frozen novelties, ice type, italian, restaurant-prepared
+frozen novelties, ice type, pop
+candies, mars snackfood us, m&amp;m's crispy chocolate candies
+frozen yogurts, vanilla, soft-serve
+fruit butters, apple
+candies, mars snackfood us, snickers munch bar
+honey
+jams and preserves
+jellies
+candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe
+candies, mars snackfood us, snickers almond bar
+marmalade, orange
+molasses
+candies, mars snackfood us, pop'ables snickers brand bite size candies
+candies, mars snackfood us, pop'ables milky way brand bite size candies
+candies, mars snackfood us, pop'ables 3 musketeers brand bite size candies
+candies, mars snackfood us, starburst fruit chews, fruit and creme
+pectin, unsweetened, dry mix
+pie fillings, apple, canned
+candies, mars snackfood us, starburst fruit chews, tropical fruits
+pie fillings, canned, cherry
+candies, mars snackfood us, starburst sour fruit chews
+puddings, banana, dry mix, instant
+puddings, banana, dry mix, instant, prepared with whole milk
+puddings, banana, dry mix, regular
+puddings, banana, dry mix, regular, prepared with whole milk
+puddings, coconut cream, dry mix, instant
+puddings, coconut cream, dry mix, instant, prepared with whole milk
+puddings, coconut cream, dry mix, regular
+puddings, coconut cream, dry mix, regular, prepared with whole milk
+candies, mars snackfood us, cocoavia chocolate bar
+candies, mars snackfood us, cocoavia blueberry and almond chocolate bar
+candies, mars snackfood us, cocoavia crispy chocolate bar
+puddings, lemon, dry mix, instant
+puddings, lemon, dry mix, instant, prepared with whole milk
+puddings, lemon, dry mix, regular
+pudding, lemon, dry mix, regular, prepared with sugar, egg yolk and water
+sugars, brown
+sugars, granulated
+sugars, powdered
+sweeteners, tabletop, aspartame, equal, packets
+sugars, maple
+syrups, chocolate, hershey's genuine chocolate flavored lite syrup
+syrups, chocolate, fudge-type
+syrups, corn, dark
+syrups, corn, light
+syrups, corn, high-fructose
+syrups, malt
+syrups, maple
+syrups, sorghum
+candies, mars snackfood us, snickers cruncher
+syrups, table blends, pancake, with 2% maple
+syrups, table blends, cane and 15% maple
+syrups, table blends, corn, refiner, and sugar
+candies, mars snackfood us, skittles wild berry bite size candies
+toppings, butterscotch or caramel
+toppings, marshmallow cream
+toppings, pineapple
+toppings, nuts in syrup
+candies, mars snackfood us, skittles tropical bite size candies
+candies, mars snackfood us, skittles sours original
+candies, mars snackfood us, skittles original bite size candies
+frostings, vanilla, creamy, dry mix, prepared with margarine
+frostings, chocolate, creamy, dry mix, prepared with margarine
+frostings, glaze, prepared-from-recipe
+candies, fudge, chocolate marshmallow, prepared-from-recipe
+candies, taffy, prepared-from-recipe
+candies, toffee, prepared-from-recipe
+candies, divinity, prepared-from-recipe
+frozen novelties, ice type, pineapple-coconut
+frozen yogurts, chocolate, soft-serve
+frostings, glaze, chocolate, prepared-from-recipe, with butter, nfsmi recipe no. c-32
+candies, semisweet chocolate, made with butter
+gelatin desserts, dry mix, with added ascorbic acid, sodium-citrate and salt
+gelatin desserts, dry mix, reduced calorie, with aspartame, added phosphorus, potassium, sodium, vitamin c
+gelatin desserts, dry mix, reduced calorie, with aspartame, no added sodium
+puddings, banana, dry mix, instant, with added oil
+puddings, banana, dry mix, regular, with added oil
+puddings, lemon, dry mix, regular, with added oil, potassium, sodium
+puddings, tapioca, dry mix, with no added salt
+puddings, vanilla, dry mix, regular, with added oil
+jams and preserves, apricot
+syrups, table blends, pancake, with 2% maple, with added potassium
+frozen novelties, juice type, popsicle scribblers
+candies, sugar-coated almonds
+cocoa, dry powder, hi-fat or breakfast, plain
+cocoa, dry powder, hi-fat or breakfast, processed with alkali
+candies, soft fruit and nut squares
+ice creams, vanilla, fat free
+sweeteners, tabletop, sucralose, splenda packets
+frozen novelties, no sugar added, fudgesicle pops
+frozen novelties, fat free fudgesicle bars
+frozen novelties, ice type, sugar free, orange, cherry, and grape popsicle pops
+frozen novelties, klondike, slim-a-bear fudge bar, 98% fat free, no sugar added
+ice creams, breyers, all natural light vanilla
+ice creams, breyers, all natural light french vanilla
+ice creams, breyers, 98% fat free vanilla
+ice creams, breyers, all natural light vanilla chocolate strawberry
+ice creams, breyers, all natural light mint chocolate chip
+ice creams, breyers, no sugar added, butter pecan
+ice creams, breyers, no sugar added, french vanilla
+ice creams, breyers, no sugar added, vanilla
+ice creams, breyers, no sugar added, vanilla fudge twirl
+ice creams, breyers, no sugar added, vanilla chocolate strawberry
+frozen novelties, klondike, slim-a-bear chocolate cone
+frozen novelties, klondike, slim-a-bear vanilla sandwich
+frozen novelties, klondike, slim-a-bear, no sugar added, stickless bar
+frozen novelties, no sugar added creamsicle pops
+frozen novelties, sugar free, creamsicle pops
+ice creams, breyers, all natural light french chocolate
+ice creams, breyers, 98% fat free chocolate
+ice creams, breyers, no sugar added, chocolate caramel
+candies, reese's fast break, milk chocolate, peanut butter, soft nougats, candy bar
+candies, mars snackfood us, cocoavia chocolate covered almonds
+ice creams, regular, low carbohydrate, vanilla
+ice creams, regular, low carbohydrate, chocolate
+chocolate, dark, 45- 59% cacao solids
+chocolate, dark, 60-69% cacao solids
+chocolate, dark, 70-85% cacao solids
+candies, chocolate, dark, nfs (45-59% cacao solids 90%; 60-69% cacao solids 5%; 70-85% cacao solids 5%)
+sweeteners, for baking, brown, contains sugar and sucralose
+sweeteners, for baking, contains sugar and sucralose
+sugar, turbinado
+sweeteners, sugar substitute, granulated, brown
+candies, crispy bar with peanut butter filling
+syrup, maple, canadian
+sweetener, syrup, agave
+candies, nestle, butterfinger crisp
+candies, m&amp;m mars 3 musketeers truffle crisp
+syrups, chocolate, hershey's sugar free, genuine chocolate flavored, lite syrup
+candies, m&amp;m mars pretzel chocolate candies
+sweetener, herbal extract powder from stevia leaf
+candies, fruit snacks, with high vitamin c
+syrups, grenadine
+pectin, liquid
+frozen novelties, ice cream type, vanilla ice cream, light, no sugar added, chocolate coated
+milk dessert, frozen, milk-fat free, chocolate
+candies, mars snackfood us, m&amp;m's peanut butter chocolate candies
+candies, mars snackfood us, twix chocolate fudge cookie bars
+frozen yogurts, chocolate, nonfat milk, sweetened without sugar
+frozen yogurts, chocolate
+frozen yogurts, flavors other than chocolate
+candies, mars snackfood us, milky way midnight bar
+candies, mars snackfood us, m&amp;m's almond chocolate candies
+gums, seed gums (includes locust bean, guar)
+syrups, dietetic
+jams and preserves, dietetic (with sodium saccharin), any flavor
+candies, chocolate covered, caramel with nuts
+candies, nougat, with almonds
+candies, gum drops, dietetic or low calorie (sorbitol)
+candies, hard, dietetic or low calorie (sorbitol)
+chewing gum, sugarless
+pie fillings, cherry, low calorie
+sweeteners, tabletop, saccharin (sodium saccharin)
+sweeteners, tabletop, fructose, dry, powder
+frozen novelties, ice cream type, sundae, prepackaged
+frozen novelties, juice type, orange
+frozen novelties, juice type, juice with cream
+frozen novelties, ice cream type, chocolate or caramel covered, with nuts
+frozen novelties, ice type, pop, with low calorie sweetener
+ice creams, chocolate, rich
+sweeteners, tabletop, fructose, liquid
+puddings, chocolate flavor, low calorie, instant, dry mix
+jellies, reduced sugar, home preserved
+pie fillings, blueberry, canned
+puddings, chocolate flavor, low calorie, regular, dry mix
+puddings, all flavors except chocolate, low calorie, regular, dry mix
+puddings, all flavors except chocolate, low calorie, instant, dry mix
+syrup, cane
