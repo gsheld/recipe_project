@@ -1,0 +1,389 @@
+chicken, broiler, rotisserie, bbq, breast meat only
+chicken, broilers or fryers, meat and skin and giblets and neck, raw
+chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, batter
+chicken, broilers or fryers, meat and skin and giblets and neck, cooked, fried, flour
+chicken, broilers or fryers, meat and skin and giblets and neck, roasted
+chicken, broilers or fryers, meat and skin and giblets and neck, stewed
+chicken, broilers or fryers, meat and skin, raw
+chicken, broilers or fryers, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, meat and skin, cooked, roasted
+chicken, broilers or fryers, meat and skin, cooked, stewed
+chicken, broilers or fryers, meat only, raw
+chicken, broilers or fryers, meat only, cooked, fried
+chicken, broilers or fryers, meat only, roasted
+chicken, broilers or fryers, meat only, stewed
+chicken, broilers or fryers, skin only, raw
+chicken, broilers or fryers, skin only, cooked, fried, batter
+chicken, broilers or fryers, skin only, cooked, fried, flour
+chicken, broilers or fryers, skin only, cooked, roasted
+chicken, broilers or fryers, skin only, cooked, stewed
+chicken, broilers or fryers, giblets, raw
+chicken, broilers or fryers, giblets, cooked, fried
+chicken, broilers or fryers, giblets, cooked, simmered
+chicken, gizzard, all classes, raw
+chicken, gizzard, all classes, cooked, simmered
+chicken, heart, all classes, raw
+chicken, heart, all classes, cooked, simmered
+chicken, liver, all classes, raw
+chicken, liver, all classes, cooked, simmered
+chicken, broilers or fryers, light meat, meat and skin, raw
+chicken, broilers or fryers, light meat, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, light meat, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, light meat, meat and skin, cooked, roasted
+chicken, broilers or fryers, light meat, meat and skin, cooked, stewed
+chicken, broilers or fryers, dark meat, meat and skin, raw
+chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, dark meat, meat and skin, cooked, roasted
+chicken, broilers or fryers, dark meat, meat and skin, cooked, stewed
+chicken, broilers or fryers, light meat, meat only, raw
+chicken, broilers or fryers, light meat, meat only, cooked, fried
+chicken, broilers or fryers, light meat, meat only, cooked, roasted
+chicken, broilers or fryers, light meat, meat only, cooked, stewed
+chicken, broilers or fryers, dark meat, meat only, raw
+chicken, broilers or fryers, dark meat, meat only, cooked, fried
+chicken, broilers or fryers, dark meat, meat only, cooked, roasted
+chicken, broilers or fryers, dark meat, meat only, cooked, stewed
+chicken, broilers or fryers, separable fat, raw
+chicken, broilers or fryers, back, meat and skin, raw
+chicken, broilers or fryers, back, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, back, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, back, meat and skin, cooked, roasted
+chicken, broilers or fryers, back, meat and skin, cooked, stewed
+chicken, broilers or fryers, back, meat only, raw
+chicken, broilers or fryers, back, meat only, cooked, fried
+chicken, broilers or fryers, back, meat only, cooked, roasted
+chicken, broilers or fryers, back, meat only, cooked, stewed
+chicken, broilers or fryers, breast, meat and skin, raw
+chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, breast, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, breast, meat and skin, cooked, roasted
+chicken, broilers or fryers, breast, meat and skin, cooked, stewed
+chicken, broiler or fryers, breast, skinless, boneless, meat only, raw
+chicken, broilers or fryers, breast, meat only, cooked, fried
+chicken, broilers or fryers, breast, meat only, cooked, roasted
+chicken, broilers or fryers, breast, meat only, cooked, stewed
+chicken, broilers or fryers, drumstick, meat and skin, raw
+chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, drumstick, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted
+chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed
+chicken, broilers or fryers, dark meat, drumstick, meat only, raw
+chicken, broilers or fryers, drumstick, meat only, cooked, fried
+chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted
+chicken, broilers or fryers, drumstick, meat only, cooked, stewed
+chicken, broilers or fryers, leg, meat and skin, raw
+chicken, broilers or fryers, leg, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, leg, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, leg, meat and skin, cooked, roasted
+chicken, broilers or fryers, leg, meat and skin, cooked, stewed
+chicken, broilers or fryers, leg, meat only, raw
+chicken, broilers or fryers, leg, meat only, cooked, fried
+chicken, broilers or fryers, leg, meat only, cooked, roasted
+chicken, broilers or fryers, leg, meat only, cooked, stewed
+chicken, broilers or fryers, neck, meat and skin, raw
+chicken, broilers or fryers, neck, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, neck, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, neck, meat and skin, cooked simmered
+chicken, broilers or fryers, neck, meat only, raw
+chicken, broilers or fryers, neck, meat only, cooked, fried
+chicken, broilers or fryers, neck, meat only, cooked, simmered
+chicken, broilers or fryers, thigh, meat and skin, raw
+chicken, broilers or fryers, thigh, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, thigh, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, thigh, meat and skin, cooked, roasted
+chicken, broilers or fryers, thigh, meat and skin, cooked, stewed
+chicken, broilers or fryers, dark meat, thigh, meat only, raw
+chicken, broilers or fryers, thigh, meat only, cooked, fried
+chicken, broilers or fryers, thigh, meat only, cooked, roasted
+chicken, broilers or fryers, thigh, meat only, cooked, stewed
+chicken, broilers or fryers, wing, meat and skin, raw
+chicken, broilers or fryers, wing, meat and skin, cooked, fried, batter
+chicken, broilers or fryers, wing, meat and skin, cooked, fried, flour
+chicken, broilers or fryers, wing, meat and skin, cooked, roasted
+chicken, broilers or fryers, wing, meat and skin, cooked, stewed
+chicken, broilers or fryers, wing, meat only, raw
+chicken, broilers or fryers, wing, meat only, cooked, fried
+chicken, broilers or fryers, wing, meat only, cooked, roasted
+chicken, broilers or fryers, wing, meat only, cooked, stewed
+chicken, roasting, meat and skin and giblets and neck, raw
+chicken, roasting, meat and skin and giblets and neck, cooked, roasted
+chicken, roasting, meat and skin, cooked, roasted
+chicken, roasting, meat only, raw
+chicken, roasting, meat only, cooked, roasted
+chicken, roasting, giblets, raw
+chicken, roasting, giblets, cooked, simmered
+chicken, roasting, light meat, meat only, raw
+chicken, roasting, light meat, meat only, cooked, roasted
+chicken, roasting, dark meat, meat only, raw
+chicken, roasting, dark meat, meat only, cooked, roasted
+chicken, stewing, meat and skin, and giblets and neck, raw
+chicken, stewing, meat and skin, and giblets and neck, cooked, stewed
+chicken, stewing, meat and skin, raw
+chicken, stewing, meat and skin, cooked, stewed
+chicken, stewing, meat only, raw
+chicken, stewing, meat only, cooked, stewed
+chicken, stewing, giblets, raw
+chicken, stewing, giblets, cooked, simmered
+chicken, stewing, light meat, meat only, raw
+chicken, stewing, light meat, meat only, cooked, stewed
+chicken, stewing, dark meat, meat only, raw
+chicken, stewing, dark meat, meat only, cooked, stewed
+chicken, capons, meat and skin and giblets and neck, raw
+chicken, capons, meat and skin and giblets and neck, cooked, roasted
+chicken, capons, meat and skin, raw
+chicken, capons, meat and skin, cooked, roasted
+chicken, capons, giblets, raw
+chicken, capons, giblets, cooked, simmered
+duck, domesticated, meat and skin, raw
+duck, domesticated, meat and skin, cooked, roasted
+duck, domesticated, meat only, raw
+duck, domesticated, meat only, cooked, roasted
+duck, domesticated, liver, raw
+duck, wild, meat and skin, raw
+duck, wild, breast, meat only, raw
+goose, domesticated, meat and skin, raw
+goose, domesticated, meat and skin, cooked, roasted
+goose, domesticated, meat only, raw
+goose, domesticated, meat only, cooked, roasted
+goose, liver, raw
+guinea hen, meat and skin, raw
+guinea hen, meat only, raw
+pheasant, raw, meat and skin
+pheasant, raw, meat only
+pheasant, breast, meat only, raw
+pheasant, leg, meat only, raw
+quail, meat and skin, raw
+quail, meat only, raw
+quail, breast, meat only, raw
+squab, (pigeon), meat and skin, raw
+squab, (pigeon), meat only, raw
+squab, (pigeon), light meat without skin, raw
+turkey, whole, meat and skin, raw
+turkey, whole, meat and skin, cooked, roasted
+turkey, whole, meat only, raw
+turkey, whole, meat only, cooked, roasted
+turkey, skin from whole, (light and dark), raw
+turkey, skin from whole (light and dark), roasted
+turkey, whole, giblets, raw
+turkey, whole, giblets, cooked, simmered
+turkey, gizzard, all classes, raw
+turkey, gizzard, all classes, cooked, simmered
+turkey, heart, all classes, raw
+turkey, heart, all classes, cooked, simmered
+turkey, liver, all classes, raw
+turkey, liver, all classes, cooked, simmered
+turkey from whole, neck, meat only, raw
+turkey from whole, neck, meat only, cooked, simmered
+turkey from whole, light meat, meat and skin, raw
+turkey from whole, light meat, meat and skin, cooked, roasted
+turkey, dark meat, meat and skin, raw
+turkey, dark meat from whole, meat and skin, cooked, roasted
+turkey from whole, light meat, raw
+turkey, all classes, light meat, cooked, roasted
+turkey from whole, dark meat, meat only, raw
+turkey, from whole, dark meat, cooked, roasted
+turkey, all classes, back, meat and skin, cooked, roasted
+turkey, all classes, breast, meat and skin, raw
+turkey, all classes, breast, meat and skin, cooked, roasted
+turkey, all classes, leg, meat and skin, raw
+turkey, all classes, leg, meat and skin, cooked, roasted
+turkey, all classes, wing, meat and skin, raw
+turkey, all classes, wing, meat and skin, cooked, roasted
+turkey, fryer-roasters, meat and skin, cooked, roasted
+turkey, back, from whole bird, non-enhanced, meat only, raw
+turkey, back, from whole bird, non-enhanced, meat only, roasted
+turkey, breast, from whole bird, non-enhanced, meat only, raw
+turkey, breast, from whole bird, non-enhanced, meat only, roasted
+turkey, wing, from whole bird, non-enhanced, meat only, raw
+turkey, wing, from whole bird, non-enhanced, meat only, roasted
+turkey, young hen, skin only, cooked, roasted
+chicken, canned, meat only, with broth
+pate de foie gras, canned (goose liver pate), smoked
+turkey, canned, meat only, with broth
+turkey, diced, light and dark meat, seasoned
+turkey and gravy, frozen
+turkey patties, breaded, battered, fried
+turkey breast, pre-basted, meat and skin, cooked, roasted
+turkey thigh, pre-basted, meat and skin, cooked, roasted
+turkey roast, boneless, frozen, seasoned, light and dark meat, raw
+turkey roast, boneless, frozen, seasoned, light and dark meat, roasted
+turkey sticks, breaded, battered, fried
+poultry, mechanically deboned, from backs and necks with skin, raw
+poultry, mechanically deboned, from backs and necks without skin, raw
+poultry, mechanically deboned, from mature hens, raw
+turkey, mechanically deboned, from turkey frames, raw
+poultry food products, ground turkey, raw
+poultry food products, ground turkey, cooked
+chicken, cornish game hens, meat and skin, raw
+chicken, cornish game hens, meat and skin, cooked, roasted
+chicken, cornish game hens, meat only, raw
+chicken, cornish game hens, meat only, cooked, roasted
+chicken, canned, no broth
+chicken, wing, frozen, glazed, barbecue flavored
+chicken, wing, frozen, glazed, barbecue flavored, heated (microwave)
+chicken, broilers or fryers, breast, skinless, boneless, meat only, enhanced, raw
+duck, young duckling, domesticated, white pekin, breast, meat and skin, boneless, cooked, roasted
+duck, young duckling, domesticated, white pekin, breast, meat only, boneless, cooked without skin, broiled
+duck, young duckling, domesticated, white pekin, leg, meat and skin, bone in, cooked, roasted
+duck, young duckling, domesticated, white pekin, leg, meat only, bone in, cooked without skin, braised
+chicken, broiler, rotisserie, bbq, drumstick, meat only
+chicken, wing, frozen, glazed, barbecue flavored, heated (conventional oven)
+chicken patty, frozen, uncooked
+chicken patty, frozen, cooked
+chicken breast tenders, breaded, cooked, microwaved
+chicken, ground, raw
+chicken, ground, crumbles, cooked, pan-browned
+chicken, broiler, rotisserie, bbq, thigh, meat only
+chicken, feet, boiled
+usda commodity chicken, canned, meat only, drained
+usda commodity, chicken, canned, meat only, with water
+usda commodity, chicken, canned, meat only, with broth
+chicken, broiler, rotisserie, bbq, wing, meat only
+chicken, broilers or fryers, back, meat only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, breast, meat only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, drumstick, meat only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, skin only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, thigh, meat only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, wing, meat only, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, back, meat and skin, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, breast, meat and skin, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, drumstick, meat and skin, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, thigh, meat and skin, cooked, rotisserie, original seasoning
+chicken, broilers or fryers, wing, meat and skin, cooked, rotisserie, original seasoning
+usda commodity, chicken fajita strips, frozen
+usda commodity, turkey taco meat, frozen, cooked
+chicken, broiler, rotisserie, bbq, skin
+chicken, broiler, rotisserie, bbq, back meat and skin
+chicken, broiler, rotisserie, bbq, breast meat and skin
+chicken, broiler, rotisserie, bbq, drumstick meat and skin
+chicken, broiler, rotisserie, bbq, thigh meat and skin
+chicken, broiler, rotisserie, bbq, wing meat and skin
+usda commodity, turkey ham, dark meat, smoked, frozen
+emu, ground, raw
+emu, ground, cooked, pan-broiled
+emu, fan fillet, raw
+emu, fan fillet, cooked, broiled
+emu, flat fillet, raw
+emu, full rump, raw
+emu, full rump, cooked, broiled
+emu, inside drum, raw
+emu, inside drums, cooked, broiled
+emu, outside drum, raw
+emu, oyster, raw
+emu, top loin, cooked, broiled
+ostrich, ground, raw
+ostrich, ground, cooked, pan-broiled
+ostrich, fan, raw
+ostrich, inside leg, raw
+ostrich, inside leg, cooked
+ostrich, inside strip, raw
+ostrich, inside strip, cooked
+ostrich, outside leg, raw
+ostrich, outside strip, raw
+ostrich, outside strip, cooked
+ostrich, oyster, raw
+ostrich, oyster, cooked
+ostrich, round, raw
+ostrich, tenderloin, raw
+ostrich, tip trimmed, raw
+ostrich, tip trimmed, cooked
+ostrich, top loin, raw
+ostrich, top loin, cooked
+chicken, liver, all classes, cooked, pan-fried
+ground turkey, fat free, raw
+ground turkey, fat free, pan-broiled crumbles
+ground turkey, fat free, patties, broiled
+ground turkey, 93% lean, 7% fat, raw
+ground turkey, 93% lean, 7% fat, pan-broiled crumbles
+ground turkey, 93% lean, 7% fat, patties, broiled
+ground turkey, 85% lean, 15% fat, raw
+ground turkey, 85% lean, 15% fat, pan-broiled crumbles
+ground turkey, 85% lean, 15% fat, patties, broiled
+chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised
+chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised
+chicken, skin (drumsticks and thighs), cooked, braised
+chicken, skin (drumsticks and thighs), raw
+chicken, skin (drumsticks and thighs), cooked, roasted
+chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised
+chicken, broilers or fryers, dark meat, thigh, meat and skin, cooked, braised
+chicken, dark meat, drumstick, meat only, enhanced, raw
+chicken, dark meat, drumstick, meat only, enhanced, cooked, roasted
+chicken, dark meat, drumstick, meat only, enhanced, cooked, braised
+chicken, dark meat, thigh, meat only, enhanced, cooked, braised
+chicken, dark meat, thigh, meat only, enhanced, raw
+chicken, dark meat, thigh, meat only, enhanced, cooked, roasted
+chicken, skin (drumsticks and thighs), enhanced, cooked, braised
+chicken, skin (drumsticks and thighs), enhanced, raw
+chicken, skin (drumsticks and thighs), enhanced, cooked, roasted
+chicken, dark meat, drumstick, meat and skin, enhanced, braised
+chicken, dark meat, drumstick, meat and skin, enhanced, raw,
+chicken, dark meat, drumstick, meat and skin, enhanced, cooked, roasted
+chicken, dark meat, thigh, meat and skin, enhanced, cooked, braised
+chicken, dark meat, thigh, meat and skin, enhanced, raw
+chicken, dark meat, thigh, meat and skin, enhanced, cooked, roasted
+chicken, broiler, rotisserie, bbq, back meat only
+turkey, dark meat from whole, enhanced, meat only, raw
+turkey, enhanced, dark meat, meat only, cooked, roasted
+turkey from whole, enhanced, light meat, meat only, raw
+turkey from whole, enhanced, light meat, meat only, cooked, roasted
+turkey, enhanced, skin from whole (light and dark), raw
+turkey, enhanced, skin from whole, (light and dark), roasted
+turkey, enhanced, dark meat from whole, meat and skin, raw
+turkey, enhanced, dark meat from whole, meat and skin, cooked, roasted
+turkey from whole, enhanced, light meat, meat and skin, raw
+turkey from whole, enhanced, light meat, meat and skin, cooked, roasted
+turkey, whole, enhanced, meat only, raw
+turkey, whole, enhanced, meat only, roasted
+turkey, whole, enhanced, meat and skin, raw
+turkey, whole, enhanced, meat and skin, roasted
+turkey, retail parts, enhanced, breast, meat only, raw
+turkey, retail parts, enhanced, breast, meat only, cooked, roasted
+turkey, retail parts, breast, meat only, raw
+turkey, retail parts, breast, meat only, cooked, roasted
+turkey, retail parts, wing, meat only, raw
+turkey, retail parts, wing, meat only, cooked, roasted
+turkey, skin, from retail parts, from dark meat, raw
+turkey, skin, from retail parts, from dark meat, cooked, roasted
+turkey, retail parts, drumstick, meat only, raw
+turkey, retail parts, thigh, meat only, raw
+turkey, breast, from whole bird, enhanced, meat only, roasted
+turkey, back, from whole bird, enhanced, meat only, raw
+turkey, back, from whole bird, enhanced, meat only, roasted
+turkey, breast, from whole bird, enhanced, meat only, raw
+turkey, retail parts, thigh, meat only, cooked, roasted
+turkey, retail parts, drumstick, meat only, cooked, roasted
+turkey, drumstick, from whole bird, enhanced, meat only, raw
+turkey, drumstick, from whole bird, enhanced, meat only, roasted
+turkey, thigh, from whole bird, enhanced, meat only, raw
+turkey, retail parts, enhanced, breast, meat and skin, raw
+turkey, thigh, from whole bird, enhanced, meat only, roasted
+turkey, wing, from whole bird, enhanced, meat only, raw
+turkey, wing, from whole bird, enhanced, meat only, roasted
+turkey, retail parts, breast, meat and skin, raw
+turkey, retail parts, breast, meat and skin, cooked, roasted
+turkey, retail parts, wing, meat and skin, raw
+turkey, retail parts, wing, meat and skin, cooked, roasted
+turkey, retail parts, drumstick, meat and skin, raw
+turkey, retail parts, drumstick, meat and skin, cooked, roasted
+turkey, drumstick, from whole bird, meat only, raw
+turkey, drumstick, from whole bird, meat only, roasted
+turkey, thigh, from whole bird, meat only, raw
+turkey, thigh, from whole bird, meat only, roasted
+turkey, retail parts, thigh, meat and skin, raw
+turkey, retail parts, thigh, meat and skin, cooked, roasted
+turkey, back, from whole bird, enhanced, meat and skin, raw
+turkey, back, from whole bird, enhanced, meat and skin, roasted
+chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised
+chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled
+chicken, broiler or fryers, breast, skinless, boneless, meat only, enhanced, cooked, braised
+chicken, broiler or fryers, breast, skinless, boneless, meat only, enhanced, cooked, grilled
+turkey bacon, cooked
+quail, cooked, total edible
+pheasant, cooked, total edible
+dove, cooked (includes squab)
+turkey, wing, smoked, cooked, with skin, bone removed
+turkey, drumstick, smoked, cooked, with skin, bone removed
+turkey, light or dark meat, smoked, cooked, with skin, bone removed
+turkey, light or dark meat, smoked, cooked, skin and bone removed

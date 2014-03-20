@@ -1,0 +1,64 @@
+spices, allspice, ground
+spices, anise seed
+spices, basil, dried
+spices, bay leaf
+spices, caraway seed
+spices, cardamom
+spices, celery seed
+spices, chervil, dried
+spices, chili powder
+spices, cinnamon, ground
+spices, cloves, ground
+spices, coriander leaf, dried
+spices, coriander seed
+spices, cumin seed
+spices, curry powder
+spices, dill seed
+spices, dill weed, dried
+spices, fennel seed
+spices, fenugreek seed
+spices, garlic powder
+spices, ginger, ground
+spices, mace, ground
+spices, marjoram, dried
+spices, mustard seed, ground
+spices, nutmeg, ground
+spices, onion powder
+spices, oregano, dried
+spices, paprika
+spices, parsley, dried
+spices, pepper, black
+spices, pepper, red or cayenne
+spices, pepper, white
+spices, poppy seed
+spices, poultry seasoning
+spices, pumpkin pie spice
+spices, rosemary, dried
+spices, saffron
+spices, sage, ground
+spices, savory, ground
+spices, tarragon, dried
+spices, thyme, dried
+spices, turmeric, ground
+basil, fresh
+dill weed, fresh
+mustard, prepared, yellow
+salt, table
+vinegar, cider
+thyme, fresh
+vanilla extract
+vanilla extract, imitation, alcohol
+vanilla extract, imitation, no alcohol
+vinegar, distilled
+capers, canned
+horseradish, prepared
+rosemary, fresh
+peppermint, fresh
+spearmint, fresh
+spearmint, dried
+vinegar, red wine
+vinegar, balsamic
+pace, dry taco seasoning mix
+seasoning mix, dry, sazon, coriander &amp; annatto
+seasoning mix, dry, taco, original
+seasoning mix, dry, chili, original
