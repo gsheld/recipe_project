@@ -87,7 +87,7 @@ def getRecipeInfo(myURL):
 				ingredients[i]['quantity'] = myQty
 		else:
 			ingredients[i]['measurement'] = 'unit'
-			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
+			ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
 		i += 1
 
 	ingredientSet2NamesXPath = '//div[@class="ingred-left"]/ul[@class="ingredient-wrap secondColumn"]/li[@id="liIngredient"]/label/p[@class="fl-ing"]/span[@id="lblIngName"]'
@@ -133,7 +133,7 @@ def getRecipeInfo(myURL):
 				ingredients[i]['quantity'] = myQty
 		else:
 			ingredients[i]['measurement'] = 'unit'
-			ingredients[i]['quantity'] = float(str(value.get_attribute("innerHTML")))
+			ingredients[i]['quantity'] = str(value.get_attribute("innerHTML"))
 		i += 1
 
 	#pprint(ingredients)
@@ -262,7 +262,7 @@ def getRecipeInfo(myURL):
 	recipe['cooking method'] = random.choice(recipeCookingMethods)
 	recipe['cooking tools'] = recipeCookingUtensils
 
-	pprint(recipe)
+	#pprint(recipe)
 
 	myInternalRecipe = {}
 	myInternalRecipe['name'] = str(recipeName)
