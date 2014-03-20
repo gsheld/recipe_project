@@ -21,6 +21,7 @@ def getRecipeInfo():
 
 	### Here the webpage with the recipe is opened ###
 
+	driver = webdriver.Chrome('./chromedriver')
 	myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	print myURL
 	driver.get(myURL)
@@ -122,6 +123,7 @@ def getRecipeInfo():
 
 	directions = []
 	i = 0
+
 	directionsXPath = '//div[@class="directLeft"]/ol/li/span'
 	directionsObjects = driver.find_elements_by_xpath(directionsXPath)
 
@@ -131,6 +133,7 @@ def getRecipeInfo():
 	#print directions
 
 	driver.quit()
+
 	cookingMethods = {}
 	with open('/Users/arundhatijaswal/Documents/Q2/NLP/recipes/recipe_project/text_files/cookingMethods.txt', 'r') as f:
 		for line in f:
@@ -205,6 +208,7 @@ def getRecipeInfo():
 					#if flag == 1:
 					recipeCookingMethods.append(method)
 			localPhrase = ''
+		#print '2-grams done'
 		for word in string.split(step, ' '):
 			#print word
 			if len(word) > 2:
@@ -230,20 +234,28 @@ def getRecipeInfo():
 						#if flag == 1:
 						recipeCookingUtensils.append(tool)
 		#print '1-grams done'
+
 	recipe = {}
 	recipe['ingredients'] = ingredients
 	recipe['cooking method'] = random.choice(recipeCookingMethods)
 	recipe['cooking tools'] = recipeCookingUtensils
 
 	pprint(recipe)
+
 	myInternalRecipe = {}
 	myInternalRecipe['name'] = str(recipeName)
 	myInternalRecipe['ingredients'] = []
 	for item in ingredients:
 		myInternalRecipe['ingredients'].append(item['name'])
+<<<<<<< HEAD
 	
 	#print myInternalRecipe
 	
+=======
+
+	print myInternalRecipe
+
+>>>>>>> FETCH_HEAD
 	f = open('recipeJson.json', 'w')
 	jobj = json.dumps(recipe)
 	f.write(jobj)
