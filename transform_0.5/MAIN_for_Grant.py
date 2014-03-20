@@ -37,15 +37,16 @@ def show_table():
         print ''
 #
 
-def transformMain(originalIngredients, transformWanted):
+def transformMain(originalIngredients, transformWanted, originalURL):
     # ENTRY POINT
     path = './transform_0.5/'     # CHANGE HERE if path for data folders are changed
     Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
     # Knowledge: [ingred_attr, nutritions, cuisines, thrown_list, frequent]
     #pprint.pprint(Knowledge[-1])
 			# ['pork','lamb','salt','deep south dry rub']	'french'
-    print RecipeTransform.transform(originalIngredients, transformWanted, Knowledge)
-    print ''
+    url = RecipeTransform.transform(originalIngredients, transformWanted, Knowledge, originalURL)
+    print url
+    return url
     #print RecipeTransform.transform(['skinless, boneless chicken breasts', 'garlic', \
     #                                    'balsamic vinegar', 'chicken broth', 'mushrooms', \
     #                                    'all-purpose flour', 'olive oil', 'butter', \

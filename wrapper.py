@@ -41,7 +41,10 @@ def transformRecipe():
 #		print '\n*** Enter a valid allrecipes.com URL ***\n'
 #		transformRecipe()
 
-	transformMain(internal['ingredients'], transformOptions[transformWanted])
+
+	finalURL = transformMain(internal['ingredients'], transformOptions[transformWanted], url)
+	driver = webdriver.Chrome('./chromedriver')
+	driver.get(finalURL)
 
 	raw_input('\nPress Any Key to Continue...')
 	runProgram()

@@ -31,7 +31,7 @@ def veg_safe_by_name(name, veg_type, Knowledge):
     return True
 
 
-def FindSimilar(from_ingreds, to_cuisine_name, Knowledge):
+def FindSimilar(from_ingreds, to_cuisine_name, Knowledge, originalURL):
 # find a similar recipe in the database
     ingred_attr = Knowledge[0]
     recipes = Knowledge[-2]
@@ -39,31 +39,32 @@ def FindSimilar(from_ingreds, to_cuisine_name, Knowledge):
     best_match = None
     from_set = set()
     for ingred in from_ingreds:
-        from_set.add(NLPtool.uni_rep(ingred))
+        from_set |= set(NLPtool.uni_rep(ingred).split())
     # look for match:
     for recipe in recipes:
-        cand_IDs = set()
-        for cand in recipe.ingredients:
-            cand_IDs.add(NLPtool.uni_rep(cand))
-        # veg check:
-        valid_flag = True
-        if to_cuisine_name in ['vegan', 'vegetarian']:
-            for ID in cand_IDs:
-                if not veg_safe_by_name(ID, to_cuisine_name, Knowledge):
-                    valid_flag = False
-        if not valid_flag:
-            continue
-        # find overlap:
-        similar = len(from_set.intersection(cand_IDs))
-        if similar > max_similar:
-            max_similar = similar
-            best_match = recipe
+        if recipe.url != originalURL:
+            cand_IDs = set()
+            for cand in recipe.ingredients:
+                cand_IDs |= set(NLPtool.uni_rep(cand).split())
+            # veg check:
+            valid_flag = True
+            if to_cuisine_name in ['vegan', 'vegetarian']:
+                for ID in cand_IDs:
+                    if not veg_safe_by_name(ID, to_cuisine_name, Knowledge):
+                        valid_flag = False
+            if not valid_flag:
+                continue
+            # find overlap:
+            similar = len(from_set.intersection(cand_IDs))
+            if similar > max_similar:
+                max_similar = similar
+                best_match = recipe
     # return result url:
     return best_match.url
 
 
 
-def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
+def transform(from_ingreds, to_cuisine_name, Knowledge, url, mute = False):
 # Give a valid transformation
     cuisines = Knowledge[2]
     ingred_attr = Knowledge[0]
@@ -123,5 +124,5 @@ def transform(from_ingreds, to_cuisine_name, Knowledge, mute = False):
     print 'Suggested transformation:'
     print out_list
     print 'Looking for best match in the database...'
-    return FindSimilar(out_list, to_cuisine_name, Knowledge)
+    return FindSimilar(out_list, to_cuisine_name, Knowledge, url)
 #
