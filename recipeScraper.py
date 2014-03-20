@@ -21,7 +21,7 @@ def getRecipeInfo():
 
 	### Here the webpage with the recipe is opened ###
 
-	driver = webdriver.Chrome('./chromedriver')
+	driver = webdriver.Firefox()
 	myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	print myURL
 	driver.get(myURL)
@@ -135,12 +135,12 @@ def getRecipeInfo():
 	driver.quit()
 
 	cookingMethods = {}
-	with open('/Users/arundhatijaswal/Documents/Q2/NLP/recipes/recipe_project/text_files/cookingMethods.txt', 'r') as f:
+	with open('./text_files/cookingMethods.txt', 'r') as f:
 		for line in f:
 			cookingMethods[string.replace(line, '\n', '').strip()] = True
 	#pprint(cookingMethods)
 	cookingUtensils = {}
-	with open('/Users/arundhatijaswal/Documents/Q2/NLP/recipes/recipe_project/text_files/cookingUtensils.txt', 'r') as f:
+	with open('./text_files/cookingUtensils.txt', 'r') as f:
 		for line in f:
 			cookingUtensils[string.replace(line, '\n', '').strip()] = True
 	#pprint(cookingUtensils)
