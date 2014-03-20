@@ -22,7 +22,7 @@ from nltk.util import bigrams
 def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
-	driver = webdriver.Chrome('./chromedriver')
+	driver = webdriver.Firefox()
 	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
 
@@ -65,6 +65,11 @@ def getRecipeInfo(myURL):
 	i = 0
 	for value in ingredientSet1AmountsObjects:
 		amount = str(value.get_attribute("innerHTML"))
+		if string.find(amount, '(') > -1:
+			actualAmount = string.split(amount, '(')
+			amount = string.split(actualAmount[1], ')')
+			amount = amount[0]
+			#print actualAmount
 		qty = re.search(r"[a-z]+", amount)
 		if qty != None:
 			#print qty.group(0)
@@ -106,6 +111,11 @@ def getRecipeInfo(myURL):
 
 	for value in ingredientSet2AmountsObjects:
 		amount = str(value.get_attribute("innerHTML"))
+		if string.find(amount, '(') > -1:
+			actualAmount = string.split(amount, '(')
+			amount = string.split(actualAmount[1], ')')
+			amount = amount[0]
+			#print amount
 		qty = re.search(r"[a-z]+", amount)
 		if qty != None:
 			#print qty.group(0)
@@ -282,7 +292,7 @@ def getRecipeInfo(myURL):
 ### The main function is just to call the function that does everything and gets the data ###
 
 def main():
-	object = getRecipeInfo()
+	object = getRecipeInfo(sys.argv[1])
 	return object
 
 
