@@ -42,3 +42,5 @@ bean
 wheat
 spice
 vinegar
+melon
+pasta

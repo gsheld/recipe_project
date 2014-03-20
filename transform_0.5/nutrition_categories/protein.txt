@@ -1,4 +1,4 @@
-anchovies
+﻿anchovies
 asparagus
 avocado
 bacon
@@ -26,7 +26,6 @@ escarole
 goji berries
 haddock fish
 hummus
-iceberg
 kale
 lamb steak
 lobster
@@ -43,3 +42,16 @@ porridge oats
 potatoes
 prawns
 ﻿almond nuts
+soy protein
+boca burger
+gardenburger
+glamorgan sausage
+in vitro meat
+leaf protein concentrate
+mock duck
+tofurkey
+veggie burger
+vegetarian bacon
+vegan sausages
+tofu
+frozen veggie burgers
