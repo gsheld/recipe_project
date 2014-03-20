@@ -2,7 +2,10 @@ import pprint
 import NLPtool
 from IngredObj import IngredObj
 import IngredRecog
+import cPickle
 
+sys.path.append('..')
+from RecipeObject import RecipeObject
 
 def txt2attr_list(folder, attr_names, Dict):
 # Read the lists for all the attribute names passed in
@@ -37,6 +40,7 @@ def add_nutrition(nutritions, ingred_attr):
 
 
 def add_cuisine(cuisines, ingred_attr, frequent_sub, thrown_list):
+#Reorganize cuisine lists by ingredients
     for cuisine_name in cuisines:
         cuisine = cuisines[cuisine_name]
         for ingred in cuisine:
@@ -58,6 +62,7 @@ def add_cuisine(cuisines, ingred_attr, frequent_sub, thrown_list):
 
 
 def load_knowledge_base(path, nutritions, cuisines):
+# Read from file to category lists
     nutri_names = ['protein', 'spice', 'vegetables',\
                    'meat', 'grain', 'protein', 'fruit',\
                    'fats_oils', 'dairy', 'condiments']
@@ -71,17 +76,43 @@ def load_knowledge_base(path, nutritions, cuisines):
 #
 
 
+def additional_logic(ingred_attr):
+# further complete the nutrition information by following rules:
+# * vegan --> vegetarian
+# * vegetables --> vegetarian
+# * fruit --> vegetarian
+# * meat --> protein
+    for ID in ingred_attr:
+        obj = ingred_attr[ID]
+        if 'meat' in obj.nutri:
+            obj.nutri.add('protein')
+        if 'vegetables' in obj.nutri or \
+               'fruit' in obj.nutri or\
+               'vegan' in obj.cuisine:
+            obj.cuisine.add('vegetarian')
+
+#
+
 def build_table(path, ingred_attr, nutritions, cuisines, thrown_list):
+# build the table by ingredient from the category lists
     add_nutrition(nutritions, ingred_attr)
     frequent = IngredRecog.nutri_for_frequent_ingred(path, ingred_attr)
     #pprint.pprint(frequent)
     add_cuisine(cuisines, ingred_attr, frequent, thrown_list)
+    additional_logic(ingred_attr)
     #print len(ingred_attr), '\n'
     return frequent
 #
 
+def load_recipes(path):
+# load the recipe list in the
+    databaseFile = open(path+'database-updated.pkl', 'rb')
+    recipes = pickle.load(databaseFile)
+    databaseFile.close()
+    return recipes
 
 def learn_ingredients(path):
+# Wrap the entire data table loading and building process
     nutritions = {}
     cuisines = {}
     ingred_attr = {}
@@ -89,7 +120,8 @@ def learn_ingredients(path):
     frequent = {}
     load_knowledge_base(path, nutritions, cuisines)
     frequent = build_table(path, ingred_attr, nutritions, cuisines, thrown_list)
-    return [ingred_attr, nutritions, cuisines, thrown_list, frequent]
+    recipes = load_recipes(path)
+    return [ingred_attr, nutritions, cuisines, thrown_list, recipes, frequent]
     #pprint.pprint(thrown_list)
     #pprint.pprint(frequent)
 #

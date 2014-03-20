@@ -1,4 +1,4 @@
-﻿ajowan / lovage
+ajowan / lovage
 all purpose flour
 almonds
 aloo / potato
@@ -220,7 +220,3 @@ yellow mustard seeds
 yellow split peas
 yogurt
 ﻿achar / chutney
-chicken
-shrimp
-sea bass
-lamb

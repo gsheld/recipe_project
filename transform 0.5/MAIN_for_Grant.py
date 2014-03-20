@@ -45,3 +45,4 @@ def transformMain():
                                         'all-purpose flour', 'olive oil', 'butter', \
                                         'dried thyme', 'bay leaf'], 'healthy', Knowledge)
 
+transformMain()

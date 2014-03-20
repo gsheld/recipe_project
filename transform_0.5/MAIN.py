@@ -5,6 +5,7 @@ from IngredObj import IngredObj
 import RecipeKnowledgeBuilder
 import IngredRecog
 import RecipeTransform
+from RecipeObject import RecipeObject
 
 
 def whatis(ingred):
@@ -55,16 +56,17 @@ def show_table():
 
 
 # ENTRY POINT
-path = '.\\'     # CHANGE HERE if path for data folders are changed
+path = './'     # CHANGE HERE if path for data folders are changed
 Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
-# Knowledge: [ingred_attr, nutritions, cuisines, thrown_list, frequent]
+# Knowledge: [ingred_attr, nutritions, cuisines, thrown_list, recipes, frequent]
 common_words(Knowledge[0], 10)
 #pprint.pprint(Knowledge[-1])
+pprint.pprint(Knowledge[-2])
 
 print RecipeTransform.transform(['pork','lamb','salt','deep south dry rub'], 'french', Knowledge)
 print ''
 print RecipeTransform.transform(['skinless, boneless chicken breasts', 'garlic', \
                                     'balsamic vinegar', 'chicken broth', 'mushrooms', \
                                     'all-purpose flour', 'olive oil', 'butter', \
-                                    'dried thyme', 'bay leaf'], 'healthy', Knowledge)
+                                    'dried thyme', 'bay leaf'], 'vegetarian', Knowledge)
 

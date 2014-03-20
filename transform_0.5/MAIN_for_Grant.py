@@ -6,8 +6,11 @@ import RecipeKnowledgeBuilder
 import IngredRecog
 import RecipeTransform
 
-
 def whatis(ingred):
+    # ENTRY POINT
+    path = './transform_0.5/'     # CHANGE HERE if path for data folders are changed
+    Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
+
     global Knowledge
     ingred_attr = Knowledge[0]
     frequent = Knowledge[-1]
@@ -23,6 +26,10 @@ def whatis(ingred):
 
 # print the entire knowledge table
 def show_table():
+    # ENTRY POINT
+    path = './transform_0.5/'     # CHANGE HERE if path for data folders are changed
+    Knowledge = RecipeKnowledgeBuilder.learn_ingredients(path)
+
     global Knowledge
     ingred_attr = Knowledge[0]
     for ID in ingred_attr:
