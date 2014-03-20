@@ -1,8 +1,8 @@
-import subprocess, sys, os
+import subprocess, sys, os, time
 from selenium import webdriver
 
 def mainMenu():
-	print '\nWhat would you like to do?\n'
+	print '\nWhat would you like to do?'
 	print '1:  TRANSFORM A RECIPE'
 	print '2:  FUN SEARCH - PART 2'
 	print '3:  EXIT\n'
@@ -43,7 +43,8 @@ def runProgram():
 		os._exit(0)
 
 	else:
-		print 'Please enter a valid input.'
+		print '\nInvalid input, try again....'
+		time.sleep(1)
 		runProgram()
 
 runProgram()
