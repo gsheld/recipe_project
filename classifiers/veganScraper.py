@@ -7,8 +7,8 @@ import string, time
 browser = webdriver.Firefox() 
 
 ingredientMap = {}
-ingredientDB_1 = 'http://www.mnn.com/food/healthy-eating/stories/vegan-grocery-list-top-50-staples-for-a-meat-free-diet'
-file = open('veganadd.txt', 'w')
+ingredientDB_1 = 'http://www.mykitchentable.co.uk/index.php/2010/12/ken-hom-chinese-ingredients/'
+#file = open('veganadd.txt', 'w')
 
 # Pulling from ingredientDB_1 #
 browser.get(ingredientDB_1)
@@ -24,4 +24,4 @@ print 'done'
 
 browser.close()
 
-file.close()
+#file.close()

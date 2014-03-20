@@ -239,3 +239,7 @@ yellow mustard seeds
 yellow split peas
 yogurt
 yogurt
+chicken
+shrimp
+sea bass
+lamb

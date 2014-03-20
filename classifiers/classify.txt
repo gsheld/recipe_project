@@ -11,13 +11,13 @@ spice
 fats/oils
 "american"
 healthy
-----------
-filipino
+vegan
+vegetarian
+kid-meals
 chinese
 mexican
+----------
+filipino
 
 allerginic
 hypo-allergenic
-kid meals
-vegetarian
-vegan
