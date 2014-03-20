@@ -1,5 +1,6 @@
 import subprocess, sys, os, time
 from selenium import webdriver
+from recipeScraper import getRecipeInfo
 
 def mainMenu():
 	print '\nWhat would you like to do?'
@@ -11,11 +12,10 @@ def mainMenu():
 
 def transformRecipe():
 	url = raw_input('Enter the URL of the recipe you would like to transform:\n>> ')
-	# Logic for transformation #
-	#
-	#
-	#
-	runProgram()
+	recipe = getRecipeInfo(url)
+	print recipe
+
+	# runProgram()
 
 def funSearch():
 	searchTerm = raw_input('Enter the ingredient you\'re curious about:\n>> ')

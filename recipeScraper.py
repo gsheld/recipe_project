@@ -17,12 +17,12 @@ from nltk.util import ngrams
 from nltk.util import trigrams
 from nltk.util import bigrams
 
-def getRecipeInfo():
+def getRecipeInfo(myURL):
 
 	### Here the webpage with the recipe is opened ###
 
-	driver = webdriver.Firefox()
-	myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
+	driver = webdriver.Chrome('./chromedriver')
+	# myURL = sys.argv[1]	#'http://allrecipes.com/Recipe/Beef-Brisket-My-Way/'
 	#print myURL
 	driver.get(myURL)
 
@@ -64,7 +64,7 @@ def getRecipeInfo():
 			ingredients[i]['measurement'] = qty.group(0)
 			myQty = string.replace(amount, str(qty.group(0)), '')
 			myQty = myQty.strip()
-			if string.find(myQty, '/') > -1:			
+			if string.find(myQty, '/') > -1:
 				qtyNum = string.split(myQty, '/')
 				if string.find(qtyNum[0], ' ') > -1:
 					numerator = string.split(qtyNum[0], ' ')
@@ -105,7 +105,7 @@ def getRecipeInfo():
 			ingredients[i]['measurement'] = qty.group(0)
 			myQty = string.replace(amount, str(qty.group(0)), '')
 			myQty = myQty.strip()
-			if string.find(myQty, '/') > -1:			
+			if string.find(myQty, '/') > -1:
 				qtyNum = string.split(myQty, '/')
 				if string.find(qtyNum[0], ' ') > -1:
 					numerator = string.split(qtyNum[0], ' ')
@@ -247,18 +247,18 @@ def getRecipeInfo():
 	myInternalRecipe['ingredients'] = []
 	for item in ingredients:
 		myInternalRecipe['ingredients'].append(item['name'])
-	
+
 	#print myInternalRecipe
-	
+
 	f = open('recipeJson.json', 'w')
 	jobj = json.dumps(recipe)
 	f.write(jobj)
 	f.close()
 	with open('recipeJson.json', 'r') as f:
 		myJobj = map(json.loads, f)
-	
+
 	return myInternalRecipe
-	
+
 	#print myJobj
 
 	#pg_src = driver.page_source.encode("utf-8")
