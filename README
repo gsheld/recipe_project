@@ -4,7 +4,7 @@ Recipe Transformer - where all your dreams come true!
 
 ************** Overview **************
 
-Don't be overwhelmed by all the files on this repository! Tis the nature of the project. This README should be able to guide you through our work. Not that our project requires that Selenium, NLTK and Google Chrome be installed on the user's computer.
+Don't be overwhelmed by all the files on this repository! Tis the nature of the project. This README should be able to guide you through our work. Note that our project requires that Selenium, NLTK and Google Chrome be installed on the user's computer.
 
 Our program is a Text-Based User Interface that will give you the following menu options:
 
