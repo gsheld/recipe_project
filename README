@@ -1,0 +1,69 @@
+------------------------------------------------------
+Recipe Transformer - where all your dreams come true!
+------------------------------------------------------
+
+************** Overview **************
+
+Don't be overwhelmed by all the files on this repository! Tis the nature of the project. This README should be able to guide you through our work. Not that our project requires that Selenium, NLTK and Google Chrome be installed on the user's computer.
+
+Our program is a Text-Based User Interface that will give you the following menu options:
+
+1:  TRANSFORM A RECIPE
+2:  FUN SEARCH - PART 2
+3:  PRINT JSON
+4:  EXIT
+
+************** Menu-options Explained **************
+
+-> TRANSFORM A RECIPE:	Input a URL form allrecipes.com and select how you would like to transform it (healthy, chinese, indian, etc.
+
+-> FUN SEARCH - PART 2: Input an ingredient you're curious about, and we'll tell you what we know about it!
+
+-> PRINT JSON: Input a URL and we'll print the relevant JSON parse as specified in the project description. ALSO, note that the JSON file itself is being output in the main recipe_project directory under the name recipeJson.json.
+
+
+************** Important Script Files **************
+
+-wrapper.py- 				<- Wrapper class that defines UI and brings together all other relevant scripts.
+
+-recipeScraper.py-			<- Parses recipe and generates JSON, given a URL.
+
+-MAIN_for_Grant.py- 		<- Probably should have changed this file's name... but its used to organize the functionality of the transformation scripts.
+
+-RecipeTransform.py-	  	<- Handles the logic for the recipe transformation and the database search for a similar recipe.
+
+-RecipeKnowledgeBuidler.py-	<- Builds the knowledge base for which we use to transform our recipes.
+
+
+NOTE: There are many more files, but they aren't entirely relevant to the program itself. They are some awesome scripts used in the construction of our recipe database, list files and anything else related to web scraaping. You can view our lists in the cuisines, nutrition_categories and nutrition_verbose folders.
+
+
+************** Recommended Use and Queries **************
+
+To setup the program, start by cloning the repo into a directory of your choice:
+
+	>> git clone https://github.com/gsheld/recipe_project
+
+
+To run the program, ensure you are in the recipe_project main folder.
+
+	>> python wrapper.py
+
+
+Here are some queries we know work well:
+
+:::: http://allrecipes.com/recipe/chicken-cordon-bleu-ii/detail.aspx?evt19=1 --> Vegetarian
+
+:::: http://allrecipes.com/recipe/sloppy-joes-ii/detail.aspx?evt19=1 --> Indian
+
+:::: http://allrecipes.com/recipe/roast-sticky-chicken-rotisserie-style/detail.aspx?evt19=1 --> French
+
+
+************** Contact Information **************
+
+If you have any questions or are having trouble getting the program to run, here are our email addresses. Don't hesitate to ask if you have any questions!
+
+- siyuancai2014@u.northwestern.edu
+- jennadiaz2015@u.northwestern.edu
+- arundhatijaswal2013@u.northwestern.edu
+- grantsheldon2013@u.northwestern.edu

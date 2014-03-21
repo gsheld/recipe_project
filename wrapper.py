@@ -30,8 +30,11 @@ def transformRecipe():
 	transformWanted = '1'
 	url = raw_input('Enter the URL of the recipe you would like to transform:\n>> ')
 	print '\nTransforms possible:'
-	for key, value in transformOptions.items():
-		print key, ' - ', value
+	keys = transformOptions.keys()
+	keys.sort()
+
+	for key in keys:
+		print key, ' - ', transformOptions[key]
 	transformWanted = raw_input('Enter the transform of the recipe you would like to perform:\n>> ')
 
 #	try:
